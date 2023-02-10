@@ -1,8 +1,8 @@
 {
-	"IsTestAds": false,
+	"IsTestAds": true,
 	"wantToSkipFirstAd": false,
 	"IsForFamily": false,
-	"disableAds": false,
+	"disableAds": true,
 	"Min_RAM_For_MAX": 2000,
 	"minPingForMAX": 50,
 	"DelayBTWTwoInterstitials": 60,
