@@ -20,7 +20,7 @@
 	},
 	"admobAdSetting": {
 		"ReadFromServer": false,
-		"IsAdmobAdsEnable": true,
+		"IsAdmobAdsEnable": false,
 		"bannerType": 1,
 		"adPosition": 0,
 		"admobAppID": "ca-app-pub-6899425020552478~7350662439",
@@ -40,7 +40,7 @@
 		]
 	},
 	"appLovinSettings": {
-		"IsAppLovinAdsEnable": true,
+		"IsAppLovinAdsEnable": false,
 		"MaxBannerPosition": 0,
 		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
 		"BannerAdUnitId": "010eef4ab882d11c",
@@ -48,13 +48,13 @@
 		"LovinRewarded": "ad396544a6002dd7"
 	},
 	"unityAdSetting": {
-		"IsUnityAdsEnable": true,
+		"IsUnityAdsEnable": false,
 		"bannerPosition": 1,
 		"unityId_IOS": "4996262",
 		"unityId_AND": "4996263"
 	},
 	"GASeting": {
-		"IsGameAnalyticsEnable": true,
+		"IsGameAnalyticsEnable": false,
 		"GA_Prefeb": {
 			"instanceID": 18186
 		},
