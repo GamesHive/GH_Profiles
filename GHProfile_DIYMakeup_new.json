@@ -2,7 +2,7 @@
 	"IsTestAds": true,
 	"wantToSkipFirstAd": false,
 	"IsForFamily": false,
-	"disableAds": true,
+	"disableAds": false,
 	"Min_RAM_For_MAX": 2000,
 	"minPingForMAX": 50,
 	"DelayBTWTwoInterstitials": 60,
