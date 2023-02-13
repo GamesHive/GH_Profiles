@@ -1,11 +1,11 @@
 {
-	"IsTestAds": true,
+	"IsTestAds": false,
 	"wantToSkipFirstAd": false,
 	"IsForFamily": false,
-	"disableAds": true,
-	"Min_RAM_For_MAX": 2000,
+	"disableAds": false,
+	"Min_RAM_For_MAX": 1500,
 	"minPingForMAX": 50,
-	"DelayBTWTwoInterstitials": 60,
+	"DelayBTWTwoInterstitials": 35,
 	"ShowAdAfterInactive": 30,
 	"useFirebase": true,
 	"rateUsSetting": {
