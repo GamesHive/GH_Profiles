@@ -2,15 +2,16 @@
 	"IsTestAds": false,
 	"wantToSkipFirstAd": false,
 	"IsForFamily": false,
-	"disableAds": false,
+	"disableAds": true,
+	"disableBanner": false,
 	"Min_RAM_For_MAX": 1500,
 	"minPingForMAX": 50,
 	"DelayBTWTwoInterstitials": 35,
 	"ShowAdAfterInactive": 30,
 	"useFirebase": true,
 	"rateUsSetting": {
-		"iosAppID": "",
-		"googlePlayBundleID": "",
+		"iosAppID": "N/A",
+		"googlePlayBundleID": "com.gameshive.fulltheglass",
 		"FirstShowLevel": 3,
 		"PostPonedLevels": 3
 	},
@@ -20,47 +21,44 @@
 	},
 	"admobAdSetting": {
 		"ReadFromServer": false,
-		"IsAdmobAdsEnable": true,
+		"IsAdmobAdsEnable": false,
 		"bannerType": 1,
-		"adPosition": 0,
-		"admobAppID": "ca-app-pub-6899425020552478~7350662439",
-		"admobBanner": "ca-app-pub-3940256099942544/6300978111",
-		"admobDefulatInterstial": "ca-app-pub-3940256099942544/1033173712",
-		"admobAppOpen": "ca-app-pub-3940256099942544/3419835294",
+		"adPosition": 1,
+		"admobAppID": "ca-app-pub-6899425020552478~4269316838",
+		"admobBanner": "ca-app-pub-6899425020552478/9900917461",
+		"admobDefulatInterstial": "ca-app-pub-6899425020552478/8819754170",
+		"admobAppOpen": "ca-app-pub-6899425020552478/9201759482",
 		"admobRewardedInterstial": "ca-app-pub-3940256099942544/1033173712",
 		"admobNative": "ca-app-pub-3940256099942544/2247696110",
-		"defualtAdmobRewarded": "ca-app-pub-3940256099942544/5224354917",
+		"defualtAdmobRewarded": "ca-app-pub-6899425020552478/3567427494",
 		"admobInterstial_ECPM_order": [
-			"ca-app-pub-6899425020552478/1585669553",
-			"ca-app-pub-6899425020552478/2707179531"
+			"ca-app-pub-6899425020552478/9037559210",
+			"ca-app-pub-6899425020552478/5238463747"
 		],
 		"admobRewarded_ECPM_order": [
-			"ca-app-pub-6899425020552478/1202526172",
-			"ca-app-pub-6899425020552478/6183390117"
+			"ca-app-pub-6899425020552478/4906742515",
+			"ca-app-pub-6899425020552478/8411421999"
 		]
 	},
 	"appLovinSettings": {
 		"ReadFromServer": false,
 		"IsAppLovinAdsEnable": false,
-		"MaxBannerPosition": 0,
+		"MaxBannerPosition": 7,
 		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
-		"BannerAdUnitId": "010eef4ab882d11c",
-		"LovinInter": "e47cafa22f460090",
-		"LovinRewarded": "ad396544a6002dd7"
+		"BannerAdUnitId": "bbc5c4798e6b94e0",
+		"LovinInter": "a9856467cb44d184",
+		"LovinRewarded": "caa59785078b813e"
 	},
 	"unityAdSetting": {
-		"IsUnityAdsEnable": true,
-		"bannerPosition": 1,
-		"unityId_IOS": "4996262",
-		"unityId_AND": "4996263"
+		"IsUnityAdsEnable": false,
+		"bannerPosition": 0,
+		"unityId_IOS": "5174988",
+		"unityId_AND": "5174989"
 	},
 	"GASeting": {
-		"IsGameAnalyticsEnable": true,
-		"GA_Prefeb": {
-			"instanceID": 18186
-		},
-		"GA_GameKey_Android": "597385944f6c8cb1084b05cd5aa506ee",
-		"GA_SecretKey_Android": "0fbd6a77eae92d998f2ad9c6fe32709b662c1996",
+		"IsGameAnalyticsEnable": false,
+		"GA_GameKey_Android": "d03826894f3da8b57c5bdd73599abf86",
+		"GA_SecretKey_Android": "27656abf0a5e244fa80ca88d07a694a81e714174",
 		"GA_SecretKey_IOS": "N/A",
 		"GA_GameKey_IOS": "N/A"
 	}
