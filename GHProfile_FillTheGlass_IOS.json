@@ -57,9 +57,9 @@
 	},
 	"GASeting": {
 		"IsGameAnalyticsEnable": false,
-		"GA_GameKey_Android": "e51e8756e688218a97b8df536b101fd2",
-		"GA_SecretKey_Android": "dc232cc7cf4d56312dd3530b5b8f1b62b56c5d60",
-		"GA_SecretKey_IOS": "N/A",
-		"GA_GameKey_IOS": "N/A"
+		"GA_GameKey_Android": "N/A",
+		"GA_SecretKey_Android": "N/A",
+		"GA_SecretKey_IOS": "dc232cc7cf4d56312dd3530b5b8f1b62b56c5d60",
+		"GA_GameKey_IOS": "e51e8756e688218a97b8df536b101fd2"
 	}
 }
