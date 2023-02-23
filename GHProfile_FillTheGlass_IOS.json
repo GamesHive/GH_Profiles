@@ -1,0 +1,65 @@
+{
+	"IsTestAds": false,
+	"wantToSkipFirstAd": false,
+	"IsForFamily": false,
+	"disableAds": true,
+	"disableBanner": false,
+	"Min_RAM_For_MAX": 1500,
+	"minPingForMAX": 50,
+	"DelayBTWTwoInterstitials": 35,
+	"ShowAdAfterInactive": 30,
+	"useFirebase": true,
+	"rateUsSetting": {
+		"iosAppID": "N/A",
+		"googlePlayBundleID": "com.gameshive.fulltheglass",
+		"FirstShowLevel": 3,
+		"PostPonedLevels": 3
+	},
+	"flightModeSetting": {
+		"UseInternetPrompt": true,
+		"DelayBetweenInternetCheck": 15
+	},
+	"admobAdSetting": {
+		"ReadFromServer": false,
+		"IsAdmobAdsEnable": false,
+		"bannerType": 1,
+		"adPosition": 1,
+		"admobAppID": "ca-app-pub-6899425020552478~4269316838",
+		"admobBanner": "ca-app-pub-6899425020552478/9900917461",
+		"admobDefulatInterstial": "ca-app-pub-6899425020552478/8819754170",
+		"admobAppOpen": "ca-app-pub-6899425020552478/9201759482",
+		"admobRewardedInterstial": "ca-app-pub-3940256099942544/1033173712",
+		"admobNative": "ca-app-pub-3940256099942544/2247696110",
+		"defualtAdmobRewarded": "ca-app-pub-6899425020552478/3567427494",
+		"admobInterstial_ECPM_order": [
+			"ca-app-pub-6899425020552478/9037559210",
+			"ca-app-pub-6899425020552478/5238463747"
+		],
+		"admobRewarded_ECPM_order": [
+			"ca-app-pub-6899425020552478/4906742515",
+			"ca-app-pub-6899425020552478/8411421999"
+		]
+	},
+	"appLovinSettings": {
+		"ReadFromServer": false,
+		"IsAppLovinAdsEnable": false,
+		"MaxBannerPosition": 7,
+		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
+		"BannerAdUnitId": "bbc5c4798e6b94e0",
+		"LovinInter": "a9856467cb44d184",
+		"LovinRewarded": "caa59785078b813e"
+	},
+	"unityAdSetting": {
+		"IsUnityAdsEnable": false,
+		"bannerPosition": 0,
+		"unityId_IOS": "5174988",
+		"unityId_AND": "5174989"
+	},
+	"GASeting": {
+		"IsGameAnalyticsEnable": false,
+		"GA_GameKey_Android": "d03826894f3da8b57c5bdd73599abf86",
+		"GA_SecretKey_Android": "27656abf0a5e244fa80ca88d07a694a81e714174",
+		"GA_SecretKey_IOS": "N/A",
+		"GA_GameKey_IOS": "N/A"
+	}
+}
