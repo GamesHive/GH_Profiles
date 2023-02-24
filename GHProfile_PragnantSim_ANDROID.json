@@ -1,0 +1,65 @@
+{
+	"IsTestAds": false,
+	"wantToSkipFirstAd": false,
+	"IsForFamily": false,
+	"disableAds": true,
+	"disableBanner": false,
+	"Min_RAM_For_MAX": 1500,
+	"minPingForMAX": 50,
+	"DelayBTWTwoInterstitials": 35,
+	"ShowAdAfterInactive": 30,
+	"useFirebase": true,
+	"rateUsSetting": {
+		"iosAppID": "N/A",
+		"googlePlayBundleID": "com.gameshive.pregnantsim",
+		"FirstShowLevel": 3,
+		"PostPonedLevels": 3
+	},
+	"flightModeSetting": {
+		"UseInternetPrompt": true,
+		"DelayBetweenInternetCheck": 15
+	},
+	"admobAdSetting": {
+		"ReadFromServer": false,
+		"IsAdmobAdsEnable": false,
+		"bannerType": 1,
+		"adPosition": 1,
+		"admobAppID": "ca-app-pub-6899425020552478~7996808857",
+		"admobBanner": "ca-app-pub-6899425020552478/8053467416",
+		"admobDefulatInterstial": "ca-app-pub-6899425020552478/4544649006",
+		"admobAppOpen": "ca-app-pub-6899425020552478/2306605697",
+		"admobRewardedInterstial": "ca-app-pub-3940256099942544/1033173712",
+		"admobNative": "ca-app-pub-3940256099942544/2247696110",
+		"defualtAdmobRewarded": "ca-app-pub-6899425020552478/7819864822",
+		"admobInterstial_ECPM_order": [
+			"ca-app-pub-6899425020552478/9448622758",
+			"ca-app-pub-6899425020552478/2980514804"
+		],
+		"admobRewarded_ECPM_order": [
+			"ca-app-pub-6899425020552478/5849687893",
+			"ca-app-pub-6899425020552478/4536606225"
+		]
+	},
+	"appLovinSettings": {
+		"ReadFromServer": false,
+		"IsAppLovinAdsEnable": false,
+		"MaxBannerPosition": 7,
+		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
+		"BannerAdUnitId": "44c9d8ec83007a03",
+		"LovinInter": "05d1fb9bfc9b066e",
+		"LovinRewarded": "ed05a63d4e8bcf44"
+	},
+	"unityAdSetting": {
+		"IsUnityAdsEnable": false,
+		"bannerPosition": 4,
+		"unityId_IOS": "5158739",
+		"unityId_AND": "5158738"
+	},
+	"GASeting": {
+		"IsGameAnalyticsEnable": false,
+		"GA_GameKey_Android": "c49ef57bf678beadc090a568c9e97920",
+		"GA_SecretKey_Android": "668adac41fb607bdf48ab9ef420dd591f041567a",
+		"GA_SecretKey_IOS": "N/A",
+		"GA_GameKey_IOS": "N/A"
+	}
+}
