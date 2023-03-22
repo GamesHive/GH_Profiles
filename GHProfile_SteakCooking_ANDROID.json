@@ -1,0 +1,65 @@
+{
+	"IsTestAds": false,
+	"wantToSkipFirstAd": false,
+	"IsForFamily": false,
+	"disableAds": false,
+	"disableBanner": false,
+	"Min_RAM_For_MAX": 1500,
+	"minPingForMAX": 50,
+	"DelayBTWTwoInterstitials": 35,
+	"ShowAdAfterInactive": 30,
+	"useFirebase": true,
+	"rateUsSetting": {
+		"iosAppID": "N/A",
+		"googlePlayBundleID": "com.gameshive.steakcooking",
+		"FirstShowLevel": 3,
+		"PostPonedLevels": 3
+	},
+	"flightModeSetting": {
+		"UseInternetPrompt": true,
+		"DelayBetweenInternetCheck": 15
+	},
+	"admobAdSetting": {
+		"ReadFromServer": false,
+		"IsAdmobAdsEnable": false,
+		"bannerType": 1,
+		"adPosition": 0,
+		"admobAppID": "ca-app-pub-6899425020552478~8119806868",
+		"admobBanner": "ca-app-pub-6899425020552478/4037091629",
+		"admobDefulatInterstial": "ca-app-pub-6899425020552478/1584234396",
+		"admobAppOpen": "ca-app-pub-6899425020552478/7569066857",
+		"admobRewardedInterstial": "ca-app-pub-3940256099942544/1033173712",
+		"admobNative": "ca-app-pub-3940256099942544/2247696110",
+		"defualtAdmobRewarded": "ca-app-pub-6899425020552478/3206391533",
+		"admobInterstial_ECPM_order": [
+			"",
+			""
+		],
+		"admobRewarded_ECPM_order": [
+			"",
+			""
+		]
+	},
+	"appLovinSettings": {
+		"ReadFromServer": false,
+		"IsAppLovinAdsEnable": false,
+		"MaxBannerPosition": 6,
+		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
+		"AppOpenId": "ae67c13b670160d6",
+		"BannerAdUnitId": "261db1cde0be1a27",
+		"LovinInter": "53ae4ce0bcad378d",
+		"LovinRewarded": "55833f64cca6d171"
+	},
+	"unityAdSetting": {
+		"IsUnityAdsEnable": false,
+		"unityId_IOS": "5009874",
+		"unityId_AND": "5009875"
+	},
+	"GASeting": {
+		"IsGameAnalyticsEnable": true,
+		"GA_GameKey_Android": "87386032b73170fde23e7dbaed48d177",
+		"GA_SecretKey_Android": "7e5f8b30ce632fa7028e07379b3cb8f70e22f393",
+		"GA_SecretKey_IOS": "N/A",
+		"GA_GameKey_IOS": "N/A"
+	}
+}
