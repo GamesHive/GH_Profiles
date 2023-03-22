@@ -27,7 +27,7 @@
 		"admobAppID": "ca-app-pub-6899425020552478~2525625442",
 		"admobBanner": "ca-app-pub-6899425020552478/4500217946",
 		"admobDefulatInterstial": "ca-app-pub-6899425020552478/6200861167",
-		"admobAppOpen": "",
+		"admobAppOpen": "ca-app-pub-6899425020552478/3792375890",
 		"admobRewardedInterstial": "ca-app-pub-3940256099942544/1033173712",
 		"admobNative": "ca-app-pub-3940256099942544/2247696110",
 		"defualtAdmobRewarded": "ca-app-pub-6899425020552478/7758604979",
@@ -52,8 +52,8 @@
 	},
 	"unityAdSetting": {
 		"IsUnityAdsEnable": false,
-		"unityId_IOS": "4996262",
-		"unityId_AND": "4996263"
+		"unityId_IOS": "5009778",
+		"unityId_AND": "5009779"
 	},
 	"GASeting": {
 		"IsGameAnalyticsEnable": true,
