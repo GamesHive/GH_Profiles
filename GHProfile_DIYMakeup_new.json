@@ -43,7 +43,7 @@
 	"appLovinSettings": {
 		"ReadFromServer": false,
 		"IsAppLovinAdsEnable": true,
-		"MaxBannerPosition": 0,
+		"MaxBannerPosition": 1,
 		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
 		"BannerAdUnitId": "010eef4ab882d11c",
 		"LovinInter": "e47cafa22f460090",
