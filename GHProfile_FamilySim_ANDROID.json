@@ -2,7 +2,7 @@
 	"IsTestAds": false,
 	"wantToSkipFirstAd": false,
 	"IsForFamily": false,
-	"disableAds": true,
+	"disableAds": false,
 	"disableBanner": false,
 	"Min_RAM_For_MAX": 1500,
 	"minPingForMAX": 50,
@@ -23,7 +23,7 @@
 		"ReadFromServer": false,
 		"IsAdmobAdsEnable": false,
 		"bannerType": 1,
-		"adPosition": 0,
+		"adPosition": 4,
 		"admobAppID": "ca-app-pub-6899425020552478~8354367312",
 		"admobBanner": "ca-app-pub-6899425020552478/7086691138",
 		"admobDefulatInterstial": "ca-app-pub-6899425020552478/9465103155",
@@ -43,7 +43,7 @@
 	"appLovinSettings": {
 		"ReadFromServer": false,
 		"IsAppLovinAdsEnable": true,
-		"MaxBannerPosition": 0,
+		"MaxBannerPosition": 6,
 		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
 		"AppOpenId": "336cbec8c38c6c43",
 		"BannerAdUnitId": "f0ddfd021d8797fb",
@@ -52,7 +52,7 @@
 	},
 	"unityAdSetting": {
 		"IsUnityAdsEnable": false,
-		"bannerPosition": 1,
+		"bannerPosition": 3,
 		"unityId_IOS": "5009854",
 		"unityId_AND": "5009855"
 	},
