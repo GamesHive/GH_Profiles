@@ -52,6 +52,7 @@
 	},
 	"unityAdSetting": {
 		"IsUnityAdsEnable": true,
+		"bannerPosition": 1,
 		"unityId_IOS": "5009778",
 		"unityId_AND": "5009779"
 	},

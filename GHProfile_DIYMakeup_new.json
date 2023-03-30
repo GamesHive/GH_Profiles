@@ -21,7 +21,7 @@
 	},
 	"admobAdSetting": {
 		"ReadFromServer": false,
-		"IsAdmobAdsEnable": false,
+		"IsAdmobAdsEnable": true,
 		"bannerType": 1,
 		"adPosition": 0,
 		"admobAppID": "ca-app-pub-6899425020552478~7350662439",

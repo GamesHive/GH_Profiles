@@ -4,7 +4,7 @@
 	"IsForFamily": false,
 	"disableAds": false,
 	"disableBanner": false,
-	"Min_RAM_For_MAX": 1500,
+	"Min_RAM_For_MAX": 500,
 	"minPingForMAX": 50,
 	"DelayBTWTwoInterstitials": 35,
 	"ShowAdAfterInactive": 30,
