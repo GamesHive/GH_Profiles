@@ -4,9 +4,9 @@
 	"IsForFamily": false,
 	"disableAds": false,
 	"disableBanner": false,
-	"Min_RAM_For_MAX": 1500,
+	"Min_RAM_For_MAX": 500,
 	"minPingForMAX": 50,
-	"DelayBTWTwoInterstitials": 35,
+	"DelayBTWTwoInterstitials": 30,
 	"ShowAdAfterInactive": 30,
 	"useFirebase": true,
 	"rateUsSetting": {
@@ -21,7 +21,7 @@
 	},
 	"admobAdSetting": {
 		"ReadFromServer": false,
-		"IsAdmobAdsEnable": false,
+		"IsAdmobAdsEnable": true,
 		"bannerType": 1,
 		"adPosition": 0,
 		"admobAppID": "ca-app-pub-6899425020552478~2525625442",
@@ -51,7 +51,7 @@
 		"LovinRewarded": "6184fcf32b63203e"
 	},
 	"unityAdSetting": {
-		"IsUnityAdsEnable": false,
+		"IsUnityAdsEnable": true,
 		"unityId_IOS": "5009778",
 		"unityId_AND": "5009779"
 	},
