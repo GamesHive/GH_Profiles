@@ -43,7 +43,7 @@
 	"appLovinSettings": {
 		"ReadFromServer": false,
 		"IsAppLovinAdsEnable": false,
-		"MaxBannerPosition": 6,
+		"MaxBannerPosition": 1,
 		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
 		"AppOpenId": "ae67c13b670160d6",
 		"BannerAdUnitId": "261db1cde0be1a27",
@@ -52,6 +52,7 @@
 	},
 	"unityAdSetting": {
 		"IsUnityAdsEnable": false,
+		"bannerPosition": 1,
 		"unityId_IOS": "5009874",
 		"unityId_AND": "5009875"
 	},
