@@ -2,7 +2,7 @@
 	"IsTestAds": false,
 	"wantToSkipFirstAd": false,
 	"IsForFamily": false,
-	"disableAds": true,
+	"disableAds": false,
 	"disableBanner": false,
 	"Min_RAM_For_MAX": 1500,
 	"minPingForMAX": 50,
@@ -42,9 +42,10 @@
 	},
 	"appLovinSettings": {
 		"ReadFromServer": false,
-		"IsAppLovinAdsEnable": false,
+		"IsAppLovinAdsEnable": true,
 		"MaxBannerPosition": 7,
 		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
+        "AppOpenId": "35d3f37387bfc0b7",		
 		"BannerAdUnitId": "44c9d8ec83007a03",
 		"LovinInter": "05d1fb9bfc9b066e",
 		"LovinRewarded": "ed05a63d4e8bcf44"

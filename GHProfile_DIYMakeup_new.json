@@ -6,7 +6,7 @@
 	"disableBanner": false,
 	"Min_RAM_For_MAX": 500,
 	"minPingForMAX": 50,
-	"DelayBTWTwoInterstitials": 25,
+	"DelayBTWTwoInterstitials": 35,
 	"ShowAdAfterInactive": 30,
 	"useFirebase": true,
 	"rateUsSetting": {
