@@ -8,7 +8,7 @@
 	"minPingForMAX": 50,
 	"DelayBTWTwoInterstitials": 35,
 	"ShowAdAfterInactive": 30,
-	"useFirebase": true,
+	"useFirebase": false,
 	"rateUsSetting": {
 		"iosAppID": "N/A",
 		"googlePlayBundleID": "com.gameshive.familysim",
