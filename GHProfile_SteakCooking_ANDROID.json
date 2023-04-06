@@ -31,14 +31,8 @@
 		"admobRewardedInterstial": "ca-app-pub-3940256099942544/1033173712",
 		"admobNative": "ca-app-pub-3940256099942544/2247696110",
 		"defualtAdmobRewarded": "ca-app-pub-6899425020552478/3206391533",
-		"admobInterstial_ECPM_order": [
-			"",
-			""
-		],
-		"admobRewarded_ECPM_order": [
-			"",
-			""
-		]
+		"admobInterstial_ECPM_order": [],
+		"admobRewarded_ECPM_order": []
 	},
 	"appLovinSettings": {
 		"ReadFromServer": false,

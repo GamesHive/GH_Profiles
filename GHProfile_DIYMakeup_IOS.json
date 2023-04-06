@@ -10,8 +10,8 @@
 	"ShowAdAfterInactive": 30,
 	"useFirebase": true,
 	"rateUsSetting": {
-		"iosAppID": "",
-		"googlePlayBundleID": "",
+		"iosAppID": "1641330964",
+		"googlePlayBundleID": "N/A",
 		"FirstShowLevel": 3,
 		"PostPonedLevels": 3
 	},
@@ -24,46 +24,37 @@
 		"IsAdmobAdsEnable": true,
 		"bannerType": 1,
 		"adPosition": 0,
-		"admobAppID": "ca-app-pub-6899425020552478~7350662439",
-		"admobBanner": "ca-app-pub-3940256099942544/6300978111",
-		"admobDefulatInterstial": "ca-app-pub-3940256099942544/1033173712",
-		"admobAppOpen": "ca-app-pub-3940256099942544/3419835294",
+		"admobAppID": "ca-app-pub-6899425020552478~7827898529",
+		"admobBanner": "ca-app-pub-6899425020552478/4610724155",
+		"admobDefulatInterstial": "ca-app-pub-6899425020552478/7799978368",
+		"admobAppOpen": "ca-app-pub-6899425020552478/2742997650",
 		"admobRewardedInterstial": "ca-app-pub-3940256099942544/1033173712",
 		"admobNative": "ca-app-pub-3940256099942544/2247696110",
-		"defualtAdmobRewarded": "ca-app-pub-3940256099942544/5224354917",
-		"admobInterstial_ECPM_order": [
-			"ca-app-pub-6899425020552478/1585669553",
-			"ca-app-pub-6899425020552478/2707179531"
-		],
-		"admobRewarded_ECPM_order": [
-			"ca-app-pub-6899425020552478/1202526172",
-			"ca-app-pub-6899425020552478/6183390117"
-		]
+		"defualtAdmobRewarded": "ca-app-pub-6899425020552478/1398221542",
+		"admobInterstial_ECPM_order": [],
+		"admobRewarded_ECPM_order": []
 	},
 	"appLovinSettings": {
 		"ReadFromServer": false,
-		"IsAppLovinAdsEnable": true,
+		"IsAppLovinAdsEnable": false,
 		"MaxBannerPosition": 1,
 		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
-		"AppOpenId": "10c8f555479b3a13",
-		"BannerAdUnitId": "010eef4ab882d11c",
-		"LovinInter": "e47cafa22f460090",
-		"LovinRewarded": "ad396544a6002dd7"
+		"AppOpenId": "e9a8b1a2d009e967",
+		"BannerAdUnitId": "946dac58579adbe4",
+		"LovinInter": "bae5a020ec92e178",
+		"LovinRewarded": "0cf80e38a85c68e3"
 	},
 	"unityAdSetting": {
-		"IsUnityAdsEnable": true,
+		"IsUnityAdsEnable": false,
 		"bannerPosition": 1,
-		"unityId_IOS": "4996262",
-		"unityId_AND": "4996263"
+		"unityId_IOS": "5220814",
+		"unityId_AND": "5220815"
 	},
 	"GASeting": {
 		"IsGameAnalyticsEnable": true,
-		"GA_Prefeb": {
-			"instanceID": 18186
-		},
-		"GA_GameKey_Android": "597385944f6c8cb1084b05cd5aa506ee",
-		"GA_SecretKey_Android": "0fbd6a77eae92d998f2ad9c6fe32709b662c1996",
-		"GA_SecretKey_IOS": "N/A",
-		"GA_GameKey_IOS": "N/A"
+		"GA_GameKey_Android": "N/A",
+		"GA_SecretKey_Android": "N/A",
+		"GA_SecretKey_IOS": "cb93134b53c6b20faf029871b3dfba8264586606",
+		"GA_GameKey_IOS": "f94a021470f97af9035f162c52c6bc6b"
 	}
 }
