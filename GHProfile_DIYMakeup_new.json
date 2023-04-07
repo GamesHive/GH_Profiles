@@ -47,8 +47,8 @@
 	"unityAdSetting": {
 		"IsUnityAdsEnable": true,
 		"bannerPosition": 1,
-		"unityId_IOS": "4996262",
-		"unityId_AND": "4996263"
+		"unityId_IOS": "5220814",
+		"unityId_AND": "5220815"
 	},
 	"GASeting": {
 		"IsGameAnalyticsEnable": true,
