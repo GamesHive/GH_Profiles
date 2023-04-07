@@ -11,7 +11,7 @@
 	"useFirebase": true,
 	"rateUsSetting": {
 		"iosAppID": "",
-		"googlePlayBundleID": "",
+		"googlePlayBundleID": "com.gameshive.diymakeup",
 		"FirstShowLevel": 3,
 		"PostPonedLevels": 3
 	},
