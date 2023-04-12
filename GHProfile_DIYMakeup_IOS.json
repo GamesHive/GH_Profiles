@@ -22,6 +22,8 @@
 	"admobAdSetting": {
 		"ReadFromServer": false,
 		"IsAdmobAdsEnable": true,
+		"wantToShowAppOpen": true,
+		"executionOrder": 0,
 		"bannerType": 1,
 		"adPosition": 0,
 		"admobAppID": "ca-app-pub-6899425020552478~7827898529",
@@ -37,6 +39,8 @@
 	"appLovinSettings": {
 		"ReadFromServer": false,
 		"IsAppLovinAdsEnable": false,
+		"wantToShowAppOpen": true,
+		"executionOrder": 1,
 		"MaxBannerPosition": 1,
 		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
 		"AppOpenId": "e9a8b1a2d009e967",
@@ -46,6 +50,7 @@
 	},
 	"unityAdSetting": {
 		"IsUnityAdsEnable": false,
+		"executionOrder": 2,
 		"bannerPosition": 1,
 		"unityId_IOS": "5220814",
 		"unityId_AND": "5220815"
