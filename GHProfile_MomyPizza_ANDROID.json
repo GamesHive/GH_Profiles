@@ -3,11 +3,13 @@
 	"wantToSkipFirstAd": false,
 	"IsForFamily": false,
 	"disableAds": false,
-	"disableBanner": true,
+	"disableBanner": false,
 	"Min_RAM_For_MAX": 500,
 	"minPingForMAX": 50,
-	"DelayBTWTwoInterstitials": 30,
+	"DelayBTWTwoInterstitials": 35,
 	"ShowAdAfterInactive": 30,
+	"IsInHouseAdsEnabled": true,
+	"inHouseAdPriority": 0,
 	"useFirebase": true,
 	"rateUsSetting": {
 		"iosAppID": "N/A",
@@ -22,6 +24,8 @@
 	"admobAdSetting": {
 		"ReadFromServer": false,
 		"IsAdmobAdsEnable": true,
+		"wantToShowAppOpen": true,
+		"executionOrder": 0,
 		"bannerType": 1,
 		"adPosition": 0,
 		"admobAppID": "ca-app-pub-6899425020552478~2525625442",
@@ -37,6 +41,8 @@
 	"appLovinSettings": {
 		"ReadFromServer": false,
 		"IsAppLovinAdsEnable": true,
+		"wantToShowAppOpen": false,
+		"executionOrder": 1,
 		"MaxBannerPosition": 1,
 		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
 		"AppOpenId": "31b2ac2b467556ea",
@@ -45,7 +51,8 @@
 		"LovinRewarded": "6184fcf32b63203e"
 	},
 	"unityAdSetting": {
-		"IsUnityAdsEnable": true,
+		"IsUnityAdsEnable": false,
+		"executionOrder": 2,
 		"bannerPosition": 1,
 		"unityId_IOS": "5009778",
 		"unityId_AND": "5009779"
