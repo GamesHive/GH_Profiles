@@ -6,7 +6,7 @@
 	"disableBanner": false,
 	"Min_RAM_For_MAX": 500,
 	"minPingForMAX": 50,
-	"DelayBTWTwoInterstitials": 35,
+	"DelayBTWTwoInterstitials": 25,
 	"ShowAdAfterInactive": 30,
 	"IsInHouseAdsEnabled": true,
 	"inHouseAdPriority": 0,
@@ -23,8 +23,8 @@
 	},
 	"admobAdSetting": {
 		"ReadFromServer": false,
-		"IsAdmobAdsEnable": true,
-		"wantToShowAppOpen": true,
+		"IsAdmobAdsEnable": false,
+		"wantToShowAppOpen": false,
 		"executionOrder": 0,
 		"bannerType": 1,
 		"adPosition": 0,
@@ -41,7 +41,7 @@
 	"appLovinSettings": {
 		"ReadFromServer": false,
 		"IsAppLovinAdsEnable": true,
-		"wantToShowAppOpen": false,
+		"wantToShowAppOpen": true,
 		"executionOrder": 1,
 		"MaxBannerPosition": 1,
 		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
