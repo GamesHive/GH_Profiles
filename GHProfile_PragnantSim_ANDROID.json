@@ -45,7 +45,7 @@
 		"LovinRewarded": "ed05a63d4e8bcf44"
 	},
 	"unityAdSetting": {
-		"IsUnityAdsEnable": false,
+		"IsUnityAdsEnable": true,
 		"bannerPosition": 4,
 		"unityId_IOS": "5158739",
 		"unityId_AND": "5158738"
