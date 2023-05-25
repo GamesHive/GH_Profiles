@@ -3,7 +3,7 @@
 	"wantToSkipFirstAd": false,
 	"IsForFamily": false,
 	"disableAds": false,
-	"disableBanner": false,
+	"disableBanner": true,
 	"Min_RAM_For_MAX": 500,
 	"minPingForMAX": 50,
 	"DelayBTWTwoInterstitials": 35,
