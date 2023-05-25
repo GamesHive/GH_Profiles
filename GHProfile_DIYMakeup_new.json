@@ -29,8 +29,8 @@
 	},
 	"admobAdSetting": {
 		"ReadFromServer": false,
-		"IsAdmobAdsEnable": true,
-		"wantToShowAppOpen": true,
+		"IsAdmobAdsEnable": false,
+		"wantToShowAppOpen": false,
 		"executionOrder": 0,
 		"maxFillRateINTER": 3,
 		"maxFailRateINTER": 3,
@@ -54,8 +54,8 @@
 	},
 	"appLovinSettings": {
 		"ReadFromServer": false,
-		"IsAppLovinAdsEnable": false,
-		"wantToShowAppOpen": false,
+		"IsAppLovinAdsEnable": true,
+		"wantToShowAppOpen": true,
 		"executionOrder": 1,
 		"MaxBannerPosition": 1,
 		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
@@ -65,7 +65,7 @@
 		"LovinRewarded": "ad396544a6002dd7"
 	},
 	"unityAdSetting": {
-		"IsUnityAdsEnable": false,
+		"IsUnityAdsEnable": true,
 		"executionOrder": 2,
 		"bannerPosition": 1,
 		"unityId_IOS": "5220814",
