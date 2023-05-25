@@ -2,7 +2,7 @@
 	"IsTestAds": false,
 	"wantToSkipFirstAd": false,
 	"IsForFamily": false,
-	"disableAds": false,
+	"disableAds": true,
 	"disableBanner": false,
 	"Min_RAM_For_MAX": 1500,
 	"minPingForMAX": 50,
@@ -36,7 +36,7 @@
 	},
 	"appLovinSettings": {
 		"ReadFromServer": false,
-		"IsAppLovinAdsEnable": true,
+		"IsAppLovinAdsEnable": false,
 		"MaxBannerPosition": 7,
 		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
         "AppOpenId": "35d3f37387bfc0b7",		
@@ -45,7 +45,7 @@
 		"LovinRewarded": "ed05a63d4e8bcf44"
 	},
 	"unityAdSetting": {
-		"IsUnityAdsEnable": true,
+		"IsUnityAdsEnable": false,
 		"bannerPosition": 4,
 		"unityId_IOS": "5158739",
 		"unityId_AND": "5158738"
