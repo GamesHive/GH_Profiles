@@ -1,27 +1,39 @@
 {
-	"IsTestAds": false,
+	"IsTestAds": true,
 	"wantToSkipFirstAd": false,
 	"IsForFamily": false,
 	"disableAds": false,
-	"disableBanner": false,
+	"disableBanner": true,
 	"Min_RAM_For_MAX": 500,
 	"minPingForMAX": 50,
-	"DelayBTWTwoInterstitials": 35,
+	"DelayBTWTwoInterstitials": 10,
 	"ShowAdAfterInactive": 30,
+	"IsInHouseAdsEnabled": true,
+	"inHouseAdPriority": 0,
 	"useFirebase": true,
+	"adOccuranceKeyData": {
+		"adOccuranceKeys": [
+			"SkipAd_LvlCompleteqq",
+			"SkipAd_LvlFail"
+		]
+	},
 	"rateUsSetting": {
-		"iosAppID": "",
+		"iosAppID": "N/A",
 		"googlePlayBundleID": "com.gameshive.diymakeup",
 		"FirstShowLevel": 3,
 		"PostPonedLevels": 3
 	},
 	"flightModeSetting": {
-		"UseInternetPrompt": true,
+		"UseInternetPrompt": false,
 		"DelayBetweenInternetCheck": 15
 	},
 	"admobAdSetting": {
 		"ReadFromServer": false,
-		"IsAdmobAdsEnable": false,
+		"IsAdmobAdsEnable": true,
+		"wantToShowAppOpen": true,
+		"executionOrder": 0,
+		"maxFillRateINTER": 3,
+		"maxFailRateINTER": 3,
 		"bannerType": 1,
 		"adPosition": 0,
 		"admobAppID": "ca-app-pub-6899425020552478~7350662439",
@@ -31,12 +43,20 @@
 		"admobRewardedInterstial": "ca-app-pub-3940256099942544/1033173712",
 		"admobNative": "ca-app-pub-3940256099942544/2247696110",
 		"defualtAdmobRewarded": "ca-app-pub-6899425020552478/8539373607",
-		"admobInterstial_ECPM_order": [],
-		"admobRewarded_ECPM_order": []
+		"admobInterstial_ECPM_order": [
+			"ca-app-pub-6899425020552478/1585669553",
+			"ca-app-pub-6899425020552478/2707179531"
+		],
+		"admobRewarded_ECPM_order": [
+			"ca-app-pub-6899425020552478/1202526172",
+			"ca-app-pub-6899425020552478/6183390117"
+		]
 	},
 	"appLovinSettings": {
 		"ReadFromServer": false,
-		"IsAppLovinAdsEnable": true,
+		"IsAppLovinAdsEnable": false,
+		"wantToShowAppOpen": false,
+		"executionOrder": 1,
 		"MaxBannerPosition": 1,
 		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
 		"AppOpenId": "10c8f555479b3a13",
@@ -45,16 +65,14 @@
 		"LovinRewarded": "ad396544a6002dd7"
 	},
 	"unityAdSetting": {
-		"IsUnityAdsEnable": true,
+		"IsUnityAdsEnable": false,
+		"executionOrder": 2,
 		"bannerPosition": 1,
 		"unityId_IOS": "5220814",
 		"unityId_AND": "5220815"
 	},
 	"GASeting": {
 		"IsGameAnalyticsEnable": true,
-		"GA_Prefeb": {
-			"instanceID": 18186
-		},
 		"GA_GameKey_Android": "597385944f6c8cb1084b05cd5aa506ee",
 		"GA_SecretKey_Android": "0fbd6a77eae92d998f2ad9c6fe32709b662c1996",
 		"GA_SecretKey_IOS": "N/A",
