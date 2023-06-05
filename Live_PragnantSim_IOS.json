@@ -1,5 +1,5 @@
 {
-	"IsTestAds": true,
+	"IsTestAds": false,
 	"wantToSkipFirstAd": false,
 	"IsForFamily": false,
 	"disableAds": false,
@@ -26,11 +26,11 @@
 	},
 	"admobAdSetting": {
 		"ReadFromServer": false,
-		"IsAdmobAdsEnable": false,
-		"wantToShowAppOpen": false,
+		"IsAdmobAdsEnable": true,
+		"wantToShowAppOpen": true,
 		"executionOrder": 0,
-		"maxFillRateINTER": 3,
-		"maxFailRateINTER": 3,
+		"maxFillRateINTER": 4,
+		"maxFailRateINTER": 4,
 		"bannerType": 1,
 		"adPosition": 4,
 		"admobAppID": "ca-app-pub-6899425020552478~6093518484",
@@ -51,8 +51,8 @@
 	},
 	"appLovinSettings": {
 		"ReadFromServer": false,
-		"IsAppLovinAdsEnable": false,
-		"wantToShowAppOpen": false,
+		"IsAppLovinAdsEnable": true,
+		"wantToShowAppOpen": true,
 		"executionOrder": 1,
 		"MaxBannerPosition": 6,
 		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
@@ -62,7 +62,7 @@
 		"LovinRewarded": "5c50c41958652745"
 	},
 	"unityAdSetting": {
-		"IsUnityAdsEnable": false,
+		"IsUnityAdsEnable": true,
 		"executionOrder": 2,
 		"bannerPosition": 3,
 		"unityId_IOS": "5158739",
