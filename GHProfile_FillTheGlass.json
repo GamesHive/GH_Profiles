@@ -2,13 +2,18 @@
 	"IsTestAds": false,
 	"wantToSkipFirstAd": false,
 	"IsForFamily": false,
-	"disableAds": true,
+	"disableAds": false,
 	"disableBanner": false,
-	"Min_RAM_For_MAX": 1500,
+	"Min_RAM_For_MAX": 500,
 	"minPingForMAX": 50,
-	"DelayBTWTwoInterstitials": 35,
+	"DelayBTWTwoInterstitials": 30,
 	"ShowAdAfterInactive": 30,
-	"useFirebase": false,
+	"IsInHouseAdsEnabled": false,
+	"inHouseAdPriority": 0,
+	"useFirebase": true,
+	"adOccuranceKeyData": {
+		"adOccuranceKeys": []
+	},
 	"rateUsSetting": {
 		"iosAppID": "N/A",
 		"googlePlayBundleID": "com.gameshive.fulltheglass",
@@ -21,31 +26,44 @@
 	},
 	"admobAdSetting": {
 		"ReadFromServer": false,
-		"IsAdmobAdsEnable": false,
+		"IsAdmobAdsEnable": true,
+		"wantToShowAppOpen": true,
+		"executionOrder": 0,
+		"maxFillRateINTER": 3,
+		"maxFailRateINTER": 3,
 		"bannerType": 1,
 		"adPosition": 1,
 		"admobAppID": "ca-app-pub-6899425020552478~4269316838",
 		"admobBanner": "ca-app-pub-6899425020552478/9900917461",
 		"admobDefulatInterstial": "ca-app-pub-6899425020552478/8819754170",
 		"admobAppOpen": "ca-app-pub-6899425020552478/9201759482",
-		"admobRewardedInterstial": "ca-app-pub-3940256099942544/1033173712",
-		"admobNative": "ca-app-pub-3940256099942544/2247696110",
+		"admobRewardedInterstial": "",
+		"admobNative": "",
 		"defualtAdmobRewarded": "ca-app-pub-6899425020552478/3567427494",
-		"admobInterstial_ECPM_order": [],
-		"admobRewarded_ECPM_order": []
+		"admobInterstial_ECPM_order": [
+			"ca-app-pub-6899425020552478/9037559210",
+			"ca-app-pub-6899425020552478/5238463747"
+		],
+		"admobRewarded_ECPM_order": [
+			"ca-app-pub-6899425020552478/4906742515",
+			"ca-app-pub-6899425020552478/8411421999"
+		]
 	},
 	"appLovinSettings": {
 		"ReadFromServer": false,
 		"IsAppLovinAdsEnable": false,
+		"wantToShowAppOpen": false,
+		"executionOrder": 1,
 		"MaxBannerPosition": 7,
 		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
+		"AppOpenId": "ffa575eb63910c68",
 		"BannerAdUnitId": "bbc5c4798e6b94e0",
 		"LovinInter": "a9856467cb44d184",
 		"LovinRewarded": "caa59785078b813e"
 	},
 	"unityAdSetting": {
-		"IsUnityAdsEnable": true,
-		"bannerPosition": 0,
+		"IsUnityAdsEnable": false,
+		"executionOrder": 0,
 		"unityId_IOS": "5174988",
 		"unityId_AND": "5174989"
 	},
