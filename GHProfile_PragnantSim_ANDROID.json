@@ -26,8 +26,8 @@
 	},
 	"admobAdSetting": {
 		"ReadFromServer": false,
-		"IsAdmobAdsEnable": true,
-		"wantToShowAppOpen": true,
+		"IsAdmobAdsEnable": false,
+		"wantToShowAppOpen": false,
 		"executionOrder": 0,
 		"maxFillRateINTER": 3,
 		"maxFailRateINTER": 3,
@@ -46,7 +46,7 @@
 	"appLovinSettings": {
 		"ReadFromServer": false,
 		"IsAppLovinAdsEnable": true,
-		"wantToShowAppOpen": true,
+		"wantToShowAppOpen": false,
 		"executionOrder": 1,
 		"MaxBannerPosition": 6,
 		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
