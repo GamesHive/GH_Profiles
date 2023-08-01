@@ -44,14 +44,14 @@
 	"appLovinSettings": {
 		"ReadFromServer": false,
 		"IsAppLovinAdsEnable": true,
-		"wantToShowAppOpen": true,
+		"wantToShowAppOpen": false,
 		"executionOrder": 1,
 		"MaxBannerPosition": 7,
 		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
 		"AppOpenId": "ac86e61231daa8ab",
 		"BannerAdUnitId": "f0ed5092f6c52f53",
 		"LovinInter": "6fa5ee68823e5079",
-		"LovinRewarded": "9d6aad629580b318\t"
+		"LovinRewarded": "9d6aad629580b318"
 	},
 	"unityAdSetting": {
 		"IsUnityAdsEnable": false,
