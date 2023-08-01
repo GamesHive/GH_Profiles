@@ -8,7 +8,15 @@
 	"minPingForMAX": 50,
 	"DelayBTWTwoInterstitials": 35,
 	"ShowAdAfterInactive": 30,
+	"IsInHouseAdsEnabled": true,
+	"inHouseAdPriority": 1,
 	"useFirebase": true,
+	"adOccuranceKeyData": {
+		"adOccuranceKeys": [
+			"SkipAd_LvlCompleteqq",
+			"SkipAd_LvlFail"
+		]
+	},
 	"rateUsSetting": {
 		"iosAppID": "N/A",
 		"googlePlayBundleID": "com.gameshive.familysim",
@@ -22,6 +30,10 @@
 	"admobAdSetting": {
 		"ReadFromServer": false,
 		"IsAdmobAdsEnable": true,
+		"wantToShowAppOpen": false,
+		"executionOrder": 0,
+		"maxFillRateINTER": 3,
+		"maxFailRateINTER": 3,
 		"bannerType": 1,
 		"adPosition": 4,
 		"admobAppID": "ca-app-pub-6899425020552478~8354367312",
@@ -37,6 +49,8 @@
 	"appLovinSettings": {
 		"ReadFromServer": false,
 		"IsAppLovinAdsEnable": true,
+		"wantToShowAppOpen": false,
+		"executionOrder": 1,
 		"MaxBannerPosition": 6,
 		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
 		"AppOpenId": "336cbec8c38c6c43",
@@ -46,6 +60,7 @@
 	},
 	"unityAdSetting": {
 		"IsUnityAdsEnable": true,
+		"executionOrder": 2,
 		"bannerPosition": 3,
 		"unityId_IOS": "5009854",
 		"unityId_AND": "5009855"
