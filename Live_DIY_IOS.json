@@ -13,9 +13,10 @@
 	"useFirebase": true,
 	"adOccuranceKeyData": {
 		"adOccuranceKeys": [
-			"SkipAd_LvlCompleteqq",
-			"SkipAd_LvlFail"
-			"Config1"
+			"SkipAd_LvlComplete_X",
+			"SkipAd_LvlFail_X",
+			"SkipAd_ItemSelection_X",
+			"Config2"
 		]
 	},
 	"rateUsSetting": {
