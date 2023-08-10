@@ -1,5 +1,5 @@
 {
-	"IsTestAds": true,
+	"IsTestAds": false,
 	"wantToSkipFirstAd": false,
 	"IsForFamily": false,
 	"disableAds": false,
@@ -15,7 +15,7 @@
 	"adOccuranceKeyData": {
 		"adOccuranceKeys": [
 			"ShowAd_LvlComplete_X",
-			"ShowAd_ItemSelection"
+			"ShowAd_ItemSelection_X"
 		]
 	},
 	"rateUsSetting": {
