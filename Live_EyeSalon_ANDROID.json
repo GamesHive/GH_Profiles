@@ -1,5 +1,5 @@
 {
-	"IsTestAds": false,
+	"IsTestAds": true,
 	"wantToSkipFirstAd": false,
 	"IsForFamily": false,
 	"disableAds": false,
@@ -7,14 +7,15 @@
 	"Min_RAM_For_MAX": 500,
 	"minPingForMAX": 50,
 	"DelayBTWTwoInterstitials": 30,
+	"UseInactiveAds": false,
 	"ShowAdAfterInactive": 30,
 	"IsInHouseAdsEnabled": true,
 	"inHouseAdPriority": 0,
 	"useFirebase": true,
 	"adOccuranceKeyData": {
 		"adOccuranceKeys": [
-			"SkipAd_LvlCompleteqq",
-			"SkipAd_LvlFail"
+			"ShowAd_LvlComplete_X",
+			"ShowAd_ItemSelection"
 		]
 	},
 	"rateUsSetting": {
@@ -53,7 +54,7 @@
 	"appLovinSettings": {
 		"ReadFromServer": false,
 		"IsAppLovinAdsEnable": true,
-		"wantToShowAppOpen": false,
+		"wantToShowAppOpen": true,
 		"executionOrder": 1,
 		"MaxBannerPosition": 1,
 		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
