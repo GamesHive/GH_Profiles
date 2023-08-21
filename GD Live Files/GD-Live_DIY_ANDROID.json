@@ -1,0 +1,13 @@
+{
+	"IsTestAds": true,
+	"IsForFamily": false,
+	"disableAds": false,
+	"disableBanner": false,
+	
+	"adOccuranceKeyData": {
+		"adOccuranceKeys": [
+			"ShowAd_LvlComplete_X",
+			"ShowAd_LvlFail_X"
+		]
+	}
+}
