@@ -7,8 +7,9 @@
 	"Min_RAM_For_MAX": 500,
 	"minPingForMAX": 50,
 	"DelayBTWTwoInterstitials": 30,
+	"UseInactiveAds": false,
 	"ShowAdAfterInactive": 30,
-	"IsInHouseAdsEnabled": false,
+	"IsInHouseAdsEnabled": true,
 	"inHouseAdPriority": 0,
 	"useFirebase": true,
 	"adOccuranceKeyData": {
@@ -27,7 +28,7 @@
 	"admobAdSetting": {
 		"ReadFromServer": false,
 		"IsAdmobAdsEnable": true,
-		"wantToShowAppOpen": true,
+		"wantToShowAppOpen": false,
 		"executionOrder": 0,
 		"maxFillRateINTER": 3,
 		"maxFailRateINTER": 3,
@@ -40,19 +41,13 @@
 		"admobRewardedInterstial": "",
 		"admobNative": "",
 		"defualtAdmobRewarded": "ca-app-pub-6899425020552478/3567427494",
-		"admobInterstial_ECPM_order": [
-			"ca-app-pub-6899425020552478/9037559210",
-			"ca-app-pub-6899425020552478/5238463747"
-		],
-		"admobRewarded_ECPM_order": [
-			"ca-app-pub-6899425020552478/4906742515",
-			"ca-app-pub-6899425020552478/8411421999"
-		]
+		"admobInterstial_ECPM_order": [],
+		"admobRewarded_ECPM_order": []
 	},
 	"appLovinSettings": {
 		"ReadFromServer": false,
-		"IsAppLovinAdsEnable": false,
-		"wantToShowAppOpen": false,
+		"IsAppLovinAdsEnable": true,
+		"wantToShowAppOpen": true,
 		"executionOrder": 1,
 		"MaxBannerPosition": 7,
 		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
@@ -63,12 +58,12 @@
 	},
 	"unityAdSetting": {
 		"IsUnityAdsEnable": false,
-		"executionOrder": 0,
+		"executionOrder": 2,
 		"unityId_IOS": "5174988",
 		"unityId_AND": "5174989"
 	},
 	"GASeting": {
-		"IsGameAnalyticsEnable": false,
+		"IsGameAnalyticsEnable": true,
 		"GA_GameKey_Android": "d03826894f3da8b57c5bdd73599abf86",
 		"GA_SecretKey_Android": "27656abf0a5e244fa80ca88d07a694a81e714174",
 		"GA_SecretKey_IOS": "N/A",
