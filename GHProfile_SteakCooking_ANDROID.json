@@ -7,8 +7,14 @@
 	"Min_RAM_For_MAX": 500,
 	"minPingForMAX": 50,
 	"DelayBTWTwoInterstitials": 30,
+	"UseInactiveAds": false,
 	"ShowAdAfterInactive": 30,
+	"IsInHouseAdsEnabled": true,
+	"inHouseAdPriority": 0,
 	"useFirebase": true,
+	"adOccuranceKeyData": {
+		"adOccuranceKeys": []
+	},
 	"rateUsSetting": {
 		"iosAppID": "N/A",
 		"googlePlayBundleID": "com.gameshive.steakcooking",
@@ -22,14 +28,16 @@
 	"admobAdSetting": {
 		"ReadFromServer": false,
 		"IsAdmobAdsEnable": false,
-		"bannerType": 1,
-		"adPosition": 0,
+		"wantToShowAppOpen": false,
+		"executionOrder": 0,
+		"maxFillRateINTER": 3,
+		"maxFailRateINTER": 3,
 		"admobAppID": "ca-app-pub-6899425020552478~8119806868",
 		"admobBanner": "ca-app-pub-6899425020552478/4037091629",
 		"admobDefulatInterstial": "ca-app-pub-6899425020552478/1584234396",
 		"admobAppOpen": "ca-app-pub-6899425020552478/7569066857",
-		"admobRewardedInterstial": "ca-app-pub-3940256099942544/1033173712",
-		"admobNative": "ca-app-pub-3940256099942544/2247696110",
+		"admobRewardedInterstial": "",
+		"admobNative": "",
 		"defualtAdmobRewarded": "ca-app-pub-6899425020552478/3206391533",
 		"admobInterstial_ECPM_order": [],
 		"admobRewarded_ECPM_order": []
@@ -37,7 +45,9 @@
 	"appLovinSettings": {
 		"ReadFromServer": false,
 		"IsAppLovinAdsEnable": true,
-		"MaxBannerPosition": 1,
+		"wantToShowAppOpen": true,
+		"executionOrder": 1,
+		"MaxBannerPosition": 0,
 		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
 		"AppOpenId": "ae67c13b670160d6",
 		"BannerAdUnitId": "261db1cde0be1a27",
@@ -45,8 +55,8 @@
 		"LovinRewarded": "55833f64cca6d171"
 	},
 	"unityAdSetting": {
-		"IsUnityAdsEnable": true,
-		"bannerPosition": 1,
+		"IsUnityAdsEnable": false,
+		"executionOrder": 2,
 		"unityId_IOS": "5009874",
 		"unityId_AND": "5009875"
 	},
