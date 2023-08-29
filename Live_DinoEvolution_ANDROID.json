@@ -1,9 +1,9 @@
 {
-	"IsTestAds": true,
+	"IsTestAds": false,
 	"wantToSkipFirstAd": false,
 	"IsForFamily": false,
 	"disableAds": false,
-	"disableBanner": false,
+	"disableBanner": true,
 	"Min_RAM_For_MAX": 500,
 	"minPingForMAX": 50,
 	"DelayBTWTwoInterstitials": 30,
@@ -14,8 +14,8 @@
 	"useFirebase": true,
 	"adOccuranceKeyData": {
 		"adOccuranceKeys": [
-			"ShowAd_LvlComplete",
-			"ShowAd_LvlFail"
+			"ShowAd_LvlComplete_X",
+			"ShowAd_LvlFail_X"
 		]
 	},
 	"rateUsSetting": {
@@ -30,8 +30,8 @@
 	},
 	"admobAdSetting": {
 		"ReadFromServer": false,
-		"IsAdmobAdsEnable": false,
-		"wantToShowAppOpen": false,
+		"IsAdmobAdsEnable": true,
+		"wantToShowAppOpen": true,
 		"executionOrder": 0,
 		"maxFillRateINTER": 3,
 		"maxFailRateINTER": 3,
@@ -49,7 +49,7 @@
 	},
 	"appLovinSettings": {
 		"ReadFromServer": false,
-		"IsAppLovinAdsEnable": false,
+		"IsAppLovinAdsEnable": true,
 		"wantToShowAppOpen": false,
 		"executionOrder": 1,
 		"MaxBannerPosition": 1,

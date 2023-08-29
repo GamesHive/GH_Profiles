@@ -1,0 +1,72 @@
+{
+	"IsTestAds": true,
+	"wantToSkipFirstAd": false,
+	"IsForFamily": false,
+	"disableAds": false,
+	"disableBanner": false,
+	"Min_RAM_For_MAX": 500,
+	"minPingForMAX": 50,
+	"DelayBTWTwoInterstitials": 30,
+	"UseInactiveAds": false,
+	"ShowAdAfterInactive": 30,
+	"IsInHouseAdsEnabled": false,
+	"inHouseAdPriority": 0,
+	"useFirebase": true,
+	"adOccuranceKeyData": {
+		"adOccuranceKeys": []
+	},
+	"rateUsSetting": {
+		"iosAppID": "N/A",
+		"googlePlayBundleID": "com.gameshive.trafficlockdown",
+		"FirstShowLevel": 3,
+		"PostPonedLevels": 3
+	},
+	"flightModeSetting": {
+		"UseInternetPrompt": true,
+		"DelayBetweenInternetCheck": 15
+	},
+	"admobAdSetting": {
+		"ReadFromServer": false,
+		"IsAdmobAdsEnable": false,
+		"wantToShowAppOpen": false,
+		"executionOrder": 0,
+		"maxFillRateINTER": 3,
+		"maxFailRateINTER": 3,
+		"bannerType": 1,
+		"adPosition": 0,
+		"admobAppID": "ca-app-pub-6899425020552478~5505040408",
+		"admobBanner": "ca-app-pub-6899425020552478/4162919018",
+		"admobDefulatInterstial": "ca-app-pub-6899425020552478/1536755672",
+		"admobAppOpen": "ca-app-pub-6899425020552478/5284428992",
+		"admobRewardedInterstial": "",
+		"admobNative": "",
+		"defualtAdmobRewarded": "ca-app-pub-6899425020552478/9061142036",
+		"admobInterstial_ECPM_order": [],
+		"admobRewarded_ECPM_order": []
+	},
+	"appLovinSettings": {
+		"ReadFromServer": false,
+		"IsAppLovinAdsEnable": false,
+		"wantToShowAppOpen": false,
+		"executionOrder": 0,
+		"MaxBannerPosition": 1,
+		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
+		"AppOpenId": "555001883b22a034",
+		"BannerAdUnitId": "8d1accf21d8825f3",
+		"LovinInter": "8897386b73f883d5",
+		"LovinRewarded": "9bb4bf14b8c4021e"
+	},
+	"unityAdSetting": {
+		"IsUnityAdsEnable": false,
+		"executionOrder": 0,
+		"unityId_IOS": "",
+		"unityId_AND": ""
+	},
+	"GASeting": {
+		"IsGameAnalyticsEnable": false,
+		"GA_GameKey_Android": "783f674b0e7007feccfbb586719e3d72",
+		"GA_SecretKey_Android": "5be5700af04b42b269899151f08cc8bf2d3570f0",
+		"GA_SecretKey_IOS": "N/A",
+		"GA_GameKey_IOS": "N/A"
+	}
+}
