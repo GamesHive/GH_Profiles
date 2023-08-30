@@ -9,7 +9,7 @@
 	"DelayBTWTwoInterstitials": 30,
 	"UseInactiveAds": false,
 	"ShowAdAfterInactive": 30,
-	"IsInHouseAdsEnabled": true,
+	"IsInHouseAdsEnabled": false,
 	"inHouseAdPriority": 0,
 	"useFirebase": true,
 	"adOccuranceKeyData": {
