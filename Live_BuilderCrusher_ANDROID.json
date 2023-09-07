@@ -7,6 +7,7 @@
 	"Min_RAM_For_MAX": 500,
 	"minPingForMAX": 50,
 	"DelayBTWTwoInterstitials": 25,
+	"UseInactiveAds": false,
 	"ShowAdAfterInactive": 30,
 	"IsInHouseAdsEnabled": true,
 	"inHouseAdPriority": 0,
@@ -28,7 +29,7 @@
 		"ReadFromServer": false,
 		"IsAdmobAdsEnable": false,
 		"wantToShowAppOpen": false,
-		"executionOrder": 0,
+		"executionOrder": 1,
 		"maxFillRateINTER": 3,
 		"maxFailRateINTER": 3,
 		"admobAppID": "ca-app-pub-6899425020552478~8943031077",
@@ -38,20 +39,14 @@
 		"admobRewardedInterstial": "ca-app-pub-3940256099942544/1033173712",
 		"admobNative": "ca-app-pub-3940256099942544/2247696110",
 		"defualtAdmobRewarded": "ca-app-pub-6899425020552478/6863662648",
-		"admobInterstial_ECPM_order": [
-			"",
-			""
-		],
-		"admobRewarded_ECPM_order": [
-			"",
-			""
-		]
+		"admobInterstial_ECPM_order": [],
+		"admobRewarded_ECPM_order": []
 	},
 	"appLovinSettings": {
 		"ReadFromServer": false,
 		"IsAppLovinAdsEnable": true,
-		"wantToShowAppOpen": false,
-		"executionOrder": 1,
+		"wantToShowAppOpen": true,
+		"executionOrder": 0,
 		"MaxBannerPosition": 7,
 		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
 		"AppOpenId": "ea265d9536b903d0",
