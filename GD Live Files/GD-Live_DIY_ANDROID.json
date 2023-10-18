@@ -3,6 +3,7 @@
 	"IsForFamily": false,
 	"disableAds": false,
 	"disableBanner": false,
+	"useToolsound": false,
 	
 	"gh_ConfigKeys": {
 		"configKeys": [
