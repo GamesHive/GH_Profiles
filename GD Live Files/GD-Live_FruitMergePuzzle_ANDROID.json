@@ -1,8 +1,8 @@
 {
-	"IsTestAds": true,
+	"IsTestAds": false,
 	"IsForFamily": false,
-	"disableAds": true,
-	"disableBanner": true,
+	"disableAds": false,
+	"disableBanner": false,
 	"useToolsound": false,
 	
 	"gh_ConfigKeys": {
