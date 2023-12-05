@@ -1,0 +1,14 @@
+{
+	"IsTestAds": true,
+	"IsForFamily": false,
+	"disableAds": true,
+	"disableBanner": true,
+	"useToolsound": false,
+	
+	"gh_ConfigKeys": {
+		"configKeys": [
+			"ShowAd_LvlComplete_X",
+			"ShowAd_LvlFail_X"
+		]
+	}
+}
