@@ -4,6 +4,7 @@
 	"disableAds": false,
 	"disableBanner": false,
 	"useToolsound": false,
+	"useTimerAds": false,
 	
 	"gh_ConfigKeys": {
 		"configKeys": [
