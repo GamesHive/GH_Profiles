@@ -6,6 +6,8 @@
 	"useToolsound": false,
 	"useTimerAds": false,
 	
+	"themeType": 0,
+	
 	"gh_ConfigKeys": {
 		"configKeys": [
 			"ShowAd_LvlComplete_X",
