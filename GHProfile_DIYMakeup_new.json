@@ -8,7 +8,7 @@
 	"minPingForMAX": 50,
 	"DelayBTWTwoInterstitials": 30,
 	"ShowAdAfterInactive": 30,
-	"IsInHouseAdsEnabled": true,
+	"IsInHouseAdsEnabled": false,
 	"inHouseAdPriority": 0,
 	"useFirebase": true,
 	"adOccuranceKeyData": {
@@ -65,7 +65,7 @@
 		"LovinRewarded": "ad396544a6002dd7"
 	},
 	"unityAdSetting": {
-		"IsUnityAdsEnable": true,
+		"IsUnityAdsEnable": false,
 		"executionOrder": 2,
 		"bannerPosition": 1,
 		"unityId_IOS": "5220814",
