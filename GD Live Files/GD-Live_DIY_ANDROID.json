@@ -5,8 +5,8 @@
 	"disableBanner": false,
 	"useToolsound": false,
 	
-	"refreshBannerByGH": false,
-	"bannerRefreshTime": 1000,
+	"refreshBannerByGH": true,
+	"bannerRefreshTime": 10,
 	
 	"gh_ConfigKeys": {
 		"configKeys": [
