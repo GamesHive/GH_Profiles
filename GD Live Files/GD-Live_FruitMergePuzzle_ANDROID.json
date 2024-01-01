@@ -5,14 +5,16 @@
 	"disableBanner": false,
 	"useToolsound": false,
 	
-	"useTimerAds": false,
-	"interTimerAdDelay": 30,
+	"useTimerAds": true,
+	"interTimerAdDelay": 5,
 	"bannerRefreshTime": 20,
 	
 	"useThemeByGH": true,
 	"themeType": 0,
 	
 	"gA_ConfigMode": 0,
+	
+	"initialDarts": 1,
 	
 	"gh_ConfigKeys": {
 		"configKeys": [
