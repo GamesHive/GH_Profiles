@@ -6,7 +6,7 @@
 	"useToolsound": false,
 	
 	"useTimerAds": true,
-	"interTimerAdDelay": 5,
+	"interTimerAdDelay": 20,
 	"bannerRefreshTime": 20,
 	
 	"useThemeByGH": true,
