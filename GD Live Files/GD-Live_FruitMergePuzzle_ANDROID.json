@@ -5,7 +5,7 @@
 	"disableBanner": false,
 	"useToolsound": false,
 	
-	"useTimerAds": true,
+	"useTimerAds": false,
 	"interTimerAdDelay": 20,
 	"bannerRefreshTime": 20,
 	
