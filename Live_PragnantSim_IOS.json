@@ -6,7 +6,7 @@
 	"disableBanner": true,
 	"Min_RAM_For_MAX": 500,
 	"minPingForMAX": 50,
-	"DelayBTWTwoInterstitials": 30,
+	"DelayBTWTwoInterstitials": 20,
 	"ShowAdAfterInactive": 30,
 	"IsInHouseAdsEnabled": true,
 	"inHouseAdPriority": 0,
