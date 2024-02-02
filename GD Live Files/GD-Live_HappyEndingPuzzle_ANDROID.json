@@ -1,0 +1,17 @@
+{
+	"IsTestAds": false,
+	"IsForFamily": false,
+	"disableAds": false,
+	"disableBanner": false,
+	"useToolsound": false,
+	
+	"refreshBannerByGH": true,
+	"bannerRefreshTime": 20,
+	
+	"gh_ConfigKeys": {
+		"configKeys": [
+			"ShowAd_LvlComplete_X",
+			"ShowAd_LvlFail_X"
+		]
+	}
+}
