@@ -4,21 +4,21 @@
 	"IsForFamily": false,
 	"disableAds": false,
 	"disableBanner": false,
-	"FetusRewardTimer": 1.0,
-	"GrowDelayTime": 1.0,
-	"Min_RAM_For_MAX": 500,
+	"Min_RAM_For_MAX": 2000,
 	"minPingForMAX": 50,
 	"DelayBTWTwoInterstitials": 20,
-	"UseInactiveAds": false,
-	"ShowAdAfterInactive": 30,
-	"IsInHouseAdsEnabled": true,
+	"ShowAdAfterInactive": 20,
+	"IsInHouseAdsEnabled": false,
 	"inHouseAdPriority": 0,
 	"useFirebase": true,
 	"adOccuranceKeyData": {
-		"adOccuranceKeys": []
+		"adOccuranceKeys": [
+			"SkipAd_LvlCompleteqq",
+			"SkipAd_LvlFail"
+		]
 	},
 	"rateUsSetting": {
-		"iosAppID": "1667757097",
+		"iosAppID": "1642923411",
 		"googlePlayBundleID": "N/A",
 		"FirstShowLevel": 3,
 		"PostPonedLevels": 3
@@ -29,50 +29,47 @@
 	},
 	"admobAdSetting": {
 		"ReadFromServer": false,
-		"IsAdmobAdsEnable": false,
-		"wantToShowAppOpen": false,
-		"executionOrder": 0,
-		"maxFillRateINTER": 4,
-		"maxFailRateINTER": 4,
-		"admobAppID": "ca-app-pub-6899425020552478~6093518484",
-		"admobBanner": "ca-app-pub-6899425020552478/9673670847",
-		"admobDefulatInterstial": "ca-app-pub-6899425020552478/9258737874",
-		"admobAppOpen": "ca-app-pub-6899425020552478/8882728111",
+		"IsAdmobAdsEnable": true,
+		"wantToShowAppOpen": true,
+		"executionOrder": 1,
+		"maxFillRateINTER": 0,
+		"maxFailRateINTER": 0,
+		"bannerType": 1,
+		"adPosition": 0,
+		"admobAppID": "ca-app-pub-6899425020552478~3178029466",
+		"admobBanner": "ca-app-pub-6899425020552478/6375038440",
+		"admobDefulatInterstial": "ca-app-pub-6899425020552478/2838708998",
+		"admobAppOpen": "ca-app-pub-6899425020552478/6305083461",
 		"admobRewardedInterstial": "",
 		"admobNative": "",
-		"defualtAdmobRewarded": "ca-app-pub-6899425020552478/7553955727",
-		"admobInterstial_ECPM_order": [
-			"ca-app-pub-6899425020552478/8395960184",
-			""
-		],
-		"admobRewarded_ECPM_order": [
-			"ca-app-pub-6899425020552478/9995417667",
-			"ca-app-pub-6899425020552478/8490764306"
-		]
+		"defualtAdmobRewarded": "ca-app-pub-6899425020552478/4934141877",
+		"admobInterstial_ECPM_order": [],
+		"admobRewarded_ECPM_order": []
 	},
 	"appLovinSettings": {
 		"ReadFromServer": false,
 		"IsAppLovinAdsEnable": true,
-		"wantToShowAppOpen": false,
-		"executionOrder": 1,
-		"MaxBannerPosition": 6,
-		"LovinID": "X4PxbyMNSE4K_UW5tdAUJG5rdaW1M5w4BU4NQc9r8b-OtuyBeqRMN3df1upuhRLgbvurdfyc3hSwZdImXetnxA",
-		"AppOpenId": "0e2273f012b3a330",
-		"BannerAdUnitId": "f1d6d2e30dd16d06",
-		"LovinInter": "283abb8d53e5e19b",
-		"LovinRewarded": "9081de0b1da70daf"
+		"wantToShowAppOpen": true,
+		"executionOrder": 0,
+		"MaxBannerPosition": 1,
+		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
+		"AppOpenId": "afce761eeb6ec5eb",
+		"BannerAdUnitId": "0c4e8693233f0bdc",
+		"LovinInter": "a08e886acc7b104b",
+		"LovinRewarded": "037172c9450c3cf7"
 	},
 	"unityAdSetting": {
 		"IsUnityAdsEnable": true,
 		"executionOrder": 2,
-		"unityId_IOS": "5158739",
-		"unityId_AND": "5158738"
+		"bannerPosition": 1,
+		"unityId_IOS": "5009778",
+		"unityId_AND": "5009779"
 	},
 	"GASeting": {
 		"IsGameAnalyticsEnable": true,
 		"GA_GameKey_Android": "N/A",
 		"GA_SecretKey_Android": "N/A",
-		"GA_SecretKey_IOS": "a403bb8640a030a0a60672285ea08444c185f935",
-		"GA_GameKey_IOS": "5819b2f3a21e803c60cc954ad51bc81d"
+		"GA_SecretKey_IOS": "088292562cea6f4d2189fdbabb494d817ba4c870",
+		"GA_GameKey_IOS": "3636ed684e599c9b3954c15a9617c81a"
 	}
 }
