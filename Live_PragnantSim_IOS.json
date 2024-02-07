@@ -29,7 +29,7 @@
 	},
 	"admobAdSetting": {
 		"ReadFromServer": false,
-		"IsAdmobAdsEnable": true,
+		"IsAdmobAdsEnable": false,
 		"wantToShowAppOpen": true,
 		"executionOrder": 1,
 		"maxFillRateINTER": 0,
@@ -59,7 +59,7 @@
 		"LovinRewarded": "037172c9450c3cf7"
 	},
 	"unityAdSetting": {
-		"IsUnityAdsEnable": true,
+		"IsUnityAdsEnable": false,
 		"executionOrder": 2,
 		"bannerPosition": 1,
 		"unityId_IOS": "5009778",
