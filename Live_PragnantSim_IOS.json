@@ -4,6 +4,8 @@
 	"IsForFamily": false,
 	"disableAds": false,
 	"disableBanner": false,
+	"FetusRewardTimer": 1.0,
+	"GrowDelayTime": 1.0,
 	"Min_RAM_For_MAX": 2000,
 	"minPingForMAX": 50,
 	"DelayBTWTwoInterstitials": 20,
@@ -59,7 +61,7 @@
 		"LovinRewarded": "037172c9450c3cf7"
 	},
 	"unityAdSetting": {
-		"IsUnityAdsEnable": false,
+		"IsUnityAdsEnable": true,
 		"executionOrder": 2,
 		"bannerPosition": 1,
 		"unityId_IOS": "5009778",
