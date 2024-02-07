@@ -8,7 +8,7 @@
 	"GrowDelayTime": 1.0,
 	"Min_RAM_For_MAX": 500,
 	"minPingForMAX": 50,
-	"DelayBTWTwoInterstitials": 30,
+	"DelayBTWTwoInterstitials": 20,
 	"UseInactiveAds": false,
 	"ShowAdAfterInactive": 30,
 	"IsInHouseAdsEnabled": true,
