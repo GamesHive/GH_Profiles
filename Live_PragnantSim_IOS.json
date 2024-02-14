@@ -5,7 +5,7 @@
 	"disableAds": false,
 	"disableBanner": false,
 	"FetusRewardTimer": 0.0,
-	"GrowDelayTime": 15,
+	"GrowDelayTime": 0.25,
 	"Min_RAM_For_MAX": 500,
 	"minPingForMAX": 50,
 	"DelayBTWTwoInterstitials": 25,
