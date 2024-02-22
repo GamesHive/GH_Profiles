@@ -11,7 +11,7 @@
 	"ShowAdAfterInactive": 30,
 	"IsInHouseAdsEnabled": true,
 	"inHouseAdPriority": 0,
-	"useFirebase": true,
+	"useFirebase": false,
 	"adOccuranceKeyData": {
 		"adOccuranceKeys": []
 	},
@@ -27,9 +27,9 @@
 	},
 	"admobAdSetting": {
 		"ReadFromServer": false,
-		"IsAdmobAdsEnable": true,
+		"IsAdmobAdsEnable": false,
 		"wantToShowAppOpen": false,
-		"executionOrder": 0,
+		"executionOrder": 1,
 		"maxFillRateINTER": 3,
 		"maxFailRateINTER": 3,
 		"bannerType": 1,
@@ -48,7 +48,7 @@
 		"ReadFromServer": false,
 		"IsAppLovinAdsEnable": true,
 		"wantToShowAppOpen": true,
-		"executionOrder": 1,
+		"executionOrder": 0,
 		"MaxBannerPosition": 7,
 		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
 		"AppOpenId": "ffa575eb63910c68",
