@@ -2,7 +2,7 @@
 	"IsTestAds": false,
 	"wantToSkipFirstAd": false,
 	"IsForFamily": false,
-	"disableAds": true,
+	"disableAds": false,
 	"disableBanner": false,
 	"Min_RAM_For_MAX": 1500,
 	"minPingForMAX": 50,
