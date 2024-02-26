@@ -1,7 +1,7 @@
 {
 	"IsTestAds": false,
 	"IsForFamily": false,
-	"disableAds": true,
+	"disableAds": false,
 	"disableBanner": false,
 	"gh_ConfigKeys": {
 		"configKeys": [
