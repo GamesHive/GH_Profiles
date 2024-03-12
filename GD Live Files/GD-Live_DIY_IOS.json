@@ -5,6 +5,9 @@
 	"disableBanner": false,
 	"useToolsound": false,
 	
+	"refreshBannerByGH": true,
+	"bannerRefreshTime": 10,
+	
 	"gh_ConfigKeys": {
 		"configKeys": [
 			"ShowAd_LvlComplete_X",
