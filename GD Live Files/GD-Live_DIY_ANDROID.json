@@ -3,7 +3,7 @@
 	"IsForFamily": false,
 	"disableAds": false,
 	"disableBanner": false,
-	"useToolsound": false,
+	"useToolsound": true,
 	
 	"refreshBannerByGH": true,
 	"bannerRefreshTime": 10,
