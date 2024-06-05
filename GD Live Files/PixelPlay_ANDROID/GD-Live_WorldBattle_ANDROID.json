@@ -1,7 +1,7 @@
 {
-	"IsTestAds": false,
+	"IsTestAds": true,
 	"IsForFamily": false,
-	"disableAds": true,
+	"disableAds": false,
 	"disableBanner": false,
 	
 	"refreshBannerByGH": true,
