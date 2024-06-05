@@ -6,6 +6,7 @@
 	
 	"refreshBannerByGH": true,
 	"bannerRefreshTime": 10,
+	"nextInterstitialDelay": 30,
 	
 	"gh_ConfigKeys": {
 		"configKeys": [
