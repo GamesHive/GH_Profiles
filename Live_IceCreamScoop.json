@@ -1,70 +1,72 @@
 {
-	"IsTestAds": false,
-	"wantToSkipFirstAd": false,
-	"IsForFamily": false,
-	"disableAds": false,
-	"disableBanner": false,
-	"Min_RAM_For_MAX": 500,
-	"minPingForMAX": 50,
-	"DelayBTWTwoInterstitials": 30,
-	"UseInactiveAds": false,
-	"ShowAdAfterInactive": 30,
-	"IsInHouseAdsEnabled": false,
-	"inHouseAdPriority": 0,
-	"useFirebase": true,
-	"adOccuranceKeyData": {
-		"adOccuranceKeys": []
-	},
-	"rateUsSetting": {
-		"iosAppID": "N/A",
-		"googlePlayBundleID": "com.gameshive.icecreamscoop",
-		"FirstShowLevel": 3,
-		"PostPonedLevels": 3
-	},
-	"flightModeSetting": {
-		"UseInternetPrompt": true,
-		"DelayBetweenInternetCheck": 15
-	},
-	"admobAdSetting": {
-		"ReadFromServer": false,
-		"IsAdmobAdsEnable": false,
-		"wantToShowAppOpen": false,
-		"executionOrder": 2,
-		"maxFillRateINTER": 3,
-		"maxFailRateINTER": 3,
-		"admobAppID": "",
-		"admobBanner": "",
-		"admobDefulatInterstial": "",
-		"admobAppOpen": "",
-		"admobRewardedInterstial": "",
-		"admobNative": "",
-		"defualtAdmobRewarded": "",
-		"admobInterstial_ECPM_order": [],
-		"admobRewarded_ECPM_order": []
-	},
-	"appLovinSettings": {
-		"ReadFromServer": false,
-		"IsAppLovinAdsEnable": true,
-		"wantToShowAppOpen": false,
-		"executionOrder": 0,
-		"MaxBannerPosition": 7,
-		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
-		"AppOpenId": "cfea4308c0138d6a",
-		"BannerAdUnitId": "4c163feafc9d9a66",
-		"LovinInter": "14401b341273cbcc",
-		"LovinRewarded": "2939ee7d5aa280f2"
-	},
-	"unityAdSetting": {
-		"IsUnityAdsEnable": false,
-		"executionOrder": 1,
-		"unityId_IOS": "",
-		"unityId_AND": ""
-	},
-	"GASeting": {
-		"IsGameAnalyticsEnable": true,
-		"GA_GameKey_Android": "a4f51350ac99c05acdbe873dba94dbe9",
-		"GA_SecretKey_Android": "40e70da371238a69edf6f0ab53cebdcab2aa7766",
-		"GA_SecretKey_IOS": "N/A",
-		"GA_GameKey_IOS": "N/A"
-	}
+    "IsTestAds": false,
+    "wantToSkipFirstAd": false,
+    "IsForFamily": false,
+    "disableAds": false,
+    "disableBanner": false,
+    "Min_RAM_For_MAX": 2000,
+    "minPingForMAX": 50,
+    "DelayBTWTwoInterstitials": 30,
+    "UseInactiveAds": false,
+    "ShowAdAfterInactive": 30,
+    "IsInHouseAdsEnabled": false,
+    "inHouseAdPriority": 0,
+    "useFirebase": true,
+    "adOccuranceKeyData": {
+        "adOccuranceKeys": []
+    },
+    "rateUsSetting": {
+        "iosAppID": "N/A",
+        "googlePlayBundleID": "com.gameshive.icecreamscoop",
+        "FirstShowLevel": 3,
+        "PostPonedLevels": 3
+    },
+    "flightModeSetting": {
+        "UseInternetPrompt": true,
+        "DelayBetweenInternetCheck": 15
+    },
+    "admobAdSetting": {
+        "ReadFromServer": false,
+        "IsAdmobAdsEnable": true,
+        "wantToShowAppOpen": false,
+        "executionOrder": 0,
+        "maxFillRateINTER": 0,
+        "maxFailRateINTER": 0,
+        "bannerType": 1,
+        "adPosition": 1,
+        "admobAppID": "ca-app-pub-6899425020552478~2263355501",
+        "admobBanner": "ca-app-pub-6899425020552478/9870382786",
+        "admobDefulatInterstial": "ca-app-pub-6899425020552478/8557301110",
+        "admobAppOpen": "ca-app-pub-6899425020552478/4627942195",
+        "admobRewardedInterstial": "",
+        "admobNative": "",
+        "defualtAdmobRewarded": "ca-app-pub-6899425020552478/1493199318",
+        "admobInterstial_ECPM_order": [],
+        "admobRewarded_ECPM_order": []
+    },
+    "appLovinSettings": {
+        "ReadFromServer": false,
+        "IsAppLovinAdsEnable": false,
+        "wantToShowAppOpen": false,
+        "executionOrder": 1,
+        "MaxBannerPosition": 7,
+        "LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
+        "AppOpenId": "cfea4308c0138d6a",
+        "BannerAdUnitId": "4c163feafc9d9a66",
+        "LovinInter": "14401b341273cbcc",
+        "LovinRewarded": "2939ee7d5aa280f2"
+    },
+    "unityAdSetting": {
+        "IsUnityAdsEnable": false,
+        "executionOrder": 0,
+        "unityId_IOS": "",
+        "unityId_AND": ""
+    },
+    "GASeting": {
+        "IsGameAnalyticsEnable": false,
+        "GA_GameKey_Android": "a4f51350ac99c05acdbe873dba94dbe9",
+        "GA_SecretKey_Android": "40e70da371238a69edf6f0ab53cebdcab2aa7766",
+        "GA_SecretKey_IOS": "N/A",
+        "GA_GameKey_IOS": "N/A"
+    }
 }
