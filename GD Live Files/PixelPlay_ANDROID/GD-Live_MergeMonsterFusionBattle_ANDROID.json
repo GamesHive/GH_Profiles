@@ -1,12 +1,12 @@
 {
 	"IsTestAds": false,
 	"IsForFamily": false,
-	"disableAds": true,
+	"disableAds": false,
 	"disableBanner": false,
 	
 	"refreshBannerByGH": true,
 	"bannerRefreshTime": 10,
-	"nextInterstitialDelay": 20,
+	"nextInterstitialDelay": 30,
 	
 	"gh_ConfigKeys": {
 		"configKeys": [
