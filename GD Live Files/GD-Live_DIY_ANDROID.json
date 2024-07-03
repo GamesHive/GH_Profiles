@@ -8,6 +8,10 @@
 	"refreshBannerByGH": true,
 	"bannerRefreshTime": 10,
 	
+	"nextInterstitialDelay": 10,
+	"internetCheckTime": 5,
+	
+	
 	"gh_ConfigKeys": {
 		"configKeys": [
 			"ShowAd_LvlComplete_X",
