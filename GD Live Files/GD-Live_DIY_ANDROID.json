@@ -8,7 +8,7 @@
 	"refreshBannerByGH": true,
 	"bannerRefreshTime": 10,
 	
-	"nextInterstitialDelay": 10,
+	"nextInterstitialDelay": 3,
 	"internetCheckTime": 5,
 	
 	
