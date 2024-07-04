@@ -16,7 +16,9 @@
 		"configKeys": [
 			"ShowAd_LvlComplete_X",
 			"ShowAd_LvlFail_X",
-			"FaceMassage"
+			"FaceMassage",
+			"EyekmakeUp_Style",
+			"LipStickmakeUp_Style"
 		]
 	}
 }
