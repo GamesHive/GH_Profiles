@@ -4,7 +4,7 @@
 	"disableAds": false,
 	"disableBanner": false,
 	
-	"refreshBannerByGH": true,
+	"refreshBannerByGH": false,
 	"bannerRefreshTime": 10,
 	"nextInterstitialDelay": 30,
 	
