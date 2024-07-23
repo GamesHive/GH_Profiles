@@ -9,7 +9,7 @@
     "DelayBTWTwoInterstitials": 30,
     "UseInactiveAds": false,
     "ShowAdAfterInactive": 30,
-    "FetusRewardTimer": 0.0,
+    "FetusRewardTimer": 15,
     "IsInHouseAdsEnabled": false,
     "inHouseAdPriority": 0,
     "useFirebase": false,
@@ -18,7 +18,7 @@
     },
     "rateUsSetting": {
         "iosAppID": "N/A",
-        "googlePlayBundleID": "com.gameshive.diymakeup",
+        "googlePlayBundleID": "com.gameshive.pregnantsim",
         "FirstShowLevel": 3,
         "PostPonedLevels": 3
     },
