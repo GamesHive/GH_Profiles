@@ -1,72 +1,72 @@
 {
-	"IsTestAds": false,
-	"wantToSkipFirstAd": false,
-	"IsForFamily": false,
-	"disableAds": false,
-	"disableBanner": false,
-	"Min_RAM_For_MAX": 500,
-	"minPingForMAX": 50,
-	"DelayBTWTwoInterstitials": 30,
-	"ShowAdAfterInactive": 30,
-	"IsInHouseAdsEnabled": true,
-	"inHouseAdPriority": 0,
-	"useFirebase": true,
-	"adOccuranceKeyData": {
-		"adOccuranceKeys": []
-	},
-	"rateUsSetting": {
-		"iosAppID": "N/A",
-		"googlePlayBundleID": "com.gameshive.pregnantsim",
-		"FirstShowLevel": 3,
-		"PostPonedLevels": 3
-	},
-	"flightModeSetting": {
-		"UseInternetPrompt": true,
-		"DelayBetweenInternetCheck": 15
-	},
-	"admobAdSetting": {
-		"ReadFromServer": false,
-		"IsAdmobAdsEnable": false,
-		"wantToShowAppOpen": false,
-		"executionOrder": 0,
-		"maxFillRateINTER": 3,
-		"maxFailRateINTER": 3,
-		"bannerType": 1,
-		"adPosition": 4,
-		"admobAppID": "ca-app-pub-6899425020552478~7996808857",
-		"admobBanner": "ca-app-pub-6899425020552478/8053467416",
-		"admobDefulatInterstial": "ca-app-pub-6899425020552478/4544649006",
-		"admobAppOpen": "ca-app-pub-6899425020552478/2306605697",
-		"admobRewardedInterstial": "",
-		"admobNative": "",
-		"defualtAdmobRewarded": "ca-app-pub-6899425020552478/7819864822",
-		"admobInterstial_ECPM_order": [],
-		"admobRewarded_ECPM_order": []
-	},
-	"appLovinSettings": {
-		"ReadFromServer": false,
-		"IsAppLovinAdsEnable": true,
-		"wantToShowAppOpen": true,
-		"executionOrder": 1,
-		"MaxBannerPosition": 6,
-		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
-		"AppOpenId": "35d3f37387bfc0b7",
-		"BannerAdUnitId": "44c9d8ec83007a03",
-		"LovinInter": "05d1fb9bfc9b066e",
-		"LovinRewarded": "ed05a63d4e8bcf44"
-	},
-	"unityAdSetting": {
-		"IsUnityAdsEnable": true,
-		"executionOrder": 2,
-		"bannerPosition": 3,
-		"unityId_IOS": "5158739",
-		"unityId_AND": "5158738"
-	},
-	"GASeting": {
-		"IsGameAnalyticsEnable": true,
-		"GA_GameKey_Android": "c49ef57bf678beadc090a568c9e97920",
-		"GA_SecretKey_Android": "668adac41fb607bdf48ab9ef420dd591f041567a",
-		"GA_SecretKey_IOS": "N/A",
-		"GA_GameKey_IOS": "N/A"
-	}
+    "IsTestAds": false,
+    "wantToSkipFirstAd": false,
+    "IsForFamily": false,
+    "disableAds": false,
+    "disableBanner": true,
+    "Min_RAM_For_MAX": 500,
+    "minPingForMAX": 50,
+    "DelayBTWTwoInterstitials": 30,
+    "UseInactiveAds": false,
+    "ShowAdAfterInactive": 30,
+    "FetusRewardTimer": 0.0,
+    "IsInHouseAdsEnabled": false,
+    "inHouseAdPriority": 0,
+    "useFirebase": false,
+    "adOccuranceKeyData": {
+        "adOccuranceKeys": ["SkipAd_LvlCompleteqq", "SkipAd_LvlFail"]
+    },
+    "rateUsSetting": {
+        "iosAppID": "N/A",
+        "googlePlayBundleID": "com.gameshive.diymakeup",
+        "FirstShowLevel": 3,
+        "PostPonedLevels": 3
+    },
+    "flightModeSetting": {
+        "UseInternetPrompt": false,
+        "DelayBetweenInternetCheck": 15
+    },
+    "admobAdSetting": {
+        "ReadFromServer": true,
+        "IsAdmobAdsEnable": true,
+        "wantToShowAppOpen": true,
+        "executionOrder": 0,
+        "maxFillRateINTER": 3,
+        "maxFailRateINTER": 3,
+        "bannerType": 1,
+        "adPosition": 0,
+        "admobAppID": "ca-app-pub-6899425020552478~7350662439",
+        "admobBanner": "ca-app-pub-6899425020552478/5150792935",
+        "admobDefulatInterstial": "ca-app-pub-6899425020552478/2357108632",
+        "admobAppOpen": "ca-app-pub-6899425020552478/7691237855",
+        "admobRewardedInterstial": "ca-app-pub-3940256099942544/1033173712",
+        "admobNative": "ca-app-pub-3940256099942544/2247696110",
+        "defualtAdmobRewarded": "ca-app-pub-6899425020552478/8539373607",
+        "admobInterstial_ECPM_order": ["ca-app-pub-6899425020552478/1585669553", "ca-app-pub-6899425020552478/2707179531"],
+        "admobRewarded_ECPM_order": ["ca-app-pub-6899425020552478/1202526172", "ca-app-pub-6899425020552478/6183390117"]
+    },
+    "appLovinSettings": {
+        "ReadFromServer": false,
+        "IsAppLovinAdsEnable": false,
+        "wantToShowAppOpen": false,
+        "executionOrder": 1,
+        "LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
+        "AppOpenId": "10c8f555479b3a13",
+        "BannerAdUnitId": "010eef4ab882d11c",
+        "LovinInter": "e47cafa22f460090",
+        "LovinRewarded": "ad396544a6002dd7"
+    },
+    "unityAdSetting": {
+        "IsUnityAdsEnable": false,
+        "executionOrder": 2,
+        "unityId_IOS": "5220814",
+        "unityId_AND": "5220815"
+    },
+    "GASeting": {
+        "IsGameAnalyticsEnable": true,
+        "GA_GameKey_Android": "597385944f6c8cb1084b05cd5aa506ee",
+        "GA_SecretKey_Android": "0fbd6a77eae92d998f2ad9c6fe32709b662c1996",
+        "GA_SecretKey_IOS": "N/A",
+        "GA_GameKey_IOS": "N/A"
+    }
 }
