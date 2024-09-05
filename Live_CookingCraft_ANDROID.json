@@ -2,7 +2,7 @@
 	"IsTestAds": false,
 	"wantToSkipFirstAd": false,
 	"IsForFamily": false,
-	"disableAds": true,
+	"disableAds": false,
 	"disableBanner": false,
 	"Min_RAM_For_MAX": 500,
 	"minPingForMAX": 50,
@@ -53,7 +53,7 @@
 	},
 	"appLovinSettings": {
 		"ReadFromServer": false,
-		"IsAppLovinAdsEnable": false,
+		"IsAppLovinAdsEnable": true,
 		"wantToShowAppOpen": true,
 		"executionOrder": 0,
 		"MaxBannerPosition": 1,
