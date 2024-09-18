@@ -12,6 +12,9 @@
 		"configKeys": [
 			"ShowAd_LvlComplete_X",
 			"ShowAd_LvlFail_X"
+		],
+		"appVersions_disabelAds": [
+			"0.2.2"
 		]
 	}
 }
