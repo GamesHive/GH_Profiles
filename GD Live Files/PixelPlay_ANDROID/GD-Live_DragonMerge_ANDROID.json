@@ -3,11 +3,9 @@
 	"IsForFamily": false,
 	"disableAds": false,
 	"disableBanner": false,
-	
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 10,
 	"nextInterstitialDelay": 30,
-	
 	"gh_ConfigKeys": {
 		"configKeys": [
 			"ShowAd_LvlComplete_X",
@@ -16,6 +14,12 @@
 		"appVersions_disabelAds": [
 			"0.1.1_X",
 			"0.3.3_X"
+		],
+		"lvlFailMultipliers": [
+			1,
+			20,
+			40,
+			50
 		]
 	}
 }
