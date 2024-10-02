@@ -1,0 +1,21 @@
+{
+	"IsTestAds": false,
+	"IsForFamily": false,
+	"disableAds": false,
+	"disableBanner": false,
+	"refreshBannerByGH": false,
+	"bannerRefreshTime": 10,
+	"nextInterstitialDelay": 30,
+	"gh_ConfigKeys": {
+		
+		"configKeys": [
+			"ShowAd_LvlComplete_X",
+			"ShowAd_LvlFail_X"
+		],
+		"appVersions_disabelAds": [
+			"0.1.1_X",
+			"0.2.2_X"
+		]
+		
+	}
+}
