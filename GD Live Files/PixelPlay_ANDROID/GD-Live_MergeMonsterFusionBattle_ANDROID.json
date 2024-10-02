@@ -7,7 +7,7 @@
 	"bannerRefreshTime": 10,
 	"nextInterstitialDelay": 30,
 	"gh_ConfigKeys": {
-		"adStartingLvl": 0,
+		"adStartingLvl": 3,
 		"multiplierLvl": 27,
 		"configKeys": [
 			"ShowAd_LvlComplete_X",
@@ -15,7 +15,7 @@
 		],
 		"appVersions_disabelAds": [
 			"0.1.1_X",
-			"0.8.8_X"
+			"0.8.8"
 		],
 		"lvlFailMultipliers": [
 			1,
