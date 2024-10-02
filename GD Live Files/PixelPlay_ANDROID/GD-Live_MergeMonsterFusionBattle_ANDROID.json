@@ -7,6 +7,7 @@
 	"bannerRefreshTime": 10,
 	"nextInterstitialDelay": 30,
 	"gh_ConfigKeys": {
+		"adStartingLvl": 3,
 		"multiplierLvl": 27,
 		"configKeys": [
 			"ShowAd_LvlComplete_X",
