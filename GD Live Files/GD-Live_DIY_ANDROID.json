@@ -4,14 +4,12 @@
 	"disableAds": false,
 	"disableBanner": false,
 	"useToolsound": true,
-	
+	"InterDealy": true,
+	"LeftEye": true,
 	"refreshBannerByGH": true,
 	"bannerRefreshTime": 10,
-	
 	"nextInterstitialDelay": 3,
 	"internetCheckTime": 5,
-	
-	
 	"gh_ConfigKeys": {
 		"configKeys": [
 			"ShowAd_LvlComplete_X",
