@@ -4,7 +4,7 @@
 	"disableAds": false,
 	"disableBanner": false,
 	"useToolsound": true,
-	"InterDealy": false,
+	"InterDealy": true,
 	"LeftEye": true,
 	"refreshBannerByGH": true,
 	"bannerRefreshTime": 10,
