@@ -52,7 +52,7 @@
 	},
 	"appLovinSettings": {
 		"ReadFromServer": false,
-		"IsAppLovinAdsEnable": true,
+		"IsAppLovinAdsEnable": false,
 		"wantToShowAppOpen": false,
 		"executionOrder": 1,
 		"MaxBannerPosition": 6,
