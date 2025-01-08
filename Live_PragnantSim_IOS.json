@@ -62,7 +62,7 @@
         "unityId_AND": ""
     },
     "GASeting": {
-        "IsGameAnalyticsEnable": false,
+        "IsGameAnalyticsEnable": true,
         "GA_GameKey_Android": "N/A",
         "GA_SecretKey_Android": "N/A",
         "GA_SecretKey_IOS": "a403bb8640a030a0a60672285ea08444c185f935",
