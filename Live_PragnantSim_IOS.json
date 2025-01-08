@@ -1,17 +1,17 @@
 {
-    "IsTestAds": true,
+    "IsTestAds": false,
     "wantToSkipFirstAd": false,
     "IsForFamily": false,
     "disableAds": false,
     "disableBanner": true,
     "Min_RAM_For_MAX": 500,
     "minPingForMAX": 50,
-    "DelayBTWTwoInterstitials": 30,
+    "DelayBTWTwoInterstitials": 15,
     "UseInactiveAds": false,
     "ShowAdAfterInactive": 30,
     "IsInHouseAdsEnabled": false,
     "inHouseAdPriority": 0,
-    "useFirebase": true,
+    "useFirebase": false,
     "adOccuranceKeyData": {
         "adOccuranceKeys": []
     },
