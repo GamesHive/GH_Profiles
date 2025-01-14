@@ -1,8 +1,8 @@
 {
 	"IsTestAds": false,
 	"IsForFamily": false,
-	"disableAds": false,
-	"disableBanner": false,
+	"disableAds": true,
+	"disableBanner": true,
 	"useToolsound": false,
 	
 	"refreshBannerByGH": true,
