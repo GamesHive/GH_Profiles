@@ -3,6 +3,6 @@
 	"IsForFamily": false,
 	"disableAds": false,
 	"disableBanner": false,
-	"AdForIdleGame": true,
+	"AdForIdleGame": false,
 	"InterTime": 15.0
 }
