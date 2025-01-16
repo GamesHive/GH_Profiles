@@ -2,7 +2,7 @@
 	"IsTestAds": false,
 	"IsForFamily": false,
 	"disableAds": false,
-	"disableBanner": false,
+	"disableBanner": true,
 	"AdForIdleGame": false,
 	"InterTime": 15.0
 }
