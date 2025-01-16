@@ -3,39 +3,28 @@
 	"IsForFamily": false,
 	"disableAds": false,
 	"disableBanner": false,
-	"refreshBannerByGH": false,
-	"bannerRefreshTime": 10,
-	"nextInterstitialDelay": 30,
-	"gh_ConfigKeys": {
-		"multiplierLvl": 31,
-		"configKeys": [
-			"ShowAd_LvlComplete_X",
-			"ShowAd_LvlFail_X"
-		],
-		"appVersions_disabelAds": [
-			"0.1.1_X",
-			"0.4.4_X"
-		],
-		"lvlFailMultipliers": [
-			1,
-			20,
-			40,
-			50,
-			50,
-			50,
-			50,
-			50,
-			50,
-			50,
-			50,
-			50,
-			50,
-			50,
-			50,
-			50,
-			50,
-			50,
-			50
-		]
-	}
+	"InterTime": 15,
+	"lvlFailMultipliers": [
+		1,
+		10,
+		40,
+		50,
+		50,
+		50,
+		50,
+		50,
+		50,
+		50,
+		50,
+		50,
+		50,
+		50,
+		50,
+		50,
+		50,
+		50,
+		50
+	],
+	"multiplierLvl": 31,
+	"adStartingLvl": 0
 }
