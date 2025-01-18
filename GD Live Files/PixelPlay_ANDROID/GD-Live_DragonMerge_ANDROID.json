@@ -3,7 +3,7 @@
 	"IsForFamily": false,
 	"disableAds": true,
 	"disableBanner": false,
-	"InterTime": 15,
+	"InterTime": 40,
 	"lvlFailMultipliers": [
 		1,
 		10,
