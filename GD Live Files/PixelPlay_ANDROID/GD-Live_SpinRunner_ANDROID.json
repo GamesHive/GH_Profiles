@@ -1,9 +1,9 @@
 {
     "IsTestAds": false,
     "IsForFamily": false,
-    "disableAds": false,
+    "disableAds": true,
     "disableBanner": false,
-    "InterTime": 15,
+    "InterTime": 40,
     "lvlFailMultipliers": [],
     "multiplierLvl": 0,
     "adStartingLvl": 0
