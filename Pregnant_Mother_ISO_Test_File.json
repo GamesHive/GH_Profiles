@@ -1,0 +1,13 @@
+{
+	"IsTestAds": true,
+	"disableAds": false,
+	"disableBanner": false,
+	"InterTime": 5,
+	"AdmobMediationEnable": 0,
+	"gh_InGameData": {
+		"IsGameStart": false,
+		"GrowDelayTime": 1.0,
+		"InEnbleIntractiveAd": false,
+		"appVersions_disabelAds": []
+	}
+}
