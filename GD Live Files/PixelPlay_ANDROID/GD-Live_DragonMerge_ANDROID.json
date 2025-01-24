@@ -1,6 +1,5 @@
 {
 	"IsTestAds": false,
-	"IsForFamily": false,
 	"disableAds": false,
 	"disableBanner": false,
 	"InterTime": 40,
@@ -26,5 +25,11 @@
 		50
 	],
 	"multiplierLvl": 31,
-	"adStartingLvl": 0
+	"adStartingLvl": 0,
+	"AdsPriority": "Applovin_Max",
+	"AdmobMediationEnable": 0,
+	"gh_InGameData": {
+		"IsGameStart": false,
+		"appVersions_disabelAds": []
+	}
 }
