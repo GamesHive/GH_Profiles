@@ -1,4 +1,5 @@
 {
+	"adPriority": 0,
 	"IsTestAds": false,
 	"IsForFamily": false,
 	"disableAds": false,
@@ -10,7 +11,18 @@
 	"bannerRefreshTime": 10,
 	"nextInterstitialDelay": 3,
 	"internetCheckTime": 5,
+	"adsRemoteSettings": {
+		"ShowInternetPopup": true,
+		"UseAdmobSDK": true,
+		"UseAdmobAppopen": true,
+		"UseAdmobCollapsible": true,
+		"NextInterstitialDelay": 10,
+		"BannerRefreshRate": 10,
+		"MRecRefreshRate": 10
+	},
 	"gh_ConfigKeys": {
+		
+		"appVersions_disabelAds": [],
 		"configKeys": [
 			"ShowAd_LvlComplete_X",
 			"ShowAd_LvlFail_X",
