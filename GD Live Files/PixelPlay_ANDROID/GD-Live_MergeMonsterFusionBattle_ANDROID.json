@@ -1,35 +1,41 @@
 {
 	"IsTestAds": false,
+	"IsForFamily": false,
 	"disableAds": false,
 	"disableBanner": false,
-	"InterTime": 40,
-	"lvlFailMultipliers": [
-		1,
-		20,
-		30,
-		30,
-		30,
-		40,
-		40,
-		40,
-		40,
-		40,
-		40,
-		40,
-		40,
-		40,
-		40,
-		40,
-		50,
-		50,
-		50
-	],
-	"multiplierLvl": 27,
-	"adStartingLvl": 3,
-	"AdsPriority": "Admob",
-	"AdmobMediationEnable": 0,
-	"gh_InGameData": {
-		"IsGameStart": false,
-		"appVersions_disabelAds": []
+	"refreshBannerByGH": false,
+	"bannerRefreshTime": 10,
+	"nextInterstitialDelay": 40,
+	"gh_ConfigKeys": {
+		"adStartingLvl": 3,
+		"multiplierLvl": 27,
+		"configKeys": [
+			"ShowAd_LvlComplete_X",
+			"ShowAd_LvlFail_X"
+		],
+		"appVersions_disabelAds": [
+			"0.1.1_X",
+			"0.8.8_X"
+		],
+		"lvlFailMultipliers": [
+			1,
+			20,
+			30,
+			30,
+			30,
+			40,
+			40,
+			40,
+			40,
+			40,
+			40,
+			40,
+			40,
+			40,
+			40,
+			40,
+			50,
+			50,
+			50
+		]
 	}
-}
