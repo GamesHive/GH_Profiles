@@ -7,7 +7,7 @@
     "Min_RAM_For_MAX": 500,
     "minPingForMAX": 50,
     "DelayBTWTwoInterstitials": 40,
-	"GrowDelayTime": 0.25,
+	"GrowDelayTime": 4,
 	"InEnbleIntractiveAd": false,
     "UseInactiveAds": false,
     "ShowAdAfterInactive": 30,
