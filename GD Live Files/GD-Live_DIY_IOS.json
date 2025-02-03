@@ -1,5 +1,5 @@
 {
-	"adPriority": 1,
+	"adPriority": 0,
 	"IsTestAds": false,
 	"IsForFamily": false,
 	"disableAds": false,
@@ -13,9 +13,9 @@
 	"internetCheckTime": 5,
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
-		"UseAdmobSDK": true,
+		"UseAdmobSDK": false,
 		"UseAdmobAppopen": false,
-		"UseAdmobCollapsible": true,
+		"UseAdmobCollapsible": false,
 		"NextInterstitialDelay": 41,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
