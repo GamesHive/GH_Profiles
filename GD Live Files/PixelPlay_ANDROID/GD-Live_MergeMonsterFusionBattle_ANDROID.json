@@ -3,7 +3,7 @@
 	"IsTestAds": false,
 	"IsForFamily": false,
 	"disableAds": false,
-	"disableBanner": false,
+	"disableBanner": true,
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 10,
 	"nextInterstitialDelay": 40,

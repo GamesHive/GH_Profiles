@@ -2,7 +2,7 @@
    
     "IsTestAds": false,
     "disableAds": false,
-    "disableBanner": false,
+    "disableBanner": true,
     "InterTime": 40,
     "AdsPriority": "Applovin_Max",
     "AdmobMediationEnable": 0,

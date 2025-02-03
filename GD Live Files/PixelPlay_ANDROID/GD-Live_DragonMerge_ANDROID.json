@@ -1,7 +1,7 @@
 {
 	"IsTestAds": false,
 	"disableAds": false,
-	"disableBanner": false,
+	"disableBanner": true,
 	"InterTime": 40,
 	"lvlFailMultipliers": [
 		1,
