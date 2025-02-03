@@ -1,5 +1,5 @@
 {
-	"adPriority": 1,
+	"adPriority": 0,
 	"IsTestAds": false,
 	"IsForFamily": false,
 	"disableAds": false,
@@ -8,14 +8,14 @@
 	"InterDealy": true,
 	"LeftEye": true,
 	"refreshBannerByGH": true,
-	"bannerRefreshTime": 10,
+	"bannerRefreshTime": 15,
 	"nextInterstitialDelay": 3,
 	"internetCheckTime": 5,
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
-		"UseAdmobSDK": true,
+		"UseAdmobSDK": false,
 		"UseAdmobAppopen": false,
-		"UseAdmobCollapsible": true,
+		"UseAdmobCollapsible": false,
 		"NextInterstitialDelay": 40,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
@@ -23,7 +23,7 @@
 	"gh_ConfigKeys": {
 		
 		"appVersions_disabelAds": [
-			"0.44.59"
+			"0.44.59_X"
 		],
 		"configKeys": [
 			"ShowAd_LvlComplete_X",
