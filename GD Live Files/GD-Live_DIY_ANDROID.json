@@ -7,7 +7,7 @@
 	"useToolsound": true,
 	"InterDealy": true,
 	"LeftEye": true,
-	"refreshBannerByGH": true,
+	"refreshBannerByGH": false,
 	"bannerRefreshTime": 15,
 	"nextInterstitialDelay": 3,
 	"internetCheckTime": 5,
