@@ -1,4 +1,38 @@
 {
+	
+	"InterTime": 40,
+	"lvlFailMultipliers": [
+		1,
+		20,
+		30,
+		30,
+		30,
+		40,
+		40,
+		40,
+		40,
+		40,
+		40,
+		40,
+		40,
+		40,
+		40,
+		40,
+		50,
+		50,
+		50
+	],
+	"multiplierLvl": 27,
+	"adStartingLvl": 3,
+	"AdsPriority": "Admob",
+	"AdmobMediationEnable": 0,
+	"gh_InGameData": {
+		"IsGameStart": false,
+		"appVersions_disabelAds": []
+	},
+	
+	
+	
 	"adPriority": 1,
 	"IsTestAds": false,
 	"IsForFamily": false,
