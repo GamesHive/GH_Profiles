@@ -33,7 +33,7 @@
 	},
 	
 	"adPriority": 1,
-	"IsTestAds": true,
+	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
 	"disableBanner": true,
@@ -51,7 +51,7 @@
 	"gh_ConfigKeys": {
 		"multiplierLvl": 31,
 		"appVersions_disabelAds": [
-			""
+			"0.1.1_X"
 		],
 		"configKeys": [],
 		"lvlFailMultipliers": [
