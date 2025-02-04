@@ -1,17 +1,22 @@
 {
-   
-    "IsTestAds": false,
-    "disableAds": false,
-    "disableBanner": true,
-    "InterTime": 40,
-    "AdsPriority": "Applovin_Max",
-    "AdmobMediationEnable": 0,
-    "gh_InGameData": {
-        "IsGameStart": false,
-        "multiplierLvl": 27,
-        "adStartingLvl": 3,
-        "appVersions_disabelAds": [],
-        "lvlFailMultipliers": []
-    }
+	"adPriority": 1,
+	"IsTestAds": true,
+	"disableAds": false,
+	"IsForFamily": false,
+	"disableBanner": true,
+	"refreshBannerByGH": false,
+	"bannerRefreshTime": 20,
+	"adsRemoteSettings": {
+		"ShowInternetPopup": true,
+		"UseAdmobSDK": true,
+		"UseAdmobAppopen": false,
+		"UseAdmobCollapsible": true,
+		"NextInterstitialDelay": 10,
+		"BannerRefreshRate": 10,
+		"MRecRefreshRate": 10
+	},
+	"gh_ConfigKeys": {
+		"appVersions_disabelAds": [],
+		"configKeys": []
+	}
 }
-
