@@ -51,7 +51,8 @@
 	"gh_ConfigKeys": {
 		"multiplierLvl": 31,
 		"appVersions_disabelAds": [
-			"0.1.1_X"
+			"0.1.1_X",
+			"0.7.7"
 		],
 		"configKeys": [],
 		"lvlFailMultipliers": [
