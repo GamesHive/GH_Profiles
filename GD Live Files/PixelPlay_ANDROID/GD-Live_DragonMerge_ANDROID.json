@@ -43,7 +43,7 @@
 		"ShowInternetPopup": true,
 		"UseAdmobSDK": true,
 		"UseAdmobAppopen": false,
-		"UseAdmobCollapsible": true,
+		"UseAdmobCollapsible": false,
 		"NextInterstitialDelay": 40,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
@@ -52,7 +52,7 @@
 		"multiplierLvl": 31,
 		"appVersions_disabelAds": [
 			"0.1.1_X",
-			"0.7.7"
+			"0.7.7_X"
 		],
 		"configKeys": [],
 		"lvlFailMultipliers": [

@@ -1,5 +1,5 @@
 {
-	"adPriority": 0,
+	"adPriority": 1,
 	"IsTestAds": false,
 	"IsForFamily": false,
 	"disableAds": false,
@@ -16,8 +16,8 @@
 		"UseAdmobSDK": true,
 		"UseAdmobAppopen": false,
 		"UseAdmobCollapsible": false,
-		"NextInterstitialDelay": 41,
-		"BannerRefreshRate": 10,
+		"NextInterstitialDelay": 40,
+		"BannerRefreshRate": 13,
 		"MRecRefreshRate": 10
 	},
 	"gh_ConfigKeys": {
