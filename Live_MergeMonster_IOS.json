@@ -1,0 +1,43 @@
+{
+	"adPriority": 1,
+	"IsTestAds": false,
+	"disableAds": false,
+	"IsForFamily": false,
+	"disableBanner": false,
+	"refreshBannerByGH": false,
+	"bannerRefreshTime": 20,
+	"admobConfigs": {
+		"AdsEnabled": false,
+		"BannerEnabled": false,
+		"UseAdmobCollapsible": false,
+		"AppOpenEnabled": false,
+		"InterEnabled": false,
+		"RwdEnabled": false
+	},
+	"applovinConfigs": {
+		"AdsEnabled": false,
+		"BannerEnabled": false,
+		"AppOpenEnabled": false,
+		"InterEnabled": false,
+		"RwdEnabled": false
+	},
+	"adsRemoteSettings": {
+		"ShowInternetPopup": true,
+		"UseAdmobSDK": true,
+		"UseAdmobAppopen": true,
+		"UseAdmobCollapsible": true,
+		"NextInterstitialDelay": 10,
+		"BannerRefreshRate": 10,
+		"MRecRefreshRate": 10
+	},
+	"gh_ConfigKeys": {
+		"appVersions_disabelAds": [
+			"0.1.1_X",
+			"0.2.2_X"
+		],
+		"configKeys": [
+			"ShowAd_LvlComplete_X",
+			"ShowAd_LvlFail_X"
+		]
+	}
+}
