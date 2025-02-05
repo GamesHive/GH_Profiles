@@ -2,7 +2,7 @@
 	"adPriority": 1,
 	"IsTestAds": false,
 	"IsForFamily": false,
-	"disableAds": false,
+	"disableAds": true,
 	"disableBanner": true,
 	"useToolsound": true,
 	"InterDealy": true,
