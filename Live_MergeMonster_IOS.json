@@ -7,19 +7,19 @@
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
 	"admobConfigs": {
-		"AdsEnabled": false,
-		"BannerEnabled": false,
-		"UseAdmobCollapsible": false,
-		"AppOpenEnabled": false,
-		"InterEnabled": false,
-		"RwdEnabled": false
+		"AdsEnabled": true,
+		"BannerEnabled": true,
+		"UseAdmobCollapsible": true,
+		"AppOpenEnabled": true,
+		"InterEnabled": true,
+		"RwdEnabled": true
 	},
 	"applovinConfigs": {
-		"AdsEnabled": false,
-		"BannerEnabled": false,
-		"AppOpenEnabled": false,
-		"InterEnabled": false,
-		"RwdEnabled": false
+		"AdsEnabled": true,
+		"BannerEnabled": true,
+		"AppOpenEnabled": true,
+		"InterEnabled": true,
+		"RwdEnabled": true
 	},
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
