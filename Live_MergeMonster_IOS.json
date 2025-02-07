@@ -1,23 +1,23 @@
 {
-    "adPriority": 0,
+    "adPriority": 1,
     "IsTestAds": false,
     "disableAds": false,
     "IsForFamily": false,
-    "disableBanner": false,
+    "disableBanner": true,
     "refreshBannerByGH": false,
     "bannerRefreshTime": 20,
     "admobConfigs": {
-        "AdsEnabled": false,
+        "AdsEnabled": true,
         "BannerEnabled": false,
         "UseAdmobCollapsible": false,
         "AppOpenEnabled": false,
-        "InterEnabled": false,
-        "RwdEnabled": false
+        "InterEnabled": true,
+        "RwdEnabled": true
     },
     "applovinConfigs": {
         "AdsEnabled": true,
-        "BannerEnabled": true,
-        "AppOpenEnabled": true,
+        "BannerEnabled": false,
+        "AppOpenEnabled": false,
         "InterEnabled": true,
         "RwdEnabled": true
     },
@@ -30,7 +30,7 @@
         "UseAdmobSDK": false,
         "UseAdmobAppopen": false,
         "UseAdmobCollapsible": false,
-        "NextInterstitialDelay": 10,
+        "NextInterstitialDelay": 40,
         "BannerRefreshRate": 10,
         "MRecRefreshRate": 10
     },
