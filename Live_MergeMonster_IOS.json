@@ -1,43 +1,46 @@
 {
-	"adPriority": 1,
-	"IsTestAds": true,
-	"disableAds": false,
-	"IsForFamily": false,
-	"disableBanner": false,
-	"refreshBannerByGH": false,
-	"bannerRefreshTime": 20,
-	"admobConfigs": {
-		"AdsEnabled": true,
-		"BannerEnabled": true,
-		"UseAdmobCollapsible": true,
-		"AppOpenEnabled": true,
-		"InterEnabled": true,
-		"RwdEnabled": true
-	},
-	"applovinConfigs": {
-		"AdsEnabled": true,
-		"BannerEnabled": true,
-		"AppOpenEnabled": true,
-		"InterEnabled": true,
-		"RwdEnabled": true
-	},
-	"adsRemoteSettings": {
-		"ShowInternetPopup": true,
-		"UseAdmobSDK": true,
-		"UseAdmobAppopen": true,
-		"UseAdmobCollapsible": true,
-		"NextInterstitialDelay": 10,
-		"BannerRefreshRate": 10,
-		"MRecRefreshRate": 10
-	},
-	"gh_ConfigKeys": {
-		"appVersions_disabelAds": [
-			"0.1.1_X",
-			"0.2.2_X"
-		],
-		"configKeys": [
-			"ShowAd_LvlComplete_X",
-			"ShowAd_LvlFail_X"
-		]
-	}
+    "adPriority": 0,
+    "IsTestAds": false,
+    "disableAds": false,
+    "IsForFamily": false,
+    "disableBanner": false,
+    "refreshBannerByGH": false,
+    "bannerRefreshTime": 20,
+    "admobConfigs": {
+        "AdsEnabled": false,
+        "BannerEnabled": false,
+        "UseAdmobCollapsible": false,
+        "AppOpenEnabled": false,
+        "InterEnabled": false,
+        "RwdEnabled": false
+    },
+    "applovinConfigs": {
+        "AdsEnabled": true,
+        "BannerEnabled": true,
+        "AppOpenEnabled": true,
+        "InterEnabled": true,
+        "RwdEnabled": true
+    },
+    "analyticsConfigs": {
+        "AppMatricaAnalyticsEnabled": true,
+        "FirebaseAnalyticsEnabled": true
+    },
+    "adsRemoteSettings": {
+        "ShowInternetPopup": true,
+        "UseAdmobSDK": false,
+        "UseAdmobAppopen": false,
+        "UseAdmobCollapsible": false,
+        "NextInterstitialDelay": 10,
+        "BannerRefreshRate": 10,
+        "MRecRefreshRate": 10
+    },
+    "gh_ConfigKeys": {
+        "appVersions_disabelAds": ["0.1.1_X", "0.2.2_X"],
+        "configKeys": ["ShowAd_LvlComplete_X", "ShowAd_LvlFail_X"]
+    },
+    "GameConfigs": {
+        "adStartingLvl": 3,
+        "mmultiplierLvl": 27,
+        "lvlFailMultipliers": [1, 20, 30, 30, 30, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 50, 50, 50]
+    }
 }
