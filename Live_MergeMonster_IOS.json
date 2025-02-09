@@ -1,6 +1,6 @@
 {
     "adPriority": 1,
-    "IsTestAds": false,
+    "IsTestAds": true,
     "disableAds": false,
     "IsForFamily": false,
     "disableBanner": true,
