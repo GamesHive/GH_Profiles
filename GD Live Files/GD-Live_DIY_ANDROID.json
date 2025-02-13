@@ -8,7 +8,7 @@
 	
 	
 	"adPriority": 0,
-	"IsTestAds": true,
+	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
 	"disableBanner": false,
