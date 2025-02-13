@@ -39,7 +39,7 @@
 	"disableAds": false,
 	"disableBanner": true,
 	"refreshBannerByGH": false,
-	"bannerRefreshTime": 10,
+	"bannerRefreshTime": 20,
 	"nextInterstitialDelay": 40,
 	
 	"adsRemoteSettings": {
@@ -48,7 +48,7 @@
 		"UseAdmobAppopen": false,
 		"UseAdmobCollapsible": false,
 		"NextInterstitialDelay": 40,
-		"BannerRefreshRate": 10,
+		"BannerRefreshRate": 15,
 		"MRecRefreshRate": 10
 	},
 	
