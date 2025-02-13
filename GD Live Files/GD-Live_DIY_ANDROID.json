@@ -1,16 +1,38 @@
 {
-	"adPriority": 0,
-	"IsTestAds": false,
-	"IsForFamily": false,
-	"disableAds": false,
-	"disableBanner": false,
+	
 	"useToolsound": true,
 	"InterDealy": true,
 	"LeftEye": true,
-	"refreshBannerByGH": false,
-	"bannerRefreshTime": 15,
 	"nextInterstitialDelay": 3,
 	"internetCheckTime": 5,
+	
+	
+	"adPriority": 0,
+	"IsTestAds": true,
+	"disableAds": false,
+	"IsForFamily": false,
+	"disableBanner": false,
+	"refreshBannerByGH": false,
+	"bannerRefreshTime": 20,
+	"admobConfigs": {
+		"AdsEnabled": false,
+		"BannerEnabled": false,
+		"UseAdmobCollapsible": false,
+		"AppOpenEnabled": false,
+		"InterEnabled": false,
+		"RwdEnabled": false
+	},
+	"applovinConfigs": {
+		"AdsEnabled": true,
+		"BannerEnabled": false,
+		"AppOpenEnabled": false,
+		"InterEnabled": true,
+		"RwdEnabled": true
+	},
+	"analyticsConfigs": {
+		"AppMatricaAnalyticsEnabled": true,
+		"FirebaseAnalyticsEnabled": true
+	},
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
 		"UseAdmobSDK": false,
@@ -21,7 +43,6 @@
 		"MRecRefreshRate": 10
 	},
 	"gh_ConfigKeys": {
-		
 		"appVersions_disabelAds": [
 			"0.43.58",
 			"0.44.59"
@@ -33,5 +54,9 @@
 			"EyekmakeUp_Style",
 			"LipStickmakeUp_Style"
 		]
+	},
+	"gameConfigs": {
+		"useToolSound": true,
+		"LeftEye": true
 	}
 }
