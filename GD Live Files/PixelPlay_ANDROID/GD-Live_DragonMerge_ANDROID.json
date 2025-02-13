@@ -45,7 +45,7 @@
 		"UseAdmobAppopen": false,
 		"UseAdmobCollapsible": false,
 		"NextInterstitialDelay": 40,
-		"BannerRefreshRate": 10,
+		"BannerRefreshRate": 15,
 		"MRecRefreshRate": 10
 	},
 	"gh_ConfigKeys": {
