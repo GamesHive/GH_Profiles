@@ -20,7 +20,7 @@
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
 		"UseAdmobSDK": true,
-		"UseAdmobAppopen": false,
+		"UseAdmobAppopen": true,
 		"UseAdmobCollapsible": true,
 		"NextInterstitialDelay": 40,
 		"BannerRefreshRate": 10,
