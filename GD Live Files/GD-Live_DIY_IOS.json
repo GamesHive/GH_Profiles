@@ -3,7 +3,7 @@
 	"IsTestAds": false,
 	"IsForFamily": false,
 	"disableAds": false,
-	"disableBanner": true,
+	"disableBanner": false,
 	"useToolsound": true,
 	"InterDealy": true,
 	"LeftEye": true,
@@ -14,9 +14,9 @@
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
 		"UseAdmobSDK": true,
-		"UseAdmobAppopen": false,
+		"UseAdmobAppopen": true,
 		"UseAdmobCollapsible": false,
-		"NextInterstitialDelay": 4000,
+		"NextInterstitialDelay": 40,
 		"BannerRefreshRate": 13,
 		"MRecRefreshRate": 10
 	},
