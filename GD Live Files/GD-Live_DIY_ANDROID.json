@@ -45,7 +45,8 @@
 	"gh_ConfigKeys": {
 		"appVersions_disabelAds": [
 			"0.43.58",
-			"0.44.59"
+			"0.44.59",
+			"0.46.61_X"
 		],
 		"configKeys": [
 			"ShowAd_LvlComplete_X",
@@ -53,6 +54,10 @@
 			"FaceMassage",
 			"EyekmakeUp_Style",
 			"LipStickmakeUp_Style"
+		],
+		"disableAds_Countries": [
+			"PK_",
+			"IR"
 		]
 	},
 	"gameConfigs": {
