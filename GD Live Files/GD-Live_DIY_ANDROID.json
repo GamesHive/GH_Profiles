@@ -63,8 +63,8 @@
 		],
 		"disableAds_countryInfos": [
 			{
-				"country": "Pakistan",
-				"countryCode": "PK"
+				"country": "Pakistan_",
+				"countryCode": "PK_"
 			},
 			{
 				"country": "Iran",
