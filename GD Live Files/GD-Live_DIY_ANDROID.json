@@ -7,7 +7,7 @@
 	"internetCheckTime": 5,
 	
 	
-	"adPriority": 0,
+	"adPriority": 1,
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
@@ -15,7 +15,7 @@
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
 	"admobConfigs": {
-		"AdsEnabled": false,
+		"AdsEnabled": true,
 		"BannerEnabled": false,
 		"UseAdmobCollapsible": false,
 		"AppOpenEnabled": false,
@@ -23,7 +23,7 @@
 		"RwdEnabled": true
 	},
 	"applovinConfigs": {
-		"AdsEnabled": true,
+		"AdsEnabled": false,
 		"BannerEnabled": false,
 		"AppOpenEnabled": false,
 		"InterEnabled": true,
@@ -47,6 +47,7 @@
 			"0.43.58",
 			"0.44.59",
 			"0.45.60",
+			"0.46.61",
 			"0.46.61_",
 			"0.47.62"
 		],
