@@ -7,7 +7,7 @@
 	"internetCheckTime": 5,
 	
 	
-	"adPriority": 0,
+	"adPriority": 1,
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
@@ -15,7 +15,7 @@
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
 	"admobConfigs": {
-		"AdsEnabled": false,
+		"AdsEnabled": true,
 		"BannerEnabled": false,
 		"UseAdmobCollapsible": false,
 		"AppOpenEnabled": false,
@@ -49,7 +49,7 @@
 			"0.45.60_X",
 			"0.46.61_X",
 			"0.47.62_X",
-			"0.64.64"
+			"0.64.64_X"
 		],
 		"configKeys": [
 			"ShowAd_LvlComplete_X",
