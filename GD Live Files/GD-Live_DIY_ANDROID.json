@@ -7,7 +7,7 @@
 	"internetCheckTime": 5,
 	
 	
-	"adPriority": 1,
+	"adPriority": 0,
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
@@ -15,7 +15,7 @@
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
 	"admobConfigs": {
-		"AdsEnabled": true,
+		"AdsEnabled": false,
 		"BannerEnabled": false,
 		"UseAdmobCollapsible": false,
 		"AppOpenEnabled": false,
@@ -44,11 +44,11 @@
 	},
 	"gh_ConfigKeys": {
 		"appVersions_disabelAds": [
-			"0.43.58",
-			"0.44.59",
-			"0.45.60",
-			"0.46.61",
-			"0.47.62"
+			"0.43.58_X",
+			"0.44.59_X",
+			"0.45.60_X",
+			"0.46.61_X",
+			"0.47.62_X"
 		],
 		"configKeys": [
 			"ShowAd_LvlComplete_X",
