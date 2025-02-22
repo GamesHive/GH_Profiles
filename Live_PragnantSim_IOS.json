@@ -5,10 +5,10 @@
    
     "Min_RAM_For_MAX": 500,
     "minPingForMAX": 50,
-    "DelayBTWTwoInterstitials": 60,
+    "DelayBTWTwoInterstitials": 25,
 	
     "UseInactiveAds": false,
-    "ShowAdAfterInactive": 30,
+    "ShowAdAfterInactive": 25,
 
 	
 	"adPriority": 1,
@@ -42,7 +42,7 @@
 		"UseAdmobSDK": false,
 		"UseAdmobAppopen": false,
 		"UseAdmobCollapsible": false,
-		"NextInterstitialDelay": 40,
+		"NextInterstitialDelay": 25,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
