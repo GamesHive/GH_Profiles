@@ -7,15 +7,16 @@
 	"internetCheckTime": 5,
 	
 	
-	"adPriority": 1,
+	"adPriority": 0,
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
-	"disableBanner": false,
+	"disableBanner": true,
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
+	
 	"admobConfigs": {
-		"AdsEnabled": true,
+		"AdsEnabled": false,
 		"BannerEnabled": false,
 		"UseAdmobCollapsible": false,
 		"AppOpenEnabled": false,
