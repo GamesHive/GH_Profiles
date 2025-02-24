@@ -33,36 +33,66 @@
 	
 	
 	
+	"nextInterstitialDelay": 40,
+	
+	
 	"adPriority": 1,
 	"IsTestAds": false,
-	"IsForFamily": false,
 	"disableAds": false,
+	"IsForFamily": false,
 	"disableBanner": true,
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
-	"nextInterstitialDelay": 40,
-	
+	"admobConfigs": {
+		"AdsEnabled": false,
+		"BannerEnabled": false,
+		"UseAdmobCollapsible": false,
+		"AppOpenEnabled": false,
+		"InterEnabled": false,
+		"RwdEnabled": false
+	},
+	"applovinConfigs": {
+		"AdsEnabled": false,
+		"BannerEnabled": false,
+		"AppOpenEnabled": false,
+		"InterEnabled": false,
+		"RwdEnabled": false
+	},
+	"analyticsConfigs": {
+		"AppMatricaAnalyticsEnabled": false,
+		"FirebaseAnalyticsEnabled": false
+	},
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
 		"UseAdmobSDK": true,
 		"UseAdmobAppopen": false,
 		"UseAdmobCollapsible": false,
-		"NextInterstitialDelay": 40,
+		"NextInterstitialDelay": 10,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
-	
 	"gh_ConfigKeys": {
-		"adStartingLvl": 3,
-		"multiplierLvl": 27,
-		"configKeys": [
-			"ShowAd_LvlComplete_X",
-			"ShowAd_LvlFail_X"
-		],
 		"appVersions_disabelAds": [
 			"0.1.1_X",
 			"0.11.11_X"
 		],
+		"configKeys": [
+			"ShowAd_LvlComplete_X",
+			"ShowAd_LvlFail_X"
+		],
+		"disableAds_countryInfos": [
+			{
+				"country": "Pakistan_X",
+				"countryCode": "PK_X"
+			},
+			{
+				"country": "Iran_X",
+				"countryCode": "IR_X"
+			}
+		],
+		"adStartingLvl": 3,
+		"multiplierLvl": 27,
+		
 		"lvlFailMultipliers": [
 			1,
 			20,
@@ -84,5 +114,31 @@
 			50,
 			50
 		]
+	},
+	
+	"gameDataConfiges": {
+		"lvlFailMultipliers": [
+			1,
+			20,
+			30,
+			30,
+			30,
+			40,
+			40,
+			40,
+			40,
+			40,
+			40,
+			40,
+			40,
+			40,
+			40,
+			40,
+			50,
+			50,
+			50
+		],
+		"adStartingLvl": 3,
+		"multiplierLvl": 27
 	}
 }
