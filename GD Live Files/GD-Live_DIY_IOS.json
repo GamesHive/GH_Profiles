@@ -1,34 +1,78 @@
 {
-	"adPriority": 1,
-	"IsTestAds": false,
-	"IsForFamily": false,
-	"disableAds": false,
-	"disableBanner": true,
+	
 	"useToolsound": true,
 	"InterDealy": true,
 	"LeftEye": true,
-	"refreshBannerByGH": false,
-	"bannerRefreshTime": 10,
+	
+	
 	"nextInterstitialDelay": 3,
 	"internetCheckTime": 5,
+	
+	
+	"adPriority": 1,
+	"IsTestAds": false,
+	"disableAds": false,
+	"IsForFamily": false,
+	"disableBanner": true,
+	"refreshBannerByGH": false,
+	"bannerRefreshTime": 10,
+	"admobConfigs": {
+		"AdsEnabled": true,
+		"BannerEnabled": false,
+		"UseAdmobCollapsible": false,
+		"AppOpenEnabled": false,
+		"InterEnabled": true,
+		"RwdEnabled": true
+	},
+	"applovinConfigs": {
+		"AdsEnabled": true,
+		"BannerEnabled": false,
+		"AppOpenEnabled": false,
+		"InterEnabled": true,
+		"RwdEnabled": true
+	},
+	"analyticsConfigs": {
+		"AppMatricaAnalyticsEnabled": true,
+		"FirebaseAnalyticsEnabled": true
+	},
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
 		"UseAdmobSDK": true,
 		"UseAdmobAppopen": false,
 		"UseAdmobCollapsible": false,
 		"NextInterstitialDelay": 40,
-		"BannerRefreshRate": 13,
+		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
 	"gh_ConfigKeys": {
-		
-		"appVersions_disabelAds": [],
+		"appVersions_disabelAds": [
+			"0.1.1_X",
+			"0.2.2_X"
+		],
 		"configKeys": [
 			"ShowAd_LvlComplete_X",
 			"ShowAd_LvlFail_X",
 			"FaceMassage",
 			"EyekmakeUp_Style",
 			"LipStickmakeUp_Style"
+		],
+		"inAppKeys": [
+			{
+				"Id": "com.gameshive.diymakeup.no_ads",
+				"ProductType": 1,
+				"PurchaseType": 0,
+				"PriceInDollars": "0.99"
+			}
+		],
+		"disableAds_countryInfos": [
+			{
+				"country": "Iran_X",
+				"countryCode": "IR_X"
+			}
 		]
+	},
+	"gameConfigs": {
+		"useToolSound": true,
+		"LeftEye": true
 	}
 }
