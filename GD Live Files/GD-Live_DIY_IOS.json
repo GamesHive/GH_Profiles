@@ -64,7 +64,7 @@
 				"PriceInDollars": "1.99"
 			},
 			{
-				"Id": "unlock_All",
+				"Id": "com.gameshive.diymakeup.unlock_all",
 				"ProductType": 1,
 				"PurchaseType": 1,
 				"PriceInDollars": "2.99"
