@@ -61,7 +61,13 @@
 				"Id": "com.gameshive.diymakeup.no_ads",
 				"ProductType": 1,
 				"PurchaseType": 0,
-				"PriceInDollars": "0.99"
+				"PriceInDollars": "1.99"
+			},
+			{
+				"Id": "unlock_All",
+				"ProductType": 1,
+				"PurchaseType": 1,
+				"PriceInDollars": "2.99"
 			}
 		],
 		"disableAds_countryInfos": [
