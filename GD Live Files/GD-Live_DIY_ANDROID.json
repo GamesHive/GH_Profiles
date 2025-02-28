@@ -16,7 +16,7 @@
 	"bannerRefreshTime": 20,
 	
 	"admobConfigs": {
-		"AdsEnabled": false,
+		"AdsEnabled": true,
 		"BannerEnabled": false,
 		"UseAdmobCollapsible": false,
 		"AppOpenEnabled": false,
