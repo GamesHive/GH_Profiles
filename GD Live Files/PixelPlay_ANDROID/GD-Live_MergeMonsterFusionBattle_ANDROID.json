@@ -40,12 +40,12 @@
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
-	"disableBanner": false,
+	"disableBanner": true,
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
 	"admobConfigs": {
 		"AdsEnabled": true,
-		"BannerEnabled": true,
+		"BannerEnabled": false,
 		"UseAdmobCollapsible": false,
 		"AppOpenEnabled": true,
 		"InterEnabled": true,
@@ -67,7 +67,7 @@
 		"UseAdmobSDK": true,
 		"UseAdmobAppopen": true,
 		"UseAdmobCollapsible": false,
-		"NextInterstitialDelay": 30,
+		"NextInterstitialDelay": 25,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
