@@ -7,19 +7,19 @@
 	"internetCheckTime": 5,
 	
 	
-	"adPriority": 1,
+	"adPriority": 0,
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
-	"disableBanner": true,
+	"disableBanner": false,
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
 	
 	"admobConfigs": {
 		"AdsEnabled": true,
-		"BannerEnabled": false,
+		"BannerEnabled": true,
 		"UseAdmobCollapsible": false,
-		"AppOpenEnabled": false,
+		"AppOpenEnabled": true,
 		"InterEnabled": true,
 		"RwdEnabled": true
 	},
@@ -36,7 +36,7 @@
 	},
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
-		"UseAdmobSDK": false,
+		"UseAdmobSDK": true,
 		"UseAdmobAppopen": false,
 		"UseAdmobCollapsible": false,
 		"NextInterstitialDelay": 40,
