@@ -1,75 +1,54 @@
 {
-	"IsTestAds": false,
-	"wantToSkipFirstAd": false,
-	"IsForFamily": false,
+	"adPriority": 1,
+	"IsTestAds": true,
 	"disableAds": false,
-	"disableBanner": false,
-	"Min_RAM_For_MAX": 2000,
-	"minPingForMAX": 50,
-	"DelayBTWTwoInterstitials": 20,
-	"ShowAdAfterInactive": 20,
-	"IsInHouseAdsEnabled": false,
-	"inHouseAdPriority": 0,
-	"useFirebase": true,
-	"adOccuranceKeyData": {
-		"adOccuranceKeys": [
-			"SkipAd_LvlCompleteqq",
-			"SkipAd_LvlFail"
+	"IsForFamily": false,
+	"disableBanner": true,
+	"refreshBannerByGH": false,
+	"bannerRefreshTime": 20,
+	"admobConfigs": {
+		"AdsEnabled": true,
+		"BannerEnabled": false,
+		"UseAdmobCollapsible": false,
+		"AppOpenEnabled": false,
+		"InterEnabled": true,
+		"RwdEnabled": true
+	},
+	"applovinConfigs": {
+		"AdsEnabled": true,
+		"BannerEnabled": false,
+		"AppOpenEnabled": false,
+		"InterEnabled": true,
+		"RwdEnabled": true
+	},
+	"analyticsConfigs": {
+		"AppMatricaAnalyticsEnabled": true,
+		"FirebaseAnalyticsEnabled": true
+	},
+	"adsRemoteSettings": {
+		"ShowInternetPopup": true,
+		"NextInterstitialDelay": 40,
+		"BannerRefreshRate": 10,
+		"MRecRefreshRate": 10
+	},
+	"gh_ConfigKeys": {
+		"appVersions_disabelAds": [
+			"0.1.1_X",
+			"0.2.2_X"
+		],
+		"configKeys": [
+			"ShowAd_LvlComplete_X",
+			"ShowAd_LvlFail_X"
+		],
+		"disableAds_countryInfos": [
+			{
+				"country": "Pakistan_X",
+				"countryCode": "PK_X"
+			},
+			{
+				"country": "Iran_X",
+				"countryCode": "IR_X"
+			}
 		]
-	},
-	"rateUsSetting": {
-		"iosAppID": "1642923411",
-		"googlePlayBundleID": "N/A",
-		"FirstShowLevel": 3,
-		"PostPonedLevels": 3
-	},
-	"flightModeSetting": {
-		"UseInternetPrompt": true,
-		"DelayBetweenInternetCheck": 15
-	},
-	"admobAdSetting": {
-		"ReadFromServer": false,
-		"IsAdmobAdsEnable": true,
-		"wantToShowAppOpen": true,
-		"executionOrder": 1,
-		"maxFillRateINTER": 0,
-		"maxFailRateINTER": 0,
-		"bannerType": 1,
-		"adPosition": 0,
-		"admobAppID": "ca-app-pub-6899425020552478~3178029466",
-		"admobBanner": "ca-app-pub-6899425020552478/6375038440",
-		"admobDefulatInterstial": "ca-app-pub-6899425020552478/2838708998",
-		"admobAppOpen": "ca-app-pub-6899425020552478/6305083461",
-		"admobRewardedInterstial": "",
-		"admobNative": "",
-		"defualtAdmobRewarded": "ca-app-pub-6899425020552478/4934141877",
-		"admobInterstial_ECPM_order": [],
-		"admobRewarded_ECPM_order": []
-	},
-	"appLovinSettings": {
-		"ReadFromServer": false,
-		"IsAppLovinAdsEnable": true,
-		"wantToShowAppOpen": true,
-		"executionOrder": 0,
-		"MaxBannerPosition": 1,
-		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
-		"AppOpenId": "afce761eeb6ec5eb",
-		"BannerAdUnitId": "0c4e8693233f0bdc",
-		"LovinInter": "a08e886acc7b104b",
-		"LovinRewarded": "037172c9450c3cf7"
-	},
-	"unityAdSetting": {
-		"IsUnityAdsEnable": true,
-		"executionOrder": 2,
-		"bannerPosition": 1,
-		"unityId_IOS": "5009778",
-		"unityId_AND": "5009779"
-	},
-	"GASeting": {
-		"IsGameAnalyticsEnable": true,
-		"GA_GameKey_Android": "N/A",
-		"GA_SecretKey_Android": "N/A",
-		"GA_SecretKey_IOS": "088292562cea6f4d2189fdbabb494d817ba4c870",
-		"GA_GameKey_IOS": "3636ed684e599c9b3954c15a9617c81a"
 	}
 }
