@@ -9,34 +9,34 @@
 	
 	"adPriority": 0,
 	"IsTestAds": false,
-	"disableAds": false,
+	"disableAds": true,
 	"IsForFamily": false,
-	"disableBanner": false,
+	"disableBanner": true,
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
 	
 	"admobConfigs": {
-		"AdsEnabled": true,
-		"BannerEnabled": true,
+		"AdsEnabled": false,
+		"BannerEnabled": false,
 		"UseAdmobCollapsible": false,
-		"AppOpenEnabled": true,
-		"InterEnabled": true,
-		"RwdEnabled": true
+		"AppOpenEnabled": false,
+		"InterEnabled": false,
+		"RwdEnabled": false
 	},
 	"applovinConfigs": {
-		"AdsEnabled": true,
+		"AdsEnabled": false,
 		"BannerEnabled": false,
 		"AppOpenEnabled": false,
-		"InterEnabled": true,
-		"RwdEnabled": true
+		"InterEnabled": false,
+		"RwdEnabled": false
 	},
 	"analyticsConfigs": {
-		"AppMatricaAnalyticsEnabled": true,
-		"FirebaseAnalyticsEnabled": true
+		"AppMatricaAnalyticsEnabled": false,
+		"FirebaseAnalyticsEnabled": false
 	},
 	"adsRemoteSettings": {
-		"ShowInternetPopup": true,
-		"UseAdmobSDK": true,
+		"ShowInternetPopup": false,
+		"UseAdmobSDK": false,
 		"UseAdmobAppopen": false,
 		"UseAdmobCollapsible": false,
 		"NextInterstitialDelay": 40,
@@ -46,11 +46,6 @@
 	"gh_ConfigKeys": {
 		"appVersions_disabelAds": [
 			"0.43.58_X",
-			"0.44.59_X",
-			"0.45.60_X",
-			"0.46.61_X",
-			"0.47.62_X",
-			"0.64.64_X"
 		],
 		"configKeys": [
 			"ShowAd_LvlComplete_X",
@@ -60,8 +55,8 @@
 			"LipStickmakeUp_Style"
 		],
 		"disableAds_Countries": [
-			"PK_",
-			"IR"
+			"PK_X",
+			"IR_X"
 		],
 		"disableAds_countryInfos": [
 			{
@@ -69,8 +64,8 @@
 				"countryCode": "PK_X"
 			},
 			{
-				"country": "Iran",
-				"countryCode": "IR"
+				"country": "Iran_X",
+				"countryCode": "IR_X"
 			}
 		]
 	},
