@@ -1,0 +1,82 @@
+{
+	
+	"useToolsound": true,
+	"InterDealy": true,
+	"LeftEye": true,
+	"nextInterstitialDelay": 3,
+	"internetCheckTime": 5,
+	
+	
+	"adPriority": 0,
+	"IsTestAds": false,
+	"disableAds": false,
+	"IsForFamily": false,
+	"disableBanner": false,
+	"refreshBannerByGH": false,
+	"bannerRefreshTime": 20,
+	
+	"admobConfigs": {
+		"AdsEnabled": true,
+		"BannerEnabled": true,
+		"UseAdmobCollapsible": false,
+		"AppOpenEnabled": true,
+		"InterEnabled": true,
+		"RwdEnabled": true
+	},
+	"applovinConfigs": {
+		"AdsEnabled": true,
+		"BannerEnabled": false,
+		"AppOpenEnabled": false,
+		"InterEnabled": true,
+		"RwdEnabled": true
+	},
+	"analyticsConfigs": {
+		"AppMatricaAnalyticsEnabled": true,
+		"FirebaseAnalyticsEnabled": true
+	},
+	"adsRemoteSettings": {
+		"ShowInternetPopup": true,
+		"UseAdmobSDK": true,
+		"UseAdmobAppopen": false,
+		"UseAdmobCollapsible": false,
+		"NextInterstitialDelay": 40,
+		"BannerRefreshRate": 10,
+		"MRecRefreshRate": 10
+	},
+	"gh_ConfigKeys": {
+		"appVersions_disabelAds": [
+			"0.43.58_X",
+			"0.44.59_X",
+			"0.45.60_X",
+			"0.46.61_X",
+			"0.47.62_X",
+			"0.64.64_X"
+		],
+		"configKeys": [
+			"ShowAd_LvlComplete_X",
+			"ShowAd_LvlFail_X",
+			"FaceMassage",
+			"EyekmakeUp_Style",
+			"LipStickmakeUp_Style"
+		],
+		"disableAds_Countries": [
+			"PK_",
+			"IR"
+		],
+		"disableAds_countryInfos": [
+			{
+				"country": "Pakistan_X",
+				"countryCode": "PK_X"
+			},
+			{
+				"country": "Iran",
+				"countryCode": "IR"
+			}
+		]
+	},
+	"gameConfigs": {
+		"useToolSound": true,
+		"LeftEye": true,
+		"unlockAll_Items": true
+	}
+}
