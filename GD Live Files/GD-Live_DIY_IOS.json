@@ -59,7 +59,7 @@
 		],
 		"inAppKeys": [
 			{
-				"Id": "com.gameshive.diymakeup.no_ads",
+				"Id": "com.gameshive.diymakeup.noads",
 				"ProductType": 1,
 				"PurchaseType": 0,
 				"PriceInDollars": "1.99"
