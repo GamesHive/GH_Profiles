@@ -24,7 +24,7 @@
 		50
 	],
 	"multiplierLvl": 31,
-	"adStartingLvl": 0,
+	"adStartingLvl": 3,
 	"AdsPriority": "Applovin_Max",
 	"AdmobMediationEnable": 0,
 	"gh_InGameData": {
@@ -38,12 +38,12 @@
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
-	"disableBanner": true,
+	"disableBanner": false,
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
 	"admobConfigs": {
 		"AdsEnabled": true,
-		"BannerEnabled": false,
+		"BannerEnabled": true,
 		"UseAdmobCollapsible": false,
 		"AppOpenEnabled": true,
 		"InterEnabled": true,

@@ -40,14 +40,14 @@
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
-	"disableBanner": true,
+	"disableBanner": false,
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
 	"admobConfigs": {
 		"AdsEnabled": true,
-		"BannerEnabled": false,
+		"BannerEnabled": true,
 		"UseAdmobCollapsible": false,
-		"AppOpenEnabled": false,
+		"AppOpenEnabled": true,
 		"InterEnabled": true,
 		"RwdEnabled": true
 	},
