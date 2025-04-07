@@ -40,7 +40,7 @@
 		"UseAdmobSDK": true,
 		"UseAdmobAppopen": false,
 		"UseAdmobCollapsible": false,
-		"NextInterstitialDelay": 40,
+		"NextInterstitialDelay": 5,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
@@ -76,7 +76,7 @@
 		],
 		"disableAds_Countries": [
 			"PK_",
-			"IR"
+			"IR_X"
 		],
 		"disableAds_countryInfos": [
 			{
@@ -84,8 +84,8 @@
 				"countryCode": "PK_X"
 			},
 			{
-				"country": "Iran",
-				"countryCode": "IR"
+				"country": "Iran_X",
+				"countryCode": "IR_X"
 			}
 		]
 	},
