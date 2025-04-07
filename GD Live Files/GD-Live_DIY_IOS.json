@@ -13,7 +13,7 @@
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
-	"IAP_Enabled": false,
+	"IAP_Enabled": true,
 	"disableBanner": false,
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 10,
