@@ -15,7 +15,7 @@
 	"disableBanner": false,
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
-	"maxAdsBeforePaywall": 2,
+	"maxAdsBeforePaywall": 10,
 	
 	"admobConfigs": {
 		"AdsEnabled": true,
