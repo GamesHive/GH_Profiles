@@ -1,11 +1,11 @@
 {
 	"adPriority": 1,
-	"IsTestAds": false,
+	"IsTestAds": true,
 	"disableAds": false,
 	"IsForFamily": false,
-	"IAP_Enabled": false,
+	"IAP_Enabled": true,
 	"maxAdsBeforePaywall": 2,
-	"disableBanner": false,
+	"disableBanner": true,
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
 	"admobConfigs": {
