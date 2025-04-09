@@ -9,12 +9,12 @@
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
 	"admobConfigs": {
-		"AdsEnabled": false,
+		"AdsEnabled": true,
 		"BannerEnabled": false,
 		"UseAdmobCollapsible": false,
 		"AppOpenEnabled": false,
-		"InterEnabled": false,
-		"RwdEnabled": false
+		"InterEnabled": true,
+		"RwdEnabled": true
 	},
 	"applovinConfigs": {
 		"AdsEnabled": false,
