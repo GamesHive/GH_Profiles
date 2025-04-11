@@ -46,162 +46,19 @@
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
-"gh_ConfigKeys": {
+	"gh_ConfigKeys": {
 		"appVersions_disabelAds": [
 			"0.1.1_X",
-			"0.2.2_X"
+			"0.2.2_X",
+			"0.21.2_X"
 		],
 		"configKeys": [
 			"ShowAd_LvlComplete_X",
 			"ShowAd_LvlFail_X"
 		],
-		"inAppKeys": [
-			{
-				"Id": "pregnantsim.removeads_0.99",
-				"ProductType": 1,
-				"PurchaseType": 0,
-				"PriceInDollars": "0.5"
-			},
-			{
-				"Id": "pregnantsim.popularpack_2.99",
-				"ProductType": 0,
-				"PurchaseType": 2,
-				"PriceInDollars": "1.99"
-			},
-			{
-				"Id": "pregnantsim.economypack_5.99",
-				"ProductType": 0,
-				"PurchaseType": 3,
-				"PriceInDollars": "2.99"
-			},
-			{
-				"Id": "pregnantsim.propack_9.99",
-				"ProductType": 0,
-				"PurchaseType": 4,
-				"PriceInDollars": "3.99"
-			}
-		],
-		"disableAds_countryInfos": [
-			{
-				"country": "Pakistan_X",
-				"countryCode": "PK_X"
-			},
-			{
-				"country": "Iran_X",
-				"countryCode": "IR_X"
-			}
-		]
+		"disableAds_Countries": []
 	},
-	
 	"GrowDelayTime": 4.0,
-	"InEnbleIntractiveAd": false,
-	
-	
-	
-		"gameConfig": {
-		"GrowDelayTime": 5.0,
-		"InEnbleIntractiveAd": false,
-		"cognitiveAbilitiesData": {
-			"AbilityTimer": 20.0,
-			"MemoryGeneCurrency": [
-				10,
-				15,
-				25,
-				30,
-				35,
-				40,
-				50,
-				60
-			],
-			"LanguageGeneCurrency": [
-				12,
-				16,
-				22,
-				26,
-				32,
-				45,
-				60
-			],
-			"SportsGeneCurrency": [
-				15,
-				20,
-				25,
-				35,
-				50,
-				60,
-				75,
-				85
-			],
-			"DanceGeneCurrency": [
-				20,
-				30,
-				40,
-				50,
-				60,
-				70,
-				80,
-				90
-			],
-			"SingerGeneCurrency": [
-				25,
-				35,
-				45,
-				55,
-				65,
-				75,
-				100,
-				125
-			],
-			"IQGeneCurrency": [
-				20,
-				25,
-				30,
-				40,
-				50,
-				60,
-				75,
-				90
-			]
-		},
-		"hourseUpgradeData": {
-			"HoursUpgradeCurrency": [
-				10,
-				25,
-				50,
-				60,
-				70,
-				100,
-				150,
-				175
-			],
-			"HoursUpdateData": [
-				{
-					"HourPerlevel": 2
-				},
-				{
-					"HourPerlevel": 2
-				},
-				{
-					"HourPerlevel": 1
-				},
-				{
-					"HourPerlevel": 1
-				},
-				{
-					"HourPerlevel": 1
-				},
-				{
-					"HourPerlevel": 1
-				},
-				{
-					"HourPerlevel": 1
-				},
-				{
-					"HourPerlevel": 1
-				}
-			],
-			"HourTimer": 25.0
-		}
-	}
+	"InEnbleIntractiveAd": false
 
 }
