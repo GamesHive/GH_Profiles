@@ -22,7 +22,7 @@
 		"AdsEnabled": true,
 		"BannerEnabled": false,
 		"UseAdmobCollapsible": false,
-		"AppOpenEnabled": true,
+		"AppOpenEnabled": false,
 		"InterEnabled": true,
 		"RwdEnabled": true
 	},
