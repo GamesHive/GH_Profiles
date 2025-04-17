@@ -22,7 +22,7 @@
 		"AdsEnabled": true,
 		"BannerEnabled": false,
 		"UseAdmobCollapsible": false,
-		"AppOpenEnabled": true,
+		"AppOpenEnabled": false,
 		"InterEnabled": true,
 		"RwdEnabled": true
 	},
@@ -95,7 +95,7 @@
 	"InEnbleIntractiveAd": false,
 	"gameConfig": {
 		"GrowDelayTime": 5.0,
-		"IdleInterDuration": 30.0,
+		"IdleInterDuration": 200.0,
 		"CoinsMultiplyer": 2,
 		"InEnbleIntractiveAd": false,
 		"cognitiveAbilitiesData": {
