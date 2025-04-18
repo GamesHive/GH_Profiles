@@ -4,7 +4,7 @@
    
     "Min_RAM_For_MAX": 500,
     "minPingForMAX": 50,
-    "DelayBTWTwoInterstitials": 25,
+    "DelayBTWTwoInterstitials": 60,
 	
     "UseInactiveAds": false,
     "ShowAdAfterInactive": 25,
@@ -39,7 +39,7 @@
 	},
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
-		"NextInterstitialDelay": 15,
+		"NextInterstitialDelay": 60,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
@@ -96,7 +96,7 @@
 	"gameConfig": {
 		"GrowDelayTime": 5.0,
 		"IdleInterDuration": 200.0,
-		"CoinsMultiplyer": 2,
+		"CoinsMultiplyer": 1,
 		"InEnbleIntractiveAd": false,
 		"cognitiveAbilitiesData": {
 			"AbilityTimer": 20.0,
