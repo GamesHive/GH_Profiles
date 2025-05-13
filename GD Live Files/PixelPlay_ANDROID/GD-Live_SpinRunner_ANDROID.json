@@ -3,7 +3,7 @@
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
-	"disableBanner": false,
+	"disableBanner": true,
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
 	"adsRemoteSettings": {
