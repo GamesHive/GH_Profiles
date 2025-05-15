@@ -8,7 +8,7 @@
 	
 	
 	"adPriority": 1,
-	"IsTestAds": true,
+	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
 	"IAP_Enabled": true,
