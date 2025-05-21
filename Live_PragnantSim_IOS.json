@@ -199,6 +199,6 @@
 			],
 			"HourTimer": 25.0
 		},
-		"AdminAllow": false
+		"AdminAllow": true
 	}
 }
