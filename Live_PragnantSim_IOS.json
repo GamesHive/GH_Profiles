@@ -4,7 +4,7 @@
    
     "Min_RAM_For_MAX": 500,
     "minPingForMAX": 50,
-    "DelayBTWTwoInterstitials": 40,
+    "DelayBTWTwoInterstitials": 120,
 	
     "UseInactiveAds": false,
     "ShowAdAfterInactive": 25,
@@ -22,7 +22,7 @@
 		"AdsEnabled": true,
 		"BannerEnabled": false,
 		"UseAdmobCollapsible": false,
-		"AppOpenEnabled": true,
+		"AppOpenEnabled": false,
 		"InterEnabled": true,
 		"RwdEnabled": true
 	},
@@ -39,7 +39,7 @@
 	},
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
-		"NextInterstitialDelay": 40,
+		"NextInterstitialDelay": 120,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
@@ -95,7 +95,7 @@
 	"InEnbleIntractiveAd": false,
 	"gameConfig": {
 		"GrowDelayTime": 5.0,
-		"IdleInterDuration": 40.0,
+		"IdleInterDuration": 120.0,
 		"CoinsMultiplyer": 1,
 		"InEnbleIntractiveAd": false,
 		"cognitiveAbilitiesData": {
@@ -199,6 +199,6 @@
 			],
 			"HourTimer": 25.0
 		},
-		"AdminAllow": false
+		"AdminAllow": true
 	}
 }
