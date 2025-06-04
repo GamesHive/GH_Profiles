@@ -5,14 +5,14 @@
 	"IsForFamily": false,
 	"IAP_Enabled": false,
 	"maxAdsBeforePaywall": 500,
-	"disableBanner": false,
+	"disableBanner": true,
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
 	"admobConfigs": {
 		"AdsEnabled": true,
 		"BannerEnabled": false,
 		"UseAdmobCollapsible": false,
-		"AppOpenEnabled": true,
+		"AppOpenEnabled": false,
 		"InterEnabled": true,
 		"RwdEnabled": true
 	},
@@ -25,11 +25,11 @@
 	},
 	"analyticsConfigs": {
 		"AppMatricaAnalyticsEnabled": true,
-		"FirebaseAnalyticsEnabled": false
+		"FirebaseAnalyticsEnabled": true
 	},
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
-		"NextInterstitialDelay": 35,
+		"NextInterstitialDelay": 40,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
