@@ -1,7 +1,7 @@
 {
 
 	"AdForIdleGame": false,
-	"InterTime": 15.0
+	"InterTime": 15.0,
 	
 	"adPriority": 1,
 	"IsTestAds": true,
