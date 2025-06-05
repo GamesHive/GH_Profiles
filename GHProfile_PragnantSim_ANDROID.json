@@ -1,8 +1,194 @@
 {
-	"IsTestAds": false,
-	"IsForFamily": false,
-	"disableAds": true,
-	"disableBanner": true,
+
 	"AdForIdleGame": false,
 	"InterTime": 15.0
+	
+	"adPriority": 1,
+	"IsTestAds": true,
+	"disableAds": false,
+	"IsForFamily": false,
+	"IAP_Enabled": true,
+	"maxAdsBeforePaywall": 5,
+	"disableBanner": true,
+	"refreshBannerByGH": false,
+	"bannerRefreshTime": 20,
+	"admobConfigs": {
+		"AdsEnabled": true,
+		"BannerEnabled": false,
+		"UseAdmobCollapsible": false,
+		"AppOpenEnabled": false,
+		"InterEnabled": true,
+		"RwdEnabled": true
+	},
+	"applovinConfigs": {
+		"AdsEnabled": true,
+		"BannerEnabled": false,
+		"AppOpenEnabled": false,
+		"InterEnabled": true,
+		"RwdEnabled": true
+	},
+	"analyticsConfigs": {
+		"AppMatricaAnalyticsEnabled": true,
+		"FirebaseAnalyticsEnabled": true
+	},
+	"adsRemoteSettings": {
+		"ShowInternetPopup": true,
+		"NextInterstitialDelay": 30,
+		"BannerRefreshRate": 10,
+		"MRecRefreshRate": 10
+	},
+	"gh_ConfigKeys": {
+		"appVersions_disabelAds": [
+			"0.1.1_X",
+			"0.2.2_X"
+		],
+		"configKeys": [
+			"ShowAd_LvlComplete_X",
+			"ShowAd_LvlFail_X"
+		],
+		"inAppKeys": [
+			{
+				"Id": "com.gameshive.pregnantsim.noads",
+				"ProductType": 1,
+				"PurchaseType": 0,
+				"PriceInDollars": "0.5"
+			},
+			{
+				"Id": "com.gameshive.pregnantsim.500coins",
+				"ProductType": 0,
+				"PurchaseType": 2,
+				"PriceInDollars": "1.99"
+			},
+			{
+				"Id": "com.gameshive.pregnantsim.800coins",
+				"ProductType": 0,
+				"PurchaseType": 3,
+				"PriceInDollars": "2.99"
+			},
+			{
+				"Id": "com.gameshive.pregnantsim.1500coins",
+				"ProductType": 0,
+				"PurchaseType": 4,
+				"PriceInDollars": "3.99"
+			}
+		],
+		"disableAds_countryInfos": [
+			{
+				"country": "Pakistan_X",
+				"countryCode": "PK_X"
+			},
+			{
+				"country": "Iran_X",
+				"countryCode": "IR_X"
+			}
+		]
+	},
+	"gameConfig": {
+		"GrowDelayTime": 5.0,
+		"IdleInterDuration": 30.0,
+		"CoinsMultiplyer": 2,
+		"InEnbleIntractiveAd": false,
+		"cognitiveAbilitiesData": {
+			"AbilityTimer": 20.0,
+			"MemoryGeneCurrency": [
+				10,
+				15,
+				25,
+				30,
+				35,
+				40,
+				50,
+				60
+			],
+			"LanguageGeneCurrency": [
+				12,
+				16,
+				22,
+				26,
+				32,
+				45,
+				60
+			],
+			"SportsGeneCurrency": [
+				15,
+				20,
+				25,
+				35,
+				50,
+				60,
+				75,
+				85
+			],
+			"DanceGeneCurrency": [
+				20,
+				30,
+				40,
+				50,
+				60,
+				70,
+				80,
+				90
+			],
+			"SingerGeneCurrency": [
+				25,
+				35,
+				45,
+				55,
+				65,
+				75,
+				100,
+				125
+			],
+			"IQGeneCurrency": [
+				20,
+				25,
+				30,
+				40,
+				50,
+				60,
+				75,
+				90
+			]
+		},
+		"hourseUpgradeData": {
+			"HoursUpgradeCurrency": [
+				10,
+				25,
+				50,
+				60,
+				70,
+				100,
+				150,
+				175
+			],
+			"HoursUpdateData": [
+				{
+					"HourPerlevel": 2
+				},
+				{
+					"HourPerlevel": 2
+				},
+				{
+					"HourPerlevel": 1
+				},
+				{
+					"HourPerlevel": 1
+				},
+				{
+					"HourPerlevel": 1
+				},
+				{
+					"HourPerlevel": 1
+				},
+				{
+					"HourPerlevel": 1
+				},
+				{
+					"HourPerlevel": 1
+				}
+			],
+			"HourTimer": 25.0
+		},
+		"AdminAllow": false
+	}
 }
