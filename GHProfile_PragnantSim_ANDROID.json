@@ -5,7 +5,7 @@
 	
 	"adPriority": 1,
 	"IsTestAds": false,
-	"disableAds": true,
+	"disableAds": false,
 	"IsForFamily": false,
 	"IAP_Enabled": true,
 	"maxAdsBeforePaywall": 5,
@@ -13,19 +13,19 @@
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
 	"admobConfigs": {
-		"AdsEnabled": false,
+		"AdsEnabled": true,
 		"BannerEnabled": false,
 		"UseAdmobCollapsible": false,
 		"AppOpenEnabled": false,
-		"InterEnabled": false,
-		"RwdEnabled": false
+		"InterEnabled": true,
+		"RwdEnabled": true
 	},
 	"applovinConfigs": {
-		"AdsEnabled": false,
+		"AdsEnabled": true,
 		"BannerEnabled": false,
 		"AppOpenEnabled": false,
-		"InterEnabled": false,
-		"RwdEnabled": false
+		"InterEnabled": true,
+		"RwdEnabled": true
 	},
 	"analyticsConfigs": {
 		"AppMatricaAnalyticsEnabled": false,
