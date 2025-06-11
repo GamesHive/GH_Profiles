@@ -99,7 +99,9 @@
     "MRecRefreshRate": 10
   },
   "gh_ConfigKeys": {
-    "appVersions_disabelAds": [],
+    "appVersions_disabelAds": [
+	"0.7.5"
+	],
     "configKeys": [],
     "inAppKeys": [],
     "disableAds_countryInfos": []
