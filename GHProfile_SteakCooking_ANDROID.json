@@ -71,7 +71,7 @@
 		"GA_GameKey_IOS": "N/A"
 	},
 	"adPriority": 1,
-	"IsTestAds": true,
+	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
 	"IAP_Enabled": false,
@@ -106,7 +106,7 @@
 	},
 	"gh_ConfigKeys": {
 		"appVersions_disabelAds": [
-			"0.8.8"
+			"0.23.23"
 		],
 		"configKeys": [],
 		"inAppKeys": [],
