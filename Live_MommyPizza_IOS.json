@@ -24,12 +24,12 @@
 		"RwdEnabled": true
 	},
 	"analyticsConfigs": {
-		"AppMatricaAnalyticsEnabled": true,
+		"AppMatricaAnalyticsEnabled": false,
 		"FirebaseAnalyticsEnabled": true
 	},
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
-		"NextInterstitialDelay": 40,
+		"NextInterstitialDelay": 400,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
