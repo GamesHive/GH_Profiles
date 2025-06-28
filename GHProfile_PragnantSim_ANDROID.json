@@ -3,12 +3,12 @@
 	"AdForIdleGame": false,
 	"InterTime": 15.0,
 	
-	"adPriority": 0,
+	"adPriority": 1,
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
-	"IAP_Enabled": true,
-	"maxAdsBeforePaywall": 5,
+	"IAP_Enabled": false,
+	"maxAdsBeforePaywall": 50,
 	"disableBanner": true,
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
@@ -21,11 +21,11 @@
 		"RwdEnabled": true
 	},
 	"applovinConfigs": {
-		"AdsEnabled": true,
+		"AdsEnabled": false,
 		"BannerEnabled": false,
 		"AppOpenEnabled": false,
-		"InterEnabled": true,
-		"RwdEnabled": true
+		"InterEnabled": false,
+		"RwdEnabled": false
 	},
 	"analyticsConfigs": {
 		"AppMatricaAnalyticsEnabled": false,
