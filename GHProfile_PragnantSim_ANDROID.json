@@ -3,7 +3,7 @@
 	"AdForIdleGame": false,
 	"InterTime": 15.0,
 	
-	"adPriority": 1,
+	"adPriority": 0,
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
