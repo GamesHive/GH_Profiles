@@ -7,8 +7,8 @@
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
-	"IAP_Enabled": false,
-	"maxAdsBeforePaywall": 50,
+	"IAP_Enabled": true,
+	"maxAdsBeforePaywall": 5,
 	"disableBanner": true,
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
@@ -21,11 +21,11 @@
 		"RwdEnabled": true
 	},
 	"applovinConfigs": {
-		"AdsEnabled": false,
+		"AdsEnabled": true,
 		"BannerEnabled": false,
 		"AppOpenEnabled": false,
-		"InterEnabled": false,
-		"RwdEnabled": false
+		"InterEnabled": true,
+		"RwdEnabled": true
 	},
 	"analyticsConfigs": {
 		"AppMatricaAnalyticsEnabled": false,
