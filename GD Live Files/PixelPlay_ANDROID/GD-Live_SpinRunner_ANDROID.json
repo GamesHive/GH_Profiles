@@ -11,7 +11,7 @@
 		"UseAdmobSDK": true,
 		"UseAdmobAppopen": false,
 		"UseAdmobCollapsible": false,
-		"NextInterstitialDelay": 100,
+		"NextInterstitialDelay": 60,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
