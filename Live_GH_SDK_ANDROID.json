@@ -25,7 +25,7 @@
 	},
 	"analyticsConfigs": {
 		"AppMatricaAnalyticsEnabled": false,
-		"FirebaseAnalyticsEnabled": false
+		"FirebaseAnalyticsEnabled": true
 	},
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
