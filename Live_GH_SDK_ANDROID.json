@@ -3,7 +3,7 @@
 	"IsTestAds": true,
 	"disableAds": false,
 	"IsForFamily": false,
-	"IAP_Enabled": true,
+	"IAP_Enabled": false,
 	"maxAdsBeforePaywall": 2,
 	"disableBanner": true,
 	"refreshBannerByGH": false,
