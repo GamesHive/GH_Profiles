@@ -35,9 +35,13 @@
 	
 	
 	"adPriority": 1,
+	"IntPriority": 1,
+	"RwdPriority": 1,
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
+	"IAP_Enabled": false,
+	"maxAdsBeforePaywall": 5,
 	"disableBanner": false,
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
@@ -78,6 +82,20 @@
 		"configKeys": [
 			"ShowAd_LvlComplete_X",
 			"ShowAd_LvlFail_X"
+		],
+		"inAppKeys": [
+			{
+				"Id": "com.gameshive.diymakeup.noads",
+				"ProductType": 1,
+				"PurchaseType": 0,
+				"PriceInDollars": "1.99"
+			},
+			{
+				"Id": "com.gameshive.diymakeup.unlock_all",
+				"ProductType": 1,
+				"PurchaseType": 1,
+				"PriceInDollars": "2.99"
+			}
 		],
 		"disableAds_countryInfos": [
 			{
