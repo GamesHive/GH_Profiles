@@ -1,5 +1,7 @@
 {
 	"adPriority": 1,
+	"IntPriority": 1,
+	"RwdPriority": 1,
 	"IsTestAds": true,
 	"disableAds": false,
 	"IsForFamily": false,
