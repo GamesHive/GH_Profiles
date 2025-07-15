@@ -1,7 +1,7 @@
 {
 	"adPriority": 1,
-	"IntPriority": 0,
-	"RwdPriority": 0,
+	"IntPriority": 1,
+	"RwdPriority": 1,
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
@@ -31,13 +31,13 @@
 	},
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
-		"NextInterstitialDelay": 10,
+		"NextInterstitialDelay": 40,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
 	"gh_ConfigKeys": {
 		"appVersions_disabelAds": [
-			"0.1.1",
+			"0.1.1_",
 			"0.2.2_X"
 		],
 		"configKeys": [
