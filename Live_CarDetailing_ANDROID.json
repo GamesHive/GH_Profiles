@@ -1,7 +1,7 @@
 {
-	"adPriority": 1,
-	"IntPriority": 1,
-	"RwdPriority": 1,
+	"adPriority": 0,
+	"IntPriority": 0,
+	"RwdPriority": 0,
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
@@ -12,7 +12,7 @@
 	"bannerRefreshTime": 20,
 	"admobConfigs": {
 		"AdsEnabled": true,
-		"BannerEnabled": true,
+		"BannerEnabled": false,
 		"UseAdmobCollapsible": false,
 		"AppOpenEnabled": true,
 		"InterEnabled": true,
