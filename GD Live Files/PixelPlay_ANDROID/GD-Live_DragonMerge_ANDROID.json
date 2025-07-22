@@ -35,8 +35,8 @@
 	
 	
 	"adPriority": 1,
-	"IntPriority": 1,
-	"RwdPriority": 1,
+	"IntPriority": 0,
+	"RwdPriority": 0,
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
