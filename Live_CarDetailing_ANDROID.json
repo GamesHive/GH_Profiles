@@ -56,7 +56,7 @@
 		]
 	},
 	"Car_InGameConfig": {
-		"IsSpecficLevelEnable": true,
+		"IsSpecficLevelEnable": false,
 		"CarLevel": 0,
 		"IsSelectionBtn": false
 	}
