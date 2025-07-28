@@ -8,6 +8,8 @@
 	
 	
 	"adPriority": 0,
+	"IntPriority": 1,
+	"RwdPriority": 1,
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
@@ -38,9 +40,6 @@
 	},
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
-		"UseAdmobSDK": true,
-		"UseAdmobAppopen": false,
-		"UseAdmobCollapsible": false,
 		"NextInterstitialDelay": 15,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
