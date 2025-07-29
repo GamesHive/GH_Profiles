@@ -37,9 +37,13 @@
 	
 	
 	"adPriority": 1,
+	"IntPriority": 1,
+	"RwdPriority": 1,
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
+	"IAP_Enabled": false,
+	"maxAdsBeforePaywall": 2,
 	"disableBanner": false,
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
@@ -64,9 +68,6 @@
 	},
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
-		"UseAdmobSDK": true,
-		"UseAdmobAppopen": false,
-		"UseAdmobCollapsible": false,
 		"NextInterstitialDelay": 60,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
@@ -89,30 +90,6 @@
 				"country": "Iran_X",
 				"countryCode": "IR_X"
 			}
-		],
-		"adStartingLvl": 3,
-		"multiplierLvl": 27,
-		
-		"lvlFailMultipliers": [
-			1,
-			20,
-			30,
-			30,
-			30,
-			40,
-			40,
-			40,
-			40,
-			40,
-			40,
-			40,
-			40,
-			40,
-			40,
-			40,
-			50,
-			50,
-			50
 		]
 	},
 	
