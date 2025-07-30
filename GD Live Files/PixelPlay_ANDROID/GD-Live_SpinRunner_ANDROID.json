@@ -41,8 +41,9 @@
 	},
 	"gh_ConfigKeys": {
 		"appVersions_disabelAds": [
-			"0.1.1_X",
-			"0.2.2_X"
+			"0.1.1",
+			"0.2.2",
+			"0.6.6"
 		],
 		"configKeys": [
 			"ShowAd_LvlComplete_X",
