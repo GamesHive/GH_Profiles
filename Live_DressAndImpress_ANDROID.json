@@ -54,5 +54,17 @@
 				"countryCode": "IR_X"
 			}
 		]
+	},
+	"gameRemoteConfig": {
+		"lobbyTime": {
+			"hours": 0,
+			"minutes": 0,
+			"seconds": 15
+		},
+		"gameplayTime": {
+			"hours": 0,
+			"minutes": 5,
+			"seconds": 0
+		}
 	}
 }
