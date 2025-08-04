@@ -1,7 +1,7 @@
 {
 	"adPriority": 1,
-	"IntPriority": 0,
-	"RwdPriority": 0,
+	"IntPriority": 1,
+	"RwdPriority": 1,
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
@@ -11,19 +11,19 @@
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
 	"admobConfigs": {
-		"AdsEnabled": true,
+		"AdsEnabled": false,
 		"BannerEnabled": false,
 		"UseAdmobCollapsible": false,
 		"AppOpenEnabled": false,
-		"InterEnabled": true,
-		"RwdEnabled": true
+		"InterEnabled": false,
+		"RwdEnabled": false
 	},
 	"applovinConfigs": {
-		"AdsEnabled": true,
+		"AdsEnabled": false,
 		"BannerEnabled": false,
 		"AppOpenEnabled": false,
-		"InterEnabled": true,
-		"RwdEnabled": true
+		"InterEnabled": false,
+		"RwdEnabled": false
 	},
 	"analyticsConfigs": {
 		"AppMatricaAnalyticsEnabled": true,
@@ -37,8 +37,8 @@
 	},
 	"gh_ConfigKeys": {
 		"appVersions_disabelAds": [
-			"0.1.1_X",
-			"0.2.2_X"
+			"0.1.1",
+			"0.2.2"
 		],
 		"configKeys": [
 			"ShowAd_LvlComplete_X",
@@ -63,8 +63,8 @@
 		},
 		"gameplayTime": {
 			"hours": 0,
-			"minutes": 0,
-			"seconds": 8
+			"minutes": 5,
+			"seconds": 0
 		}
 	}
 }
