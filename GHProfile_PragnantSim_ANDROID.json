@@ -189,6 +189,7 @@
 			],
 			"HourTimer": 25.0
 		},
-		"AdminAllow": false
+		"AdminAllow": false,
+		"IsRewardPrompt": true
 	}
 }
