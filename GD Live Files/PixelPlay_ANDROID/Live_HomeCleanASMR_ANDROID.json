@@ -11,19 +11,19 @@
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
 	"admobConfigs": {
-		"AdsEnabled": false,
-		"BannerEnabled": false,
+		"AdsEnabled": true,
+		"BannerEnabled": true,
 		"UseAdmobCollapsible": false,
-		"AppOpenEnabled": false,
-		"InterEnabled": false,
-		"RwdEnabled": false
+		"AppOpenEnabled": true,
+		"InterEnabled": true,
+		"RwdEnabled": true
 	},
 	"applovinConfigs": {
-		"AdsEnabled": false,
+		"AdsEnabled": true,
 		"BannerEnabled": false,
 		"AppOpenEnabled": false,
-		"InterEnabled": false,
-		"RwdEnabled": false
+		"InterEnabled": true,
+		"RwdEnabled": true
 	},
 	"analyticsConfigs": {
 		"AppMatricaAnalyticsEnabled": true,
@@ -31,13 +31,13 @@
 	},
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
-		"NextInterstitialDelay": 400,
+		"NextInterstitialDelay": 40,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
 	"gh_ConfigKeys": {
 		"appVersions_disabelAds": [
-			"0.1.1",
+			"0.1.1_X",
 			"0.2.2_X"
 		],
 		"configKeys": [],
