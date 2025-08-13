@@ -1,109 +1,111 @@
 {
-  "IsTestAds": false,
-  "wantToSkipFirstAd": false,
-  "IsForFamily": false,
-  "disableAds": false,
-  "disableBanner": false,
-  "Min_RAM_For_MAX": 500,
-  "minPingForMAX": 50,
-  "DelayBTWTwoInterstitials": 30,
-  "UseInactiveAds": false,
-  "ShowAdAfterInactive": 30,
-  "IsInHouseAdsEnabled": false,
-  "inHouseAdPriority": 0,
-  "useFirebase": true,
-  "adOccuranceKeyData": {
-    "adOccuranceKeys": []
-  },
-  "rateUsSetting": {
-    "iosAppID": "N/A",
-    "googlePlayBundleID": "com.gameshive.ilovepizza",
-    "FirstShowLevel": 3,
-    "PostPonedLevels": 3
-  },
-  "flightModeSetting": {
-    "UseInternetPrompt": true,
-    "DelayBetweenInternetCheck": 15
-  },
-  "admobAdSetting": {
-    "ReadFromServer": true,
-    "IsAdmobAdsEnable": true,
-    "wantToShowAppOpen": true,
-    "executionOrder": 0,
-    "maxFillRateINTER": 3,
-    "maxFailRateINTER": 3,
-    "bannerType": 1,
-    "adPosition": 0,
-    "admobAppID": "ca-app-pub-6899425020552478~2525625442",
-    "admobBanner": "ca-app-pub-6899425020552478/4500217946",
-    "admobDefulatInterstial": "ca-app-pub-6899425020552478/6200861167",
-    "admobAppOpen": "ca-app-pub-6899425020552478/3792375890",
-    "admobRewardedInterstial": "",
-    "admobNative": "",
-    "defualtAdmobRewarded": "ca-app-pub-6899425020552478/7758604979",
-    "admobInterstial_ECPM_order": [],
-    "admobRewarded_ECPM_order": []
-  },
-  "appLovinSettings": {
-    "ReadFromServer": false,
-    "IsAppLovinAdsEnable": false,
-    "wantToShowAppOpen": false,
-    "executionOrder": 0,
-    "LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
-    "AppOpenId": "31b2ac2b467556ea",
-    "BannerAdUnitId": "92f24ec4f317700a",
-    "LovinInter": "4c91ee9c3bf14cce",
-    "LovinRewarded": "6184fcf32b63203e"
-  },
-  "unityAdSetting": {
-    "IsUnityAdsEnable": false,
-    "executionOrder": 0,
-    "unityId_IOS": "",
-    "unityId_AND": ""
-  },
-  "GASeting": {
-    "IsGameAnalyticsEnable": true,
-    "GA_GameKey_Android": "0a6547894dc173103046b033f29f9f99",
-    "GA_SecretKey_Android": "76a0481d104cb64b6c2f23a2e69386a33572528a",
-    "GA_SecretKey_IOS": "N/A",
-    "GA_GameKey_IOS": "N/A"
-  },
-  "adPriority": 1,
-  "IAP_Enabled": false,
-  "maxAdsBeforePaywall": 500,
-  "refreshBannerByGH": false,
-  "bannerRefreshTime": 20,
-  "admobConfigs": {
-    "AdsEnabled": true,
-    "BannerEnabled": false,
-    "UseAdmobCollapsible": false,
-    "AppOpenEnabled": true,
-    "InterEnabled": true,
-    "RwdEnabled": true
-  },
-  "applovinConfigs": {
-    "AdsEnabled": true,
-    "BannerEnabled": false,
-    "AppOpenEnabled": false,
-    "InterEnabled": true,
-    "RwdEnabled": true
-  },
-  "analyticsConfigs": {
-    "AppMatricaAnalyticsEnabled": false,
-    "FirebaseAnalyticsEnabled": true
-  },
-  "adsRemoteSettings": {
-    "ShowInternetPopup": true,
-    "NextInterstitialDelay": 30,
-    "BannerRefreshRate": 10,
-    "MRecRefreshRate": 10
-  },
-  "gh_ConfigKeys": {
-    "appVersions_disabelAds": [
-	"0.6.8_X"
-	],
-    "configKeys": [],
-    "inAppKeys": [],
-    "disableAds_countryInfos": []
-  }
+	"IsTestAds": false,
+	"wantToSkipFirstAd": false,
+	"IsForFamily": false,
+	"disableAds": false,
+	"disableBanner": false,
+	"Min_RAM_For_MAX": 500,
+	"minPingForMAX": 50,
+	"DelayBTWTwoInterstitials": 30,
+	"UseInactiveAds": false,
+	"ShowAdAfterInactive": 30,
+	"IsInHouseAdsEnabled": false,
+	"inHouseAdPriority": 0,
+	"useFirebase": true,
+	"adOccuranceKeyData": {
+		"adOccuranceKeys": []
+	},
+	"rateUsSetting": {
+		"iosAppID": "N/A",
+		"googlePlayBundleID": "com.gameshive.ilovepizza",
+		"FirstShowLevel": 3,
+		"PostPonedLevels": 3
+	},
+	"flightModeSetting": {
+		"UseInternetPrompt": true,
+		"DelayBetweenInternetCheck": 15
+	},
+	"admobAdSetting": {
+		"ReadFromServer": true,
+		"IsAdmobAdsEnable": true,
+		"wantToShowAppOpen": true,
+		"executionOrder": 0,
+		"maxFillRateINTER": 3,
+		"maxFailRateINTER": 3,
+		"bannerType": 1,
+		"adPosition": 0,
+		"admobAppID": "ca-app-pub-6899425020552478~2525625442",
+		"admobBanner": "ca-app-pub-6899425020552478/4500217946",
+		"admobDefulatInterstial": "ca-app-pub-6899425020552478/6200861167",
+		"admobAppOpen": "ca-app-pub-6899425020552478/3792375890",
+		"admobRewardedInterstial": "",
+		"admobNative": "",
+		"defualtAdmobRewarded": "ca-app-pub-6899425020552478/7758604979",
+		"admobInterstial_ECPM_order": [],
+		"admobRewarded_ECPM_order": []
+	},
+	"appLovinSettings": {
+		"ReadFromServer": false,
+		"IsAppLovinAdsEnable": false,
+		"wantToShowAppOpen": false,
+		"executionOrder": 0,
+		"LovinID": "Tn7XQxZ8gsFT3u-hXxUs44DTnF8wh-ifuN8m1IooBCB53Vgss_oHx32HAnhpyXMxW1QDTcWXVllhxFOqAT7WSy",
+		"AppOpenId": "31b2ac2b467556ea",
+		"BannerAdUnitId": "92f24ec4f317700a",
+		"LovinInter": "4c91ee9c3bf14cce",
+		"LovinRewarded": "6184fcf32b63203e"
+	},
+	"unityAdSetting": {
+		"IsUnityAdsEnable": false,
+		"executionOrder": 0,
+		"unityId_IOS": "",
+		"unityId_AND": ""
+	},
+	"GASeting": {
+		"IsGameAnalyticsEnable": true,
+		"GA_GameKey_Android": "0a6547894dc173103046b033f29f9f99",
+		"GA_SecretKey_Android": "76a0481d104cb64b6c2f23a2e69386a33572528a",
+		"GA_SecretKey_IOS": "N/A",
+		"GA_GameKey_IOS": "N/A"
+	},
+	"adPriority": 1,
+	"IntPriority": 1,
+	"RwdPriority": 1,
+	"IAP_Enabled": false,
+	"maxAdsBeforePaywall": 500,
+	"refreshBannerByGH": false,
+	"bannerRefreshTime": 20,
+	"admobConfigs": {
+		"AdsEnabled": true,
+		"BannerEnabled": false,
+		"UseAdmobCollapsible": false,
+		"AppOpenEnabled": true,
+		"InterEnabled": true,
+		"RwdEnabled": true
+	},
+	"applovinConfigs": {
+		"AdsEnabled": true,
+		"BannerEnabled": false,
+		"AppOpenEnabled": false,
+		"InterEnabled": true,
+		"RwdEnabled": true
+	},
+	"analyticsConfigs": {
+		"AppMatricaAnalyticsEnabled": false,
+		"FirebaseAnalyticsEnabled": true
+	},
+	"adsRemoteSettings": {
+		"ShowInternetPopup": true,
+		"NextInterstitialDelay": 30,
+		"BannerRefreshRate": 10,
+		"MRecRefreshRate": 10
+	},
+	"gh_ConfigKeys": {
+		"appVersions_disabelAds": [
+			"0.6.8_X"
+		],
+		"configKeys": [],
+		"inAppKeys": [],
+		"disableAds_countryInfos": []
+	}
 }
