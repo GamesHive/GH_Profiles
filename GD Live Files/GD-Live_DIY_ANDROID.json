@@ -21,7 +21,7 @@
 	
 	"admobConfigs": {
 		"AdsEnabled": true,
-		"BannerEnabled": true,
+		"BannerEnabled": false,
 		"UseAdmobCollapsible": false,
 		"AppOpenEnabled": true,
 		"InterEnabled": true,
@@ -40,7 +40,7 @@
 	},
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
-		"NextInterstitialDelay": 15,
+		"NextInterstitialDelay": 60,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
