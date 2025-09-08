@@ -55,6 +55,6 @@
 	"House_InGameConfig": {
 		"IsSpecficLevelEnable": false,
 		"HouseLevel": 0,
-		"IsSelectionBtn": true
+		"IsSelectionBtn": false
 	}
 }
