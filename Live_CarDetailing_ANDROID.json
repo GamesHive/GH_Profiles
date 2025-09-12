@@ -1,7 +1,7 @@
 {
-	"adPriority": 0,
-	"IntPriority": 0,
-	"RwdPriority": 0,
+	"adPriority": 1,
+	"IntPriority": 1,
+	"RwdPriority": 1,
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
@@ -37,7 +37,7 @@
 	},
 	"gh_ConfigKeys": {
 		"appVersions_disabelAds": [
-			"0.1.1_",
+			"0.1.1_X",
 			"0.2.2_X"
 		],
 		"configKeys": [
@@ -58,6 +58,23 @@
 	"Car_InGameConfig": {
 		"IsSpecficLevelEnable": false,
 		"CarLevel": 0,
-		"IsSelectionBtn": false
+		"IsSelectionBtn": false,
+		"ShowAdAfterTask": 5,
+		"LevelsReorder": [
+			{
+				"BuildVersion": "0.3.3",
+				"levelsOrder": [
+					{
+						"Level": 0
+					},
+					{
+						"Level": 1
+					},
+					{
+						"Level": 2
+					}
+				]
+			}
+		]
 	}
 }
