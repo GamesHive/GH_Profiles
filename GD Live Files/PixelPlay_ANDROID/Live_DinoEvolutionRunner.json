@@ -20,7 +20,7 @@
 	},
 	"applovinConfigs": {
 		"AdsEnabled": true,
-		"BannerEnabled": true,
+		"BannerEnabled": false,
 		"AppOpenEnabled": false,
 		"InterEnabled": true,
 		"RwdEnabled": true
