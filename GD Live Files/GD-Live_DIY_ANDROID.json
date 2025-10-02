@@ -16,7 +16,7 @@
 	"IAP_Enabled": true,
 	"disableBanner": false,
 	"refreshBannerByGH": true,
-	"bannerRefreshTime": 10,
+	"bannerRefreshTime": 15,
 	"maxAdsBeforePaywall": 2,
 	
 	"admobConfigs": {
