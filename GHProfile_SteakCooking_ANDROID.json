@@ -108,7 +108,8 @@
 	},
 	"gh_ConfigKeys": {
 		"appVersions_disabelAds": [
-			"0.23.23_X"
+			"0.23.23_X",
+			"0.25.25"
 		],
 		"configKeys": [],
 		"inAppKeys": [],
