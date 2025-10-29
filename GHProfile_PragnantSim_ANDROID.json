@@ -4,6 +4,8 @@
 	"InterTime": 15.0,
 	
 	"adPriority": 1,
+	"IntPriority": 1,
+	"RwdPriority": 1,
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
@@ -28,7 +30,7 @@
 		"RwdEnabled": true
 	},
 	"analyticsConfigs": {
-		"AppMatricaAnalyticsEnabled": false,
+		"AppMatricaAnalyticsEnabled": true,
 		"FirebaseAnalyticsEnabled": true
 	},
 	"adsRemoteSettings": {
