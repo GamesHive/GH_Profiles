@@ -1,0 +1,55 @@
+{
+	"adPriority": 1,
+	"IntPriority": 1,
+	"RwdPriority": 1,
+	"IsTestAds": false,
+	"disableAds": false,
+	"IsForFamily": false,
+	"IAP_Enabled": false,
+	"maxAdsBeforePaywall": 2,
+	"disableBanner": false,
+	"refreshBannerByGH": false,
+	"bannerRefreshTime": 20,
+	"admobConfigs": {
+		"AdsEnabled": true,
+		"BannerEnabled": false,
+		"UseAdmobCollapsible": false,
+		"AppOpenEnabled": true,
+		"InterEnabled": true,
+		"RwdEnabled": true
+	},
+	"applovinConfigs": {
+		"AdsEnabled": true,
+		"BannerEnabled": false,
+		"AppOpenEnabled": false,
+		"InterEnabled": true,
+		"RwdEnabled": true
+	},
+	"analyticsConfigs": {
+		"AppMatricaAnalyticsEnabled": true,
+		"FirebaseAnalyticsEnabled": true
+	},
+	"adsRemoteSettings": {
+		"ShowInternetPopup": true,
+		"NextInterstitialDelay": 30,
+		"BannerRefreshRate": 10,
+		"MRecRefreshRate": 10
+	},
+	"gh_ConfigKeys": {
+		"appVersions_disabelAds": [
+			"0.1.1_X",
+			"0.2.2_X"
+		],
+		"configKeys": [],
+		"disableAds_countryInfos": [
+			{
+				"country": "Pakistan_X",
+				"countryCode": "PK_X"
+			},
+			{
+				"country": "Iran_X",
+				"countryCode": "IR_X"
+			}
+		]
+	}
+}
