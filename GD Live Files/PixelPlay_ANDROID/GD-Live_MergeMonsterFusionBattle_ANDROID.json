@@ -1,6 +1,6 @@
 {
 	
-	"InterTime": 40,
+	"InterTime": 30,
 	"lvlFailMultipliers": [
 		1,
 		20,
@@ -33,7 +33,7 @@
 	
 	
 	
-	"nextInterstitialDelay": 40,
+	"nextInterstitialDelay": 30,
 	
 	
 	"adPriority": 1,
@@ -68,7 +68,7 @@
 	},
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
-		"NextInterstitialDelay": 60,
+		"NextInterstitialDelay": 30,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
