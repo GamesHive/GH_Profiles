@@ -10,7 +10,7 @@
 	"ShowAdAfterInactive": 30,
 	"IsInHouseAdsEnabled": true,
 	"inHouseAdPriority": 0,
-	"useFirebase": true,
+	"useFirebase": false,
 	"adOccuranceKeyData": {
 		"adOccuranceKeys": [
 			"SkipAd_LvlComplete_X",

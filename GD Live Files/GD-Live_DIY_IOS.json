@@ -10,6 +10,8 @@
 	
 	
 	"adPriority": 1,
+	"IntPriority": 1,
+	"RwdPriority": 1,
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
@@ -83,4 +85,5 @@
 		"useToolSound": true,
 		"LeftEye": true
 	}
+	
 }
