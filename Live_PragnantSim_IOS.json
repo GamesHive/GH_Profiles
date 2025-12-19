@@ -10,6 +10,8 @@
     "ShowAdAfterInactive": 25,
 	
 	"adPriority": 0,
+	"IntPriority":0,
+	"RwdPriority":0,
 	"IsTestAds": false,
 	"disableAds": false,
 	"IsForFamily": false,
