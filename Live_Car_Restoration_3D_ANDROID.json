@@ -12,7 +12,7 @@
 	"bannerRefreshTime": 20,
 	"admobConfigs": {
 		"AdsEnabled": true,
-		"BannerEnabled": false,
+		"BannerEnabled": true,
 		"UseAdmobCollapsible": false,
 		"AppOpenEnabled": true,
 		"InterEnabled": true,
@@ -51,5 +51,8 @@
 				"countryCode": "IR_X"
 			}
 		]
+	},
+	"gameData": {
+		"ShowAdAftertasks": 3
 	}
 }
