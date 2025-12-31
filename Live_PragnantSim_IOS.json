@@ -36,7 +36,7 @@
 		"RwdEnabled": true
 	},
 	"analyticsConfigs": {
-		"AppMatricaAnalyticsEnabled": true,
+		"AppMatricaAnalyticsEnabled": false,
 		"FirebaseAnalyticsEnabled": false
 	},
 	"adsRemoteSettings": {
