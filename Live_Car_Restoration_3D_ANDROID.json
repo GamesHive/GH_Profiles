@@ -53,6 +53,6 @@
 		]
 	},
 	"gameData": {
-		"ShowAdAftertasks": 3
+		"ShowAdAftertasks": -1
 	}
 }
