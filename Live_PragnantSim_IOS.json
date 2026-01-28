@@ -41,14 +41,15 @@
 	},
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
-		"NextInterstitialDelay": 40,
+		"NextInterstitialDelay": 200,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
 	"gh_ConfigKeys": {
 		"appVersions_disabelAds": [
 			"0.1.1_X",
-			"0.26.7"
+			"0.26.7",
+			"0.34.15"
 		],
 		"configKeys": [
 			"ShowAd_LvlComplete_X",
