@@ -7,7 +7,7 @@
 	"IsForFamily": false,
 	"IAP_Enabled": false,
 	"maxAdsBeforePaywall": 2,
-	"disableBanner": true,
+	"disableBanner": false,
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
 	"admobConfigs": {
