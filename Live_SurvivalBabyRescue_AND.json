@@ -54,5 +54,8 @@
 				"countryCode": "IR_X"
 			}
 		]
+	},
+	"gameconfig": {
+		"ShowAdAfterLevel": 5
 	}
 }
