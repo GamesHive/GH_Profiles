@@ -3,7 +3,7 @@
 	"IntPriority": 1,
 	"RwdPriority": 1,
 	"IsTestAds": false,
-	"disableAds": false,
+	"disableAds": true,
 	"IsForFamily": false,
 	"IAP_Enabled": false,
 	"maxAdsBeforePaywall": 2,
@@ -19,7 +19,7 @@
 		"RwdEnabled": true
 	},
 	"applovinConfigs": {
-		"AdsEnabled": false,
+		"AdsEnabled": true,
 		"BannerEnabled": false,
 		"AppOpenEnabled": false,
 		"InterEnabled": true,
