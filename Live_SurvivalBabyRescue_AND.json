@@ -30,7 +30,7 @@
 		"FirebaseAnalyticsEnabled": true
 	},
 	"adsRemoteSettings": {
-		"ShowInternetPopup": false,
+		"ShowInternetPopup": true,
 		"NextInterstitialDelay": 30,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
