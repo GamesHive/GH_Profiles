@@ -3,7 +3,7 @@
 	"IntPriority": 1,
 	"RwdPriority": 1,
 	"IsTestAds": false,
-	"disableAds": true,
+	"disableAds": false,
 	"IsForFamily": false,
 	"IAP_Enabled": false,
 	"maxAdsBeforePaywall": 2,
@@ -11,7 +11,7 @@
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
 	"admobConfigs": {
-		"AdsEnabled": false,
+		"AdsEnabled": true,
 		"BannerEnabled": true,
 		"UseAdmobCollapsible": false,
 		"AppOpenEnabled": true,
