@@ -38,8 +38,8 @@
 	"gh_ConfigKeys": {
 		"appVersions_disabelAds": [
 			"0.1.1_X",
-			"0.2.2_X",
-			"0.12.12"
+			"0.2.2_X"
+			
 		],
 		"configKeys": [],
 		"disableAds_countryInfos": [
