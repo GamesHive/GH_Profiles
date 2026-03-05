@@ -3,7 +3,7 @@
 	"IntPriority": 1,
 	"RwdPriority": 1,
 	"IsTestAds": false,
-	"disableAds": false,
+	"disableAds": true,
 	"IsForFamily": false,
 	"IAP_Enabled": false,
 	"maxAdsBeforePaywall": 2,
@@ -11,19 +11,19 @@
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
 	"admobConfigs": {
-		"AdsEnabled": true,
-		"BannerEnabled": true,
+		"AdsEnabled": false,
+		"BannerEnabled": false,
 		"UseAdmobCollapsible": false,
-		"AppOpenEnabled": true,
-		"InterEnabled": true,
-		"RwdEnabled": true
+		"AppOpenEnabled": false,
+		"InterEnabled": false,
+		"RwdEnabled": false
 	},
 	"applovinConfigs": {
 		"AdsEnabled": false,
 		"BannerEnabled": false,
 		"AppOpenEnabled": false,
-		"InterEnabled": true,
-		"RwdEnabled": true
+		"InterEnabled": false,
+		"RwdEnabled": false
 	},
 	"analyticsConfigs": {
 		"AppMatricaAnalyticsEnabled": true,
@@ -31,14 +31,14 @@
 	},
 	"adsRemoteSettings": {
 		"ShowInternetPopup": false,
-		"NextInterstitialDelay": 30,
+		"NextInterstitialDelay": 60,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
 	"gh_ConfigKeys": {
 		"appVersions_disabelAds": [
 			"0.1.1_X",
-			"0.2.2_X"
+			"0.2.2"
 		],
 		"configKeys": [
 			"ShowAd_LvlComplete_X",
@@ -56,6 +56,6 @@
 		]
 	},
 	"gameconfig": {
-		"ShowAdAfterLevel": 5
+		"ShowAdAfterLevel": 4
 	}
 }
