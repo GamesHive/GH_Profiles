@@ -54,6 +54,7 @@
 		]
 	},
 	"gameData": {
-		"ShowAdAftertasks": -1
+		"ShowAdAftertasks": -1,
+		"ShowAdOnDialog": false
 	}
 }
