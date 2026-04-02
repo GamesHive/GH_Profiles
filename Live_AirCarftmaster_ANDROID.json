@@ -3,7 +3,7 @@
 	"IntPriority": 1,
 	"RwdPriority": 1,
 	"IsTestAds": false,
-	"disableAds": false,
+	"disableAds": true,
 	"IsForFamily": false,
 	"IAP_Enabled": false,
 	"maxAdsBeforePaywall": 2,
@@ -30,14 +30,14 @@
 		"FirebaseAnalyticsEnabled": true
 	},
 	"adsRemoteSettings": {
-		"ShowInternetPopup": true,
-		"NextInterstitialDelay": 30,
+		"ShowInternetPopup": false,
+		"NextInterstitialDelay": 40,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
 	"gh_ConfigKeys": {
 		"appVersions_disabelAds": [
-			"0.1.1_X"
+			"0.1.1"
 		],
 		"configKeys": [],
 		"disableAds_countryInfos": [
@@ -52,7 +52,7 @@
 		]
 	},
 	"GameData": {
-		"ShowAdAftertasks": 0,
+		"ShowAdAftertasks": 2,
 		"IsMiniGameTileAd": false
 	}
 }
