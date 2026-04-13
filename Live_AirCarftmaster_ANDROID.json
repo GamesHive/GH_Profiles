@@ -10,7 +10,7 @@
 	"disableBanner": false,
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
-	"admobConfigs": {
+	"admobConfigs": {  
 		"AdsEnabled": true,
 		"BannerEnabled": true,
 		"UseAdmobCollapsible": false,
@@ -31,7 +31,7 @@
 	},
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
-		"NextInterstitialDelay": 60,
+		"NextInterstitialDelay": 80,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
