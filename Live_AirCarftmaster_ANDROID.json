@@ -53,6 +53,19 @@
 	},
 	"GameData": {
 		"ShowAdAftertasks": 4,
-		"IsMiniGameTileAd": false
+		"IsMiniGameTileAd": false,
+		"IsCutSceneAd": false,
+		"UIBtnsStateManager": {
+			"TaskMenuBtn": false,
+			"TaskMenuGearBtn": false,
+			"TaskMenuCoinBtn": false,
+			"TaskMenuBtnCloseBtn": false,
+			"CustomizeBtn": false,
+			"CustomizePartBtn": false,
+			"CustomizeMenuCloseBtn": false,
+			"MiniGameBtn": false,
+			"MiniGameMenuPlayBtn": false,
+			"MiniGameMenuCloseBtn": false
+		}
 	}
 }
