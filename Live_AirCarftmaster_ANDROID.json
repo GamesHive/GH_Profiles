@@ -30,14 +30,15 @@
 		"FirebaseAnalyticsEnabled": true
 	},
 	"adsRemoteSettings": {
-		"ShowInternetPopup": true,
+		"ShowInternetPopup": false,
 		"NextInterstitialDelay": 80,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
 	"gh_ConfigKeys": {
 		"appVersions_disabelAds": [
-			"0.1.1_X"
+			"0.1.1_X",
+			"0.2.2"
 		],
 		"configKeys": [],
 		"disableAds_countryInfos": [
@@ -52,7 +53,7 @@
 		]
 	},
 	"GameData": {
-		"ShowAdAftertasks": 4,
+		"ShowAdAftertasks": 3,
 		"IsMiniGameTileAd": false,
 		"IsCutSceneAd": false,
 		"UIBtnsStateManager": {
