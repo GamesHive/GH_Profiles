@@ -66,7 +66,8 @@
 			"CustomizeMenuCloseBtn": false,
 			"MiniGameBtn": false,
 			"MiniGameMenuPlayBtn": false,
-			"MiniGameMenuCloseBtn": false
+			"MiniGameMenuCloseBtn": false,
+			"MiniGameScrewClick": false	
 		}
 	}
 }
