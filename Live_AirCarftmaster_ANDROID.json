@@ -30,15 +30,15 @@
 		"FirebaseAnalyticsEnabled": true
 	},
 	"adsRemoteSettings": {
-		"ShowInternetPopup": false,
-		"NextInterstitialDelay": 80,
+		"ShowInternetPopup": true,
+		"NextInterstitialDelay": 60,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
 	"gh_ConfigKeys": {
 		"appVersions_disabelAds": [
 			"0.1.1_X",
-			"0.2.2"
+			"0.2.2_X"
 		],
 		"configKeys": [],
 		"disableAds_countryInfos": [
