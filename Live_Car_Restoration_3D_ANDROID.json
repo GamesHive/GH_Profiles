@@ -31,7 +31,7 @@
 	},
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
-		"NextInterstitialDelay": 30,
+		"NextInterstitialDelay": 40,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
@@ -54,7 +54,7 @@
 		]
 	},
 	"gameData": {
-		"ShowAdAftertasks": -1,
+		"ShowAdAftertasks": 2,
 		"ShowAdOnDialog": false,
 		"UIBtnsStateManager": {
 			"TaskMenuBtn": false,
