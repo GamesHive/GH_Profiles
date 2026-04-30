@@ -40,7 +40,7 @@
 	},
 	"adsRemoteSettings": {
 		"ShowInternetPopup": true,
-		"NextInterstitialDelay": 15,
+		"NextInterstitialDelay": 40,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
