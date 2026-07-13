@@ -2,8 +2,8 @@
 	"adPriority": 1,
 	"IntPriority": 0,
 	"RwdPriority": 0,
-	"IsTestAds": true,
-	"disableAds": false,
+	"IsTestAds": false,
+	"disableAds": true,
 	"IsForFamily": false,
 	"IAP_Enabled": false,
 	"maxAdsBeforePaywall": 2,
@@ -22,8 +22,8 @@
 		"AdsEnabled": false,
 		"BannerEnabled": false,
 		"AppOpenEnabled": false,
-		"InterEnabled": false,
-		"RwdEnabled": false
+		"InterEnabled": true,
+		"RwdEnabled": true
 	},
 	"analyticsConfigs": {
 		"AppMatricaAnalyticsEnabled": true,
