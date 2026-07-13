@@ -3,7 +3,7 @@
 	"IntPriority": 0,
 	"RwdPriority": 0,
 	"IsTestAds": false,
-	"disableAds": false,
+	"disableAds": true,
 	"IsForFamily": false,
 	"IAP_Enabled": false,
 	"maxAdsBeforePaywall": 2,
