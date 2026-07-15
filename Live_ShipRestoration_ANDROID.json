@@ -1,7 +1,7 @@
 {
 	"adPriority": 1,
-	"IntPriority": 0,
-	"RwdPriority": 0,
+	"IntPriority": 1,
+	"RwdPriority": 1,
 	"IsTestAds": false,
 	"disableAds": true,
 	"IsForFamily": false,
@@ -11,7 +11,7 @@
 	"refreshBannerByGH": false,
 	"bannerRefreshTime": 20,
 	"admobConfigs": {
-		"AdsEnabled": true,
+		"AdsEnabled": false,
 		"BannerEnabled": true,
 		"UseAdmobCollapsible": false,
 		"AppOpenEnabled": true,
@@ -30,8 +30,8 @@
 		"FirebaseAnalyticsEnabled": true
 	},
 	"adsRemoteSettings": {
-		"ShowInternetPopup": true,
-		"NextInterstitialDelay": 10,
+		"ShowInternetPopup": false,
+		"NextInterstitialDelay": 60,
 		"BannerRefreshRate": 10,
 		"MRecRefreshRate": 10
 	},
@@ -56,7 +56,7 @@
 		]
 	},
 	"GameData": {
-		"ShowAdAftertasks": 2,
+		"ShowAdAftertasks": 3,
 		"IsMiniGameTileAd": false,
 		"IsCutSceneAd": false,
 		"UIBtnsStateManager": {
